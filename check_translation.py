@@ -5,11 +5,12 @@ def check_translations():
     split_dir = 'chang/split/'
     placeholder = "*（此处填写翻译）*"
 
-    # We claim 1.md, 2.md, and 3.md are fully translated
+    # We claim 1.md through 4.md are fully translated
     translated_files = {
         "1.md": 133,
         "2.md": 115,
-        "3.md": 115
+        "3.md": 115,
+        "4.md": 171
     }
 
     found_errors = False
