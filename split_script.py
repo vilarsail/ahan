@@ -2,8 +2,8 @@ import os
 import re
 
 def split_text():
-    input_path = 'chang/origin/origin.txt'
-    output_dir = 'chang/split/'
+    input_path = 'zhong/origin/origin.txt'
+    output_dir = 'zhong/split/'
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -11,14 +11,14 @@ def split_text():
     with open(input_path, 'r', encoding='utf-8-sig') as f:
         lines = f.readlines()
 
-    # We are looking for "佛说长阿含经卷第"
+    # We are looking for "中阿含经卷第"
     # The requirement is:
-    # 1. Start with "佛说长阿含经卷第"
-    # 2. End with "佛说长阿含经卷第"
+    # 1. Start with "中阿含经卷第"
+    # 2. End with "中阿含经卷第"
     # 3. Keep start line, discard end line
     # 4. Discard prologue
 
-    vol_pattern = re.compile(r'佛说长阿含经卷第([一二三四五六七八九十百]+)')
+    vol_pattern = re.compile(r'中阿含经卷第([一二三四五六七八九十百]+)')
 
     current_vol_num = 0
     current_vol_content = []
