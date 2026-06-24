@@ -1,0 +1,1096 @@
+{
+  "1": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "2": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "3": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "4": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "5": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "6": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "7": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "8": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "9": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "10": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "11": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "12": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "13": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "14": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "15": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "16": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "17": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "18": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "19": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "20": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "21": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "22": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "23": {
+    "status": "部分缺失",
+    "description": "末尾偈颂引导语'尔时，世尊即说偈言'未翻译，且'此治众贤'应为'此真贤治疮'或'此治疮真贤'之省略，译文'众贤者治疗的方法'表述不够准确",
+    "is_fixed": true
+  },
+  "24": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "25": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "26": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "27": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "28": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "29": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "30": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "31": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "32": {
+    "status": "部分缺失",
+    "description": "原文末尾'或同死苦'后的内容未翻译完整，原文以引号结束但翻译缺少对应结尾，且'佛告诸比丘'后的引语在翻译中未闭合。",
+    "is_fixed": true
+  },
+  "33": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "34": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "35": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "36": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "37": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "38": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "39": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "40": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "41": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "42": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "43": {
+    "status": "翻译错误",
+    "description": "原偈是魔波旬的邪说，意为'常逼迫众生（的死亡），若得人间长寿，（使人）迷醉放逸，（让人）不走向死处（即不畏惧死亡）'。译文将'不向死处'理解为'不会走向死亡之处'，但结合魔波旬的立场，此处应是说'（使人）不趋向于了解死亡'或'不以死为意'，即让人放逸不惧死。更关键的是，译文添加了'若能获得'，原文无此假设义，且整体语气未能体现魔波旬以长寿诱使人放逸的诡辩意图。",
+    "is_fixed": true
+  },
+  "44": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "45": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "46": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "47": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "48": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "49": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "50": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "51": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "52": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "53": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "54": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "55": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "56": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "57": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "58": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "59": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "60": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "61": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "62": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "63": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "64": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "65": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "66": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "67": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "68": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "69": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "70": {
+    "status": "翻译错误",
+    "description": "'空舍'误译为'空寂的房舍'，应为'空舍（空屋/空室）'；'得出'误译为'解脱'，应为'出离/出去'；整体偈颂为魔波旬质问佛陀为何在空室中睡眠，译文偏离原意。",
+    "is_fixed": true
+  },
+  "71": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "72": {
+    "status": "翻译错误",
+    "description": "'一切有余尽'误译为'一切有漏烦恼都已除尽'，'有余'指'有余依'或'有余涅槃'，非'有漏烦恼'；'唯佛得安眠'主语错误，原意为'只有（证得）有余（涅槃）者才能安眠'，非'唯有佛陀'；整体理解有误。",
+    "is_fixed": true
+  },
+  "73": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "74": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "75": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "76": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "77": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "78": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "79": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "80": {
+    "status": "翻译错误",
+    "description": "第二句'于我前令碎'误译为'在我面前碎裂成尘'，原文是'令碎'（使……碎裂），是魔波旬想要让山碎裂，而非山已经碎裂；第三句'于佛等解脱'误译为'像佛一样解脱的人'，'等'应为'等同、同样'之意，此句意为'对于与佛同等的解脱者'；第五句'假令四海内'误译为'假使四海之内'，'假令'是'假使、即使'之意，但'四海内'应理解为'四海之内的（山地）'，译文表述尚可；第六句'放逸之亲族'误译为'那些放逸者的亲族'，此处'放逸之亲族'指魔波旬（魔为放逸者之亲族），译文未准确传达此指代关系",
+    "is_fixed": true
+  },
+  "81": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "82": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "83": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "84": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "85": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "86": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "87": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "88": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "89": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "90": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "91": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "92": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "93": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "94": {
+    "status": "部分缺失",
+    "description": "原文'化作年少，往住佛前'中'住'字未译，翻译作'来到佛面前站着'，但'住'有停留、站立之意，此处基本达意；另'洗足入室而坐'原文为'洗足入室'，多译'坐下'。整体基本正确，但'往住'的'住'字处理略有不足。",
+    "reviewed": true,
+    "review_note": "问题不成立/无需修复"
+  },
+  "95": {
+    "status": "翻译错误",
+    "description": "'为是后边故'译为'还是为了最后的边限'有误，'后边'应指'后世、来生'或'涅槃'，非'边限'；'多有钱财宝'是反问'难道有很多钱财宝物吗'，翻译语气处理不当，原意为'你并没有很多钱财，为何守空闲'。",
+    "is_fixed": true
+  },
+  "96": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "97": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "98": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "99": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "100": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "101": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "102": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "103": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "104": {
+    "status": "翻译错误",
+    "description": "「莫令自杀，出我境界去」误译为「不要让他自杀，使他出离我的境界去」，原意应为「不要让他自杀，（使他）出离我的境界去」，但魔波旬的本意是不让比丘自杀，以免其脱离魔的控制。翻译将「莫令自杀」与「出我境界去」的逻辑关系处理有误，「出我境界去」是魔波旬不愿看到的结果，而非目的。正确理解应为：「不要让他自杀，（若自杀则）出离我的境界去」，或调整语序使逻辑清晰。",
+    "is_fixed": true
+  },
+  "105": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "106": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "107": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "108": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "109": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "110": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "111": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "112": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "113": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "114": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "115": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "116": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "117": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "118": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "119": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "120": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "121": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "122": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "123": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "124": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "125": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "126": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "127": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "128": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "129": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "130": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "131": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "132": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "133": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "134": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "135": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "136": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "137": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "138": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "139": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "140": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "141": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "142": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "143": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "144": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "145": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "146": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "147": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "148": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "149": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "150": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "151": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "152": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "153": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "154": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "155": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "156": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "157": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "158": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "159": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "160": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "161": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "162": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "163": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "164": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "165": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "166": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "167": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "168": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "169": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "170": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "171": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "172": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "173": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "174": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "175": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "176": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "177": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "178": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "179": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "180": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "181": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "182": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "183": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "184": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "185": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "186": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "187": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "188": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "189": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "190": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "191": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "192": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "193": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "194": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "195": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "196": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "197": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "198": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "199": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "200": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "201": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "202": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "203": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "204": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "205": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "206": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "207": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "208": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "209": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "210": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "211": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "212": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "213": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "214": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "215": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "216": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "217": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "218": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "219": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "220": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "221": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "222": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "223": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "224": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "225": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "226": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "227": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "228": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "229": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "230": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "231": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "232": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "233": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "234": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "235": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "236": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "237": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "238": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "239": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "240": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "241": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "242": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "243": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "244": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "245": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "246": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "247": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "248": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "249": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "250": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "251": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "252": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "253": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "254": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "255": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "256": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "257": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "258": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "259": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "260": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "261": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "262": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "263": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "264": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "265": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "266": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "267": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "268": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "269": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "270": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "271": {
+    "status": "正确",
+    "description": "无问题"
+  }
+}

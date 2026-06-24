@@ -1,0 +1,691 @@
+{
+  "1": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "2": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "3": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "4": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "5": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "6": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "7": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "8": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "9": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "10": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "11": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "12": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "13": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "14": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "15": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "16": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "17": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "18": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "19": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "20": {
+    "status": "翻译错误",
+    "description": "原文中'有事遮罗迦外道者'、'有事外道出家者'等句中的'事'应理解为'侍奉、奉事、归依'，而非'信奉'；更严重的是，原文中各派人'咸作是念'的内容各不相同（遮罗迦外道者欲请遮罗迦道天，外道出家者等各欲请其各自之师），唯独'有事佛弟子僧者'心想'今当令佛面前僧，先作福田'。译文将所有人的心念都统一为'让佛陀面前的僧众先接受供养'，完全混淆了原文结构，属于严重误译。",
+    "is_fixed": true
+  },
+  "21": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "22": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "23": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "24": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "25": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "26": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "27": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "28": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "29": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "30": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "31": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "32": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "33": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "34": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "35": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "36": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "37": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "38": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "39": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "40": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "41": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "42": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "43": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "44": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "45": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "46": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "47": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "48": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "49": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "50": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "51": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "52": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "53": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "54": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "55": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "56": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "57": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "58": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "59": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "60": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "61": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "62": {
+    "status": "翻译错误",
+    "description": "关键句翻译错误。原文‘无有恶知识所作恶不念者’应理解为‘没有恶知识会不念（不记挂）自己所做的恶’或‘恶知识所做的恶，没有不念（不记挂）的’，译文‘没有恶知识（坏朋友）所造作的恶行是不被顾念的’语义不通且逻辑混乱；‘所不念不爱者，所不爱所作如其自为自己所作者’译文‘那些不被顾念、不被爱护的行为，其所产生的结果就像自己为自己所做的一样’理解有误，应为‘不被自己所念所爱，不被自己所爱而做的（事），就像自己为自己做的一样’，即恶行恶果自作自受。",
+    "is_fixed": true
+  },
+  "63": {
+    "status": "翻译错误",
+    "description": "关键句翻译错误。原文‘无有善友，于善友所作念者’应理解为‘没有善友，对于善友所做的事会不念(不记挂)的’或‘善友所做的，没有不念（不记挂）的’，译文‘没有善友（好朋友）所造作的善行是不被顾念的’语义不通；‘念作爱者，爱作如自为己所作者’译文‘那些被顾念、被爱护的行为，其所产生的结果就像自己为自己所做的一样’理解有误，应为‘念而作爱，爱而作，如同自己为自己所做’，即善行善果自得其利。",
+    "is_fixed": true
+  },
+  "64": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "65": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "66": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "67": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "68": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "69": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "70": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "71": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "72": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "73": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "74": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "75": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "76": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "77": {
+    "status": "部分缺失",
+    "description": "偈颂部分翻译不完整，原文中世尊说偈言的内容在译文中仅出现部分，且与段落78的偈颂重复，但段落77原文明确标注'尔时，世尊复说偈言'，译文未完整呈现此部分，或将偈颂内容错误地提前合并至段落77中，导致段落结构混乱",
+    "reviewed": true,
+    "review_note": "问题不成立/无需修复"
+  },
+  "78": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "79": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "80": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "81": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "82": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "83": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "84": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "85": {
+    "status": "部分缺失",
+    "description": "偈颂部分翻译不完整，原文偈颂为五言诗体，翻译仅作散文式意译，未完整呈现偈颂的诗歌形式，且'尔时，世尊复说偈言'之后的内容与原文偈颂对应关系不够严谨，但基本意思正确。",
+    "reviewed": true,
+    "review_note": "问题不成立/无需修复"
+  },
+  "86": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "87": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "88": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "89": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "90": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "91": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "92": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "93": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "94": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "95": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "96": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "97": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "98": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "99": {
+    "status": "部分缺失",
+    "description": "原文中'以无子、无亲属之财'被译为'因为由于他没有儿子也没有亲属'，但'以'字未准确译出，且'以无子、无亲属之财'整体是'以（之）为无子、无亲属之财'的意思，翻译略有偏差；'波斯匿王日日挍阅财物'中'挍阅'译为'清点查验'基本正确，但'以无子、无亲属之财'的句式结构翻译不够准确，'以'字处理有误",
+    "is_fixed": true
+  },
+  "100": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "101": {
+    "status": "部分缺失",
+    "description": "原文'有无子之财'译为'因为没有儿子'，遗漏了'之财'二字，未译出'无子之财'这一关键信息",
+    "is_fixed": true
+  },
+  "102": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "103": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "104": {
+    "status": "部分缺失",
+    "description": "原文'初不尝得上妙色、声、香、味、触'中'初'字未译出，'初'意为'始终、从来'，翻译中'从未尝得'虽意近但遗漏了'初'字的强调意味；另外'以自安身'的'以'字未明确译出",
+    "reviewed": true,
+    "review_note": "问题不成立/无需修复"
+  },
+  "105": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "106": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "107": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "108": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "109": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "110": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "111": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "112": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "113": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "114": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "115": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "116": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "117": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "118": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "119": {
+    "status": "翻译错误",
+    "description": "偈颂中'十六分之一'、'十六分之一也比不上'、'四分之一也比不上'存在逻辑错误。原文'十六分之一'是'不如正信佛'的十六分之一，即正信佛之福是大会福的十六倍；但后文'十六不及一'应理解为大会之福十六分不及彼福一分，即彼福是大会福的十六倍，翻译表述为'十六分之一也比不上'造成语义混乱。'四分不及一'同理，应理解为亿年福业四分不及直心敬礼一分，翻译'四分之一也比不上'同样逻辑颠倒。",
+    "is_fixed": true
+  },
+  "120": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "121": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "122": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "123": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "124": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "125": {
+    "status": "部分缺失",
+    "description": "遗漏了'若刹利、若婆罗门、若鞞舍、若首陀罗、若旃陀罗，持戒、犯戒，在家、出家'等身份类别的具体列举，仅概括为'很多人'，信息有缺失",
+    "is_fixed": true
+  },
+  "126": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "127": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "128": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "129": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "130": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "131": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "132": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "133": {
+    "status": "部分缺失",
+    "description": "原文中'波斯匿王恐怖狼狈'一句在翻译中被遗漏，仅译为'惊恐狼狈'前的部分，但'恐怖狼狈'作为关键状态描述未译出；另外'稽首佛足'译为'顶礼膜拜'虽大意可通，但'稽首'特指叩头至地的礼拜，'膜拜'泛化了原意。",
+    "is_fixed": true
+  },
+  "134": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "135": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "136": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "137": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "138": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "139": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "140": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "141": {
+    "status": "部分缺失",
+    "description": "遗漏了波斯匿王请求放还阿阇世王时'当放令还国'中的'当'字所表达的请求语气，以及'善友之子'前省略了'我'字；更关键的是，原文'载以同车'意为'让阿阇世王与自己同乘一车'，翻译为'将其装载在同一辆车上'表述不够准确，且未体现波斯匿王与阿阇世王同车的情节。",
+    "is_fixed": true
+  },
+  "142": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "143": {
+    "status": "翻译错误",
+    "description": "关键术语误译：'助怨在力增，倍收己他利'被严重误译。原偈意为'助长怨恨则力量增长，（但应）加倍收获自己和他人的利益'，是佛赞许波斯匿王放人的行为会带来利益；而翻译将'倍收己他利'理解为'加倍失去自己和他人的利益'，完全颠倒了原意，将利益说成了损失，逻辑完全相反。",
+    "is_fixed": true
+  },
+  "144": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "145": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "146": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "147": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "148": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "149": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "150": {
+    "status": "翻译错误",
+    "description": "佛陀转述对阿难说的话中，'莫作是语，半梵行者是善知识、善伴党，非恶知识、恶伴党'被误译为'不要这样说。半梵行者是善知识、善伴党，不是恶知识、恶伴党'，遗漏了关键的否定意味。原文'莫作是语'意为'不要这样说'，后面接的内容是阿难错误的观点，佛陀应当否定'半梵行者是善知识'这一说法，而非肯定。正确翻译应为'阿难！不要这样说。所谓纯一满净、梵行清白，才是善知识、善伴党'，原翻译将否定误作肯定，导致语义完全相反。",
+    "is_fixed": true
+  },
+  "151": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "152": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "153": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "154": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "155": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "156": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "157": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "158": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "159": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "160": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "161": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "162": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "163": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "164": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "165": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "166": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "167": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "168": {
+    "status": "正确",
+    "description": "无问题"
+  }
+}

@@ -1,0 +1,1202 @@
+{
+  "1": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "2": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "3": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "4": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "5": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "6": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "7": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "8": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "9": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "10": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "11": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "12": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "13": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "14": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "15": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "16": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "17": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "18": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "19": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "20": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "21": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "22": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "23": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "24": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "25": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "26": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "27": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "28": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "29": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "30": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "31": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "32": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "41": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "42": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "43": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "44": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "45": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "46": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "47": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "48": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "49": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "50": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "51": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "52": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "53": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "54": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "55": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "56": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "57": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "58": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "59": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "60": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "61": {
+    "status": "翻译错误",
+    "description": "原文'有道有向'是问'有道路有方向吗'，翻译中'通过修行和反复修习'为额外添加的内容，原文无此义；且'断此有身耶'是问'能断除这个有身吗'，翻译整体添加了未有的内容，属于过度翻译。",
+    "is_fixed": true
+  },
+  "62": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "63": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "64": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "65": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "66": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "67": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "68": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "69": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "70": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "71": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "72": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "73": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "74": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "75": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "76": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "77": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "78": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "79": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "80": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "81": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "82": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "83": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "84": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "85": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "86": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "87": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "88": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "89": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "90": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "91": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "92": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "93": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "94": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "95": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "96": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "97": {
+    "status": "翻译错误",
+    "description": "‘觉想者’误译为‘内心的觉知与想象’，此处‘觉想’应指‘觉知、忆念’，但更严重的是‘士夫欲’被译为‘凡夫的欲念’，‘士夫’在此应指‘智者、修行者’而非‘凡夫’；且‘非彼爱欲使，世间种种色’两句的语法关系处理有误，原文是‘并非爱欲驱使[人追求]世间种种色’，译文理解有偏差。",
+    "is_fixed": true
+  },
+  "98": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "99": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "100": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "101": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "102": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "103": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "104": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "105": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "106": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "107": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "108": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "109": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "110": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "111": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "112": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "113": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "114": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "115": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "116": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "117": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "118": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "119": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "120": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "121": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "122": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "123": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "124": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "125": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "126": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "127": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "128": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "129": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "130": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "131": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "132": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "133": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "134": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "135": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "136": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "137": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "138": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "139": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "140": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "141": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "142": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "143": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "144": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "145": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "146": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "147": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "148": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "149": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "150": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "151": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "152": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "153": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "154": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "155": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "156": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "157": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "158": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "159": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "160": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "161": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "162": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "163": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "164": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "165": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "166": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "167": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "168": {
+    "status": "翻译错误",
+    "description": "原文为'有身灭涅槃'，翻译误作'有识灭涅槃'，关键术语错误；'frequent 天雨'混入英文，应为'频降天雨'或'多次天雨'",
+    "is_fixed": true
+  },
+  "169": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "170": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "171": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "172": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "173": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "174": {
+    "status": "部分缺失",
+    "description": "原文中'若觉其心于彼远离，顺趣浚注'的'顺趣浚注'翻译为'顺趣于流注（趋向解脱）'，但后文'流注浚输'又翻译为'流注输送（趋向解脱）'，两处对'浚'字的处理不一致；更关键的是，原文'谓我思惟已'中的'谓'字被译为'认为'，但此处'谓'应为'能令'或'使'之意，表示结果，而非主观'认为'，属于关键术语理解偏差。此外，'则能堪任自记'的'堪任'译为'堪任'正确，但整句'则能堪任自记'的语序和语义处理不够准确，'自记'即'自我记别'的翻译正确。主要问题在于'谓'字的误译。",
+    "is_fixed": true
+  },
+  "175": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "176": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "177": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "178": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "179": {
+    "status": "部分缺失",
+    "description": "原文末尾'即成地不异'后的引号闭合及段落结束未完整呈现，翻译在'没有差异'后缺少句号或引号闭合的对应，且原文'不异'多次出现，翻译处理基本正确但末尾标点对应不够完整",
+    "is_fixed": true
+  },
+  "180": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "181": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "182": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "183": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "184": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "185": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "186": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "187": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "188": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "189": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "190": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "191": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "192": {
+    "status": "部分缺失",
+    "description": "原文末尾'如己输税'的比喻，翻译中虽有'就像自己欠了税债一样'，但前面'我今自知'的'知'所对应的内容——即认识到争执不休的过患——在翻译中表述为'我现在自己知道了'，语气稍弱；更关键的是，原文'如己输税'是比喻自己主动承担、不推诿，翻译为'欠了税债'略有偏差，但基本可接受。不过主要问题在于原文'是名比丘于所起罪能自观察'是总结句，翻译正确。再仔细核对：'我不类'翻译为'不类'未译出，应为'不像样/不适当'之意，此处直译'不类'不够准确，但更严重的是'如己输税'的翻译'欠了税债'与原文'输税'（缴纳赋税，即承担责任）有偏差，'输'是缴纳而非亏欠。整体可算部分缺失或轻微错误，但'不类'未译出、'输税'误译，综合判断为部分缺失。",
+    "is_fixed": true
+  },
+  "193": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "194": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "195": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "196": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "197": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "198": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "199": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "200": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "201": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "202": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "203": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "204": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "205": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "206": {
+    "status": "翻译错误",
+    "description": "‘我真不变悔’误译为‘我确实不应该产生悔恨’，原意为‘我确实不因此改变悔恨’或‘我确实不因此悔恨’，‘不变悔’是‘不因此产生悔恨’而非‘不应该产生悔恨’。",
+    "is_fixed": true
+  },
+  "207": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "208": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "209": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "210": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "211": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "212": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "213": {
+    "status": "部分缺失",
+    "description": "遗漏了'欲断不善法，欲修善法'中'欲'字的翻译，原文此处'欲'为重要动词，翻译中未体现；'沙门利、沙门欲'翻译为'沙门的利益、沙门的愿望'，但'欲'字在此处更准确的翻译应为'欲求'或'目标'",
+    "is_fixed": true
+  },
+  "214": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "215": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "216": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "217": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "218": {
+    "status": "部分缺失",
+    "description": "原文中'不舍远离'在翻译中作'不舍弃远离之道'，但后文'心存远离'前漏译'不舍'二字；原文'勤修自省'在译文中出现，但前面'尊崇涅槃'在第二次列举时作'志求涅槃'，虽义近但用词不同；整体基本正确但存在细微遗漏",
+    "is_fixed": true
+  },
+  "219": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "220": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "221": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "222": {
+    "status": "翻译错误",
+    "description": "'如是我闻'是佛经固定术语，应译为'如是我闻'或'我听说如此'，'像这样我听说'不符合佛经惯例，且'如是'指代佛所说之法，非泛指的'这样'",
+    "is_fixed": true
+  },
+  "223": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "224": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "225": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "226": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "227": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "228": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "229": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "230": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "231": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "232": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "233": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "234": {
+    "status": "部分缺失",
+    "description": "原文中'世尊是等正觉'之后的内容（即国王边城比喻及三世诸佛断除五盖等完整内容）在原文中并不存在，此段翻译实际混合了段落235的内容。单看本段原文，翻译存在严重错位，将后续段落内容提前翻译。但按原文核对，本段翻译内容远超原文范围，属于错误拼接。",
+    "is_fixed": true
+  },
+  "235": {
+    "status": "翻译错误",
+    "description": "翻译内容完全错位。原文是舍利弗说的长段法语（国王边城比喻及三世诸佛断除五盖等），但翻译变成了'佛告诉舍利弗'的内容，且内容简短，与原文完全不符。实际是将段落236的内容错误放置于此。",
+    "is_fixed": true
+  },
+  "236": {
+    "status": "翻译错误",
+    "description": "翻译内容完全错位。原文是佛对舍利弗的印可之语（'如是，如是...'），但翻译变成了'佛说这部经已...欢喜奉行'，这是经文结尾的套语。实际是将段落237的内容错误放置于此。",
+    "is_fixed": true
+  },
+  "237": {
+    "status": "翻译错误",
+    "description": "翻译内容完全错位。原文是'佛说是经已，尊者舍利弗闻佛所说，欢喜奉行'，但翻译变成了'（四九九）'，这是经号。实际是将段落238的内容错误放置于此。",
+    "is_fixed": true
+  },
+  "238": {
+    "status": "翻译错误",
+    "description": "翻译内容完全错位。原文是'（四九九）'经号，但翻译变成了'如是我闻：'，这是经首套语。实际是将段落239的内容错误放置于此。",
+    "is_fixed": true
+  },
+  "239": {
+    "status": "翻译错误",
+    "description": "翻译内容完全错位。原文是'如是我闻：'经首套语，但翻译变成了'一时，佛住在王舍城...'，这是后续内容。实际是将段落240的内容错误放置于此。",
+    "is_fixed": true
+  },
+  "240": {
+    "status": "翻译错误",
+    "description": "翻译内容完全错位。原文是'一时，佛住王舍城迦兰陀竹园。尔时，尊者舍利弗在耆阇崛山中。'，但翻译变成了'（五〇〇）'经号。此内容在段落中完全找不到对应。",
+    "is_fixed": true
+  },
+  "241": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "242": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "243": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "244": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "245": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "246": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "247": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "248": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "249": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "250": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "251": {
+    "status": "翻译错误",
+    "description": "原文'火烧未烧者'意为'火焚烧尚未被烧的东西'，翻译误作'火已经烧过的东西'，逻辑完全相反",
+    "is_fixed": true
+  },
+  "252": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "253": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "254": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "255": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "256": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "257": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "258": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "259": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "260": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "261": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "262": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "263": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "264": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "273": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "274": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "275": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "276": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "277": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "278": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "279": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "280": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "281": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "282": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "283": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "284": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "285": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "286": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "287": {
+    "status": "翻译错误",
+    "description": "原文是尊者目揵连回应尊者舍利弗说'我完全听不到您的喘息声'，但按上下文逻辑，应是舍利弗对目揵连说'我都不闻汝喘息之声'，即'我完全听不到你的喘息声'。翻译将说话对象颠倒，把'汝'（你）译成了'您'，导致语义变成目揵连说听不到舍利弗的喘息声，与原文逻辑不符。实际上这是舍利弗对目揵连说的话，被目揵连引用或转述。",
+    "is_fixed": true
+  },
+  "288": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "289": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "290": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "291": {
+    "status": "翻译错误",
+    "description": "原文'安坐而坐'误译为'安然端坐'，'安坐'应为'安然坐着'之意，且'truly'为英文混入，属严重错误；'色味悉同'译为'颜色和质地'不够准确，'味'应指'性质、本质'而非'质地'",
+    "is_fixed": true
+  },
+  "292": {
+    "status": "翻译错误",
+    "description": "原文'为第二伴'译为'成为您的第二位伴侣'有误，'第二伴'是目犍连自谦之语，意为'成为第二位的同伴'或'忝为伴侣'，并非指'第二位伴侣'",
+    "is_fixed": true
+  },
+  "293": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "294": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "33": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "34": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "35": {
+    "status": "翻译错误",
+    "description": "\"道\"和\"向\"是佛教专用术语，分别指通向涅槃的道谛和向涅槃趋近的修行阶位，译为\"道路和方向\"严重误译，应译为\"道\"和\"向\"",
+    "is_fixed": true
+  },
+  "36": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "37": {
+    "status": "翻译错误",
+    "description": "\"正士\"在佛教语境中专指修行正法的圣者或贤人，译为\"正直的士人\"丢失了佛教术语的特定含义",
+    "is_fixed": true
+  },
+  "38": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "39": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "40": {
+    "status": "翻译错误",
+    "description": "\"道\"和\"向\"是佛教专用术语，分别指通向涅槃的道谛和向涅槃趋近的修行阶位，译为\"道路和方向\"严重误译，应译为\"道\"和\"向\"",
+    "is_fixed": true
+  },
+  "265": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "266": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "267": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "268": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "269": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "270": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "271": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "272": {
+    "status": "正确",
+    "description": "无问题"
+  }
+}

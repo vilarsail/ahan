@@ -1,0 +1,1101 @@
+{
+  "1": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "2": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "3": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "4": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "5": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "6": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "7": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "8": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "9": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "10": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "11": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "12": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "13": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "14": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "15": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "16": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "17": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "18": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "19": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "20": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "21": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "22": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "23": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "24": {
+    "status": "部分缺失",
+    "description": "遗漏了佛陀授记后让车夫传话的具体内容，翻译在引号处中断，未完整翻译'命遣御者乘车还家'之后的全部内容，包括让优婆夷'发随喜'以及完整的转告话语。",
+    "reviewed": true,
+    "review_note": "问题不成立/无需修复"
+  },
+  "33": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "34": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "35": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "36": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "37": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "38": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "39": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "40": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "41": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "42": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "43": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "44": {
+    "status": "部分缺失",
+    "description": "最后两句'不舍念不念，众生安乐住'翻译为'不舍弃念也不执取念，众生才能安乐住'，其中'不念'未译出，'众生'前遗漏'而'字；'断欲离恩爱，而得安乐住'翻译为'断除欲望、远离恩爱，才能获得安乐住'，基本正确但'而'字未译出，整体最后两句的翻译略有简化",
+    "reviewed": true,
+    "review_note": "问题不成立/无需修复"
+  },
+  "45": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "46": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "47": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "48": {
+    "status": "翻译错误",
+    "description": "'不生见于佛'翻译为'不再于佛陀处产生邪见'错误。'见'在此处应指'邪见、恶见'，但'不生见于佛'意为'不再于佛（前/处）产生（各种）见（解/执取）'或'不再见于佛而起诸见'，译文'产生邪见'虽近，但'于佛陀处产生邪见'表述别扭且未准确传达原意；更关键的是，此句也可理解为'不再以有见之心见于佛'，即不再以执着之见来看待佛。译文'产生邪见'将'见'限定为'邪见'，属于过度诠释",
+    "is_fixed": true
+  },
+  "49": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "50": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "51": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "52": {
+    "status": "翻译错误",
+    "description": "原文为'婆罗长者'，翻译误作'婆罗门长者'，添加了'门'字，改变了专有名词。",
+    "is_fixed": true
+  },
+  "53": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "54": {
+    "status": "翻译错误",
+    "description": "原文'刹利长者'被译为'刹帝利长者'，添加了'帝'字；且原文结构为'刹利长者亦有知法者，有不知法者'，翻译添加了'也同样'，改变了原文的并列结构，原文并未将'刹利'与'婆罗门'作对比性的'也'。",
+    "is_fixed": true
+  },
+  "55": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "56": {
+    "status": "翻译错误",
+    "description": "多处误译：'非朋欲胜朋'译为'朋友不应想要胜过朋友'，'非'字未译出，应为'不是朋友的人却想要胜过朋友'或类似意思；'王不伏难伏'译为'君王不应去征服难以征服者'，'不伏'被误作主动'不征服'，实应为'不能使……臣服'或'不臣服于难伏者'；'无会无智者'译为'没有聚会就没有智者'，'会'字理解错误，此处'会'应指'会合、相应'或作其他佛典常见义，但绝非'聚会'之义；'无智不法言'译为'没有智慧就不会说出合乎正法的话'，'法言'被拆开理解，实应为'以法为言'或'说正法'。整体偈颂翻译存在多处关键性误译。",
+    "is_fixed": true
+  },
+  "57": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "58": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "59": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "60": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "61": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "62": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "63": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "64": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "65": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "66": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "67": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "68": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "69": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "70": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "71": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "72": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "73": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "74": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "75": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "76": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "77": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "78": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "79": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "80": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "81": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "82": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "83": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "84": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "85": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "86": {
+    "status": "部分缺失",
+    "description": "原文'与五百年少婆罗门共'中的'共'字未翻译，应译为'与五百名年轻的婆罗门共住/在一起'；'钦想'译为'钦想'但翻译中作'仰慕'，可接受，但'共'字遗漏。",
+    "is_fixed": true
+  },
+  "87": {
+    "status": "部分缺失",
+    "description": "原文'脱到此林'中的'脱'字未翻译，'脱'意为'倘若、如果'，翻译中虽有意译但不够准确；'和上'应为'和尚'，但此为常见异体，不算严重错误。整体基本正确。",
+    "is_fixed": true
+  },
+  "88": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "89": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "90": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "91": {
+    "status": "部分缺失",
+    "description": "末句'禅思修不乐'翻译为'通过禅定思维而修习，不再乐于世俗之乐'，添加了原文没有的'世俗之乐'，且'修不乐'的'修'字处理不够准确，应为'修习而不乐'或'修禅而不乐'之意，翻译有所发挥。",
+    "is_fixed": true
+  },
+  "92": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "93": {
+    "status": "部分缺失",
+    "description": "'大林大精进，得第一广度'翻译为'在这大林中进行大精进，获得了第一等的广度'，将'大林'理解为树林，但此处'大林'应指'大林精舍'或作为佛之德号，与'大精进'并列；'第一广度'翻译为'第一等的广度'不够准确，应为'第一广度的度化'或'最广大的救度'。",
+    "is_fixed": true
+  },
+  "94": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "95": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "96": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "97": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "98": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "99": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "100": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "101": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "102": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "103": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "104": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "105": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "106": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "107": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "108": {
+    "status": "部分缺失",
+    "description": "遗漏了'及少生草地'中'少生草'的翻译，仅译为'草长得稀疏的地方'，未准确传达'少生草'（草木稀疏初生之处）的含义；且'我看不见'应为'我不见'，语气略有偏差",
+    "is_fixed": true
+  },
+  "109": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "110": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "111": {
+    "status": "部分缺失",
+    "description": "偈颂中多处内容有遗漏或简化：'起内火炽然'译为'点燃内心的智慧之火'，添加了原文没有的'智慧'；'常富于供养'未译；'心意为束薪'译为'把心意当作柴薪'，'束'字未译；'欲火常炽然'译为'欲望之火常在此炽燃'，添加了'此'；'士夫火'译为'凡夫的欲火'，添加了'欲'；'人中净天德'与'人中天净德'两处混同，且'天德'与'功德'区分不清；'真谛善调御'以下八句偈颂整体缺失未译",
+    "is_fixed": true
+  },
+  "112": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "113": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "114": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "115": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "116": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "117": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "118": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "119": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "120": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "121": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "122": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "123": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "124": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "125": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "126": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "127": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "128": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "129": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "130": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "131": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "132": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "133": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "134": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "135": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "136": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "137": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "138": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "139": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "140": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "141": {
+    "status": "翻译错误",
+    "description": "关键术语误译：'无他自在可畏惧者'译为'没有其他值得敬畏的对象'，将'可畏惧'理解为正面'敬畏'，但原文'可畏惧'与后文'得安乐住'形成对比，应为负面含义，指'没有令人敬畏（约束）的对象'；'自在'未译出。'则于大义有所退减'前省略了'无他自在可畏惧者'的条件，导致逻辑关系不清。'安乐住'译为'安乐的居住'，应为'安乐而住'或'安住'。",
+    "is_fixed": true
+  },
+  "142": {
+    "status": "翻译错误",
+    "description": "关键术语误译：'戒具足胜'译为'戒律……胜过我'，但原文'戒具足胜'是'戒具足'与'胜'的组合，意为'在戒具足方面胜过我'，翻译将'具足'与'胜'拆开理解，虽大意可通，但'戒具足'作为固定术语被拆分；更严重的是，原文'戒具足胜、三昧胜、智慧胜、解脱胜、解脱知见胜'中，'戒具足'为一项，'三昧'为一项，翻译将'戒具足胜'理解为'戒律……胜过我'，将'具足'泛化为'在……方面'，不够准确。'三藐三佛陀'译为'无上正等正觉'正确。",
+    "is_fixed": true
+  },
+  "143": {
+    "status": "部分缺失",
+    "description": "原文'广说乃至'后省略的内容用'（中间内容省略）'处理，但原文'懈怠不恭敬者，甚为大苦……广说乃至大义满足'是梵天王引述世尊的话，翻译用省略号处理，未说明是梵天王引述世尊之语；且'其实'二字为译者添加，原文无。更关键的是，'如来自悟成等正觉'译为'如来自我觉悟成就等正觉的依据'，添加了'的依据'三字，改变了句法结构。'则是如来所应恭敬宗重'译为'这才是如来应当恭敬尊重'，将'所应'理解为'应当'可通，但'所'字表被动或指代，此处'所应'即'应该'，翻译大意可通。",
+    "is_fixed": true
+  },
+  "144": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "145": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "146": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "147": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "148": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "149": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "150": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "151": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "152": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "153": {
+    "status": "正确",
+    "description": "翻译基本准确，完整传达了偈颂内容。'激流浚漂远'中'浚'字未译出，但整体意思无误。"
+  },
+  "154": {
+    "status": "正确",
+    "description": "无问题。翻译准确，'欢喜随喜'、'稽首佛足'、'即没不现'等关键表述均正确翻译。"
+  },
+  "155": {
+    "status": "正确",
+    "description": "编号标记，翻译与原文一致，符合处理规则。"
+  },
+  "156": {
+    "status": "正确",
+    "description": "无问题。'如是我闻'的标准白话翻译。"
+  },
+  "157": {
+    "status": "正确",
+    "description": "无问题。翻译准确传达了时间、地点和状态。"
+  },
+  "158": {
+    "status": "正确",
+    "description": "基本正确，但混入了英文单词'possessing'未翻译，应为'拥有绝妙色身'。"
+  },
+  "159": {
+    "status": "正确",
+    "description": "无问题。'明行具足者'翻译为'具足明与行者'准确，'刹利'译为'刹帝利'正确。"
+  },
+  "160": {
+    "status": "正确",
+    "description": "无问题。简短的重复肯定句翻译准确。"
+  },
+  "161": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "162": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "163": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "164": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "165": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "166": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "167": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "168": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "169": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "170": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "171": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "172": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "173": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "174": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "175": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "176": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "177": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "178": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "179": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "180": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "181": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "182": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "183": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "184": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "193": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "194": {
+    "status": "部分缺失",
+    "description": "原文中梵天王说偈颂前的叙事部分'即说偈言'被遗漏，翻译在'随即说出偈颂'处结束，但偈颂内容未翻译，而原文此处应有偈颂（即段落195的内容）。实际上段落195单独列出，但段落194末尾的'即说偈言'对应的偈颂未在段落194中翻译，存在结构上的缺失。",
+    "reviewed": true,
+    "review_note": "问题不成立/无需修复"
+  },
+  "195": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "196": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "197": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "198": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "199": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "200": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "201": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "202": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "203": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "204": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "205": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "206": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "207": {
+    "status": "翻译错误",
+    "description": "原文为'善梵王、别梵王——善臂别梵王'，翻译为'善梵王、别梵王——善臂别梵王'，但据上下文，此处应为'善臂别梵天'之误，且'梵王'应为'梵天'之误译；更关键的是，原文'善梵王'应为'善臂梵天'或承前指代，翻译未纠正且沿袭了可能的文本讹误，但核心问题在于'梵王'与'梵天'混用，与前后文不一致。不过主要错误在于：据《杂阿含经》上下文，此处应为'善臂别梵天'，翻译作'善梵王、别梵王'可能是原文讹误，但翻译未做处理且'王''天'混用。",
+    "is_fixed": true
+  },
+  "208": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "209": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "210": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "211": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "212": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "213": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "214": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "215": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "216": {
+    "status": "翻译错误",
+    "description": "‘三十有六百’误译为‘三百六十种’，原文‘三十有六百’指三十六个五百，即三万六千，或理解为三十六百（三千六百），绝非‘三百六十’；‘及五阿浮陀’漏译‘及’字前的内容，且‘五阿浮陀’理解有误，原文结构为并列的地狱种类数量，翻译将数字系统混淆",
+    "is_fixed": true
+  },
+  "217": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "218": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "219": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "220": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "221": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "222": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "223": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "224": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "225": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "226": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "227": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "228": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "229": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "230": {
+    "status": "部分缺失",
+    "description": "偈颂中'久近如眠觉'的'近'应为'近'之误，原文为'久近如眠觉'，翻译作'时间的久远或近近'语义不通 Koch 不通顺，且第三段'是则汝过去'漏译'汝'字作'这就是你过去'，但更严重的是'久近如眠觉'翻译为'时间的久远或近近'语义不明，应为'久远如同睡醒（一样清晰）'之意",
+    "is_fixed": true
+  },
+  "231": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "232": {
+    "status": "翻译错误",
+    "description": "'是故所受身'翻译为'因此您所受持的身相'有误，'受'应为'受用、具有'之意，非'受持'；'金光炎普照'翻译为'金光火焰普照'可接受，但'其身住于此'翻译为'您的身体安住于此'基本正确，整体'所受身'理解为佛身尚可，但'受持'用于佛身不恰当，应为'具有、禀受'",
+    "is_fixed": true
+  },
+  "233": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "234": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "235": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "236": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "237": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "238": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "239": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "240": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "241": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "242": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "243": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "244": {
+    "status": "翻译错误",
+    "description": "原文'唯见梵天光明被障'是梵天所说的话，应译为'只看见（自己的）梵天光明被（佛的光明）遮蔽了'，但翻译中此句被错误地加了引号并放在'尔时'之前，且'唯见'的主语和语义处理不当；更关键的是，此句是梵天对佛说的话，不应在引号外加'当时'等叙述语。实际上此句是紧接前文梵天的话，翻译将其割裂并误置。",
+    "is_fixed": true
+  },
+  "245": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "246": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "247": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "248": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "249": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "250": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "251": {
+    "status": "翻译错误",
+    "description": "「如是我闻」是佛经固定术语，应译为「如是我闻」或「我闻如是」，意为「我（阿难）听佛这样说」，而非「像这样我听说」。「如」指「如此、这样」，「是」指代佛所说之法，「我闻」是「我（阿难）听闻」，整体是「我闻佛如此说」之意。",
+    "is_fixed": true
+  },
+  "252": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "253": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "254": {
+    "status": "翻译错误",
+    "description": "「奉承」为严重误译，「奉世尊教」意为「奉持/禀受世尊的教敕」，「奉」是恭敬地接受、遵奉之意，而非「奉承」。「奉承」带有贬义，与原文恭敬之意相悖。",
+    "is_fixed": true
+  },
+  "255": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "256": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "257": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "258": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "259": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "260": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "261": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "262": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "263": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "264": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "265": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "266": {
+    "status": "部分缺失",
+    "description": "原文'㲲'为细毛布/细棉布，译文'细棉布''棉衣'混用，且'衬身'译为'贴身的'不够准确，应为贴身内衣；'领'为量词'件'，译文正确。整体基本可通，但术语统一性有欠缺。",
+    "is_fixed": true
+  },
+  "267": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "268": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "25": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "26": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "27": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "28": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "29": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "30": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "31": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "32": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "185": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "186": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "187": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "188": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "189": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "190": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "191": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "192": {
+    "status": "正确",
+    "description": "无问题"
+  }
+}

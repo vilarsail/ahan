@@ -1,0 +1,855 @@
+{
+  "1": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "2": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "3": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "4": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "5": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "6": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "7": {
+    "status": "翻译错误",
+    "description": "原文是问句，意为'什么是调伏悭垢、见到殊胜（的果报），而你却说（此偈）'，翻译将'而汝说言'理解为'而你却说'，但把前面的问句结构处理成了陈述句，且'见于殊胜'被误译为'见到殊胜果报'作为问句内容，整体逻辑关系错误。原文是问对方为何这样说，翻译变成了问'什么是...而你却说'，语义不通。",
+    "reviewed": true,
+    "review_note": "问题不成立/无需修复"
+  },
+  "8": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "9": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "10": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "11": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "12": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "13": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "14": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "15": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "16": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "17": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "18": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "19": {
+    "status": "翻译错误",
+    "description": "原文'新成未久'被翻译为'newly 建成不久'，混入英文'newly'，属于翻译错误。",
+    "is_fixed": true
+  },
+  "20": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "21": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "22": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "23": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "24": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "25": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "26": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "27": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "28": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "29": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "30": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "31": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "32": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "33": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "34": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "35": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "36": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "37": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "38": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "39": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "40": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "41": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "42": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "43": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "44": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "45": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "46": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "47": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "48": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "49": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "50": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "51": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "52": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "53": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "54": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "55": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "56": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "57": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "58": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "59": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "60": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "61": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "62": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "63": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "64": {
+    "status": "翻译错误",
+    "description": "原文'如是众生受如此身'意为'这样的众生承受这样的身体（果报）'，翻译为'遭受如此的身体'基本可通，但'yet'为英文未译全；更严重的是，原文'故发微笑'的'故'表因果，指因见众生苦而微笑，此微笑实为悲悯之笑，但翻译将'yet'混入且整体语义因英文残留受损，属于翻译错误。",
+    "is_fixed": true
+  },
+  "65": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "66": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "67": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "68": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "69": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "70": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "71": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "72": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "73": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "74": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "75": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "76": {
+    "status": "部分缺失",
+    "description": "原文中'我声闻中住实眼、实智、实义、实法，决定通达'的'住'字未译出，应为'安住于'或'具有'之意；'大目揵连'的'揵'字原文如此，翻译作'犍'是常见异体字，不算错误，但'住'字遗漏使语义略有缺失。",
+    "reviewed": true,
+    "review_note": "问题不成立/无需修复"
+  },
+  "77": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "78": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "79": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "80": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "81": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "82": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "83": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "84": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "85": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "86": {
+    "status": "部分缺失",
+    "description": "「住实眼、实智、实义、实法，决定通达」翻译为「拥有真实的慧眼、真实的智慧、真实的义理、真实的法义，能够决定通达」基本正确，但原文「我声闻中」未明确译出「弟子」之意，且「见是众生」的主语承前省略，翻译中「看见这位众生的（只有大目犍连）」为添加内容，虽符合文意但属增译；更关键的是「已百千岁堕地狱中受无量苦」中「已百千岁」被译为「已经在地狱中堕落了百千岁」，将「已」理解为「已经」尚可，但「百千岁」是时间状语，整体翻译基本可通。然而最核心遗漏是「缘斯罪故」的「缘」字未译出「因为」之意，「缘斯罪故」即「因为这个罪业的缘故」，翻译中「因为这个罪业」虽隐含此意，但「缘」字未显译。不过整体而言，主要问题在于「我声闻中」的「中」字未译出「之中」的意思，以及部分增译。综合判断为部分缺失。",
+    "reviewed": true,
+    "review_note": "问题不成立/无需修复"
+  },
+  "87": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "88": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "97": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "98": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "99": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "100": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "101": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "102": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "103": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "104": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "105": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "106": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "107": {
+    "status": "部分缺失",
+    "description": "原文开头有'乃至尊者大目犍连'，翻译为'尊者大目犍连'，遗漏了'乃至'一词的翻译；原文'射诸禽兽'翻译为'射杀各种禽兽'，基本正确但'诸'字未逐字对应，整体影响不大",
+    "is_fixed": true
+  },
+  "108": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "109": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "110": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "111": {
+    "status": "翻译错误",
+    "description": "原文'乃至我于路中见一大身众生'中的'我'是指大目犍连（承前省略），但此段是佛陀所说经文的叙述，实际应为'乃至大目犍连'或理解为大目犍连所见；更关键的是，原文'如大目犍连所见'表明前面'我'是大目犍连的自称，翻译将'我'直接译为'我'未说明是大目犍连，且未翻译'乃至'一词。此外，原文'䂎杀群猪'的'䂎'是名词作动词用，翻译为'用矛刺杀'基本正确，但'乃至'的省略处理不当",
+    "is_fixed": true
+  },
+  "112": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "113": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "114": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "115": {
+    "status": "翻译错误",
+    "description": "原文'乃至我于路中'、'乃至佛告诸比丘'中的'乃至'是承上启下的省略用语，表示中间有省略内容，翻译未体现此义；更严重的是，原文主语是大目犍连（'我'），但翻译中'我在路上看见'虽保留，却未说明这是大目犍连的视角，且'constantly'混入英文，属于严重翻译错误。",
+    "is_fixed": true
+  },
+  "116": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "117": {
+    "status": "翻译错误",
+    "description": "原文'如断人头，捉头亦如是'是简略句，意为'如同砍断人头（的果报），捉拿人头（的果报）也是如此'，即两种罪行果报相同。但翻译将'捉头'误解为'捉拿人头的人'，理解为行为主体而非行为本身，且添加'那些''果报'等词进行过度发挥，偏离原意。",
+    "is_fixed": true
+  },
+  "118": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "119": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "120": {
+    "status": "部分缺失",
+    "description": "原文'已地狱中受无量苦'缺少'百千岁'或类似时间词（对比段落115'已百千岁堕地狱中'），但翻译擅自添加'地狱的罪报受完后还有余罪'来解释'地狱余罪'，此处理解基本正确；然而原文'已地狱中'前疑有省略，翻译未体现'乃至'的省略含义。主要问题是'伪器欺人'翻译为'制造伪劣器具欺骗世人'基本正确，但整体对'乃至'的省略处理仍有不足。",
+    "reviewed": true,
+    "review_note": "问题不成立/无需修复"
+  },
+  "121": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "122": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "123": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "124": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "125": {
+    "status": "部分缺失",
+    "description": "原文开头'乃至路中'前的'乃至'表示省略，但翻译中'……'的位置不当，且遗漏了'乃至'前的省略内容标记；更严重的是，原文'如大目犍连所见'被译为'就像大目犍连所看见的那样'，但原文此处是佛陀引用目犍连所见来证明，翻译基本正确。主要问题是'乃至'前的内容被完全省略未译，用'……'代替，属于部分缺失。",
+    "is_fixed": true
+  },
+  "126": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "127": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "128": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "129": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "130": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "131": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "132": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "133": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "134": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "135": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "136": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "137": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "138": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "139": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "140": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "141": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "142": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "143": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "144": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "145": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "146": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "147": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "148": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "149": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "150": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "151": {
+    "status": "翻译错误",
+    "description": "原文'以然灯油洒王身上'中'然'通'燃'，意为'燃烧'，翻译为'点燃的灯油'正确；但'hell'为英文混入，应为'地狱'，属于关键术语错误。另外'当受持之'翻译为'受持铭记'虽可接受，但'hell'的错误更为严重。",
+    "is_fixed": true
+  },
+  "152": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "153": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "154": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "155": {
+    "status": "翻译错误",
+    "description": "翻译中混入了英文单词“hell（地狱）”，属于明显的翻译失误，应统一使用中文“地狱”",
+    "is_fixed": true
+  },
+  "156": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "157": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "158": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "159": {
+    "status": "翻译错误",
+    "description": "翻译中混入了英文单词“hell（地狱）”，属于明显的翻译失误，应统一使用中文“地狱”",
+    "is_fixed": true
+  },
+  "160": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "161": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "162": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "163": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "164": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "165": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "166": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "167": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "168": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "169": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "170": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "171": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "172": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "173": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "174": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "175": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "176": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "177": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "178": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "179": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "180": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "181": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "182": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "183": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "184": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "185": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "186": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "187": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "188": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "189": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "190": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "191": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "192": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "193": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "194": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "195": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "196": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "197": {
+    "status": "部分缺失",
+    "description": "原文中“身身观念处，受、心、法法观念处”的重复字眼（身身、法法）在翻译中被简化遗漏，未完全体现原文对观身如身、观法如法的强调；原文“远离”被意译为“不修习”，虽可通但属于部分意译缺失。",
+    "is_fixed": true
+  },
+  "198": {
+    "status": "部分缺失",
+    "description": "原文“身身观念处，受、心、法法观念处”的重复字眼在翻译中被简化遗漏；原文“恐怖稠林禽兽之处”翻译中遗漏了“禽兽之处”。",
+    "is_fixed": true
+  },
+  "199": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "200": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "201": {
+    "status": "翻译错误",
+    "description": "原文中说话者仅为“尊者大目犍连”，翻译却凭空增加了“阿那律对大目犍连说”，属于无中生有，人物关系错误。",
+    "is_fixed": true
+  },
+  "202": {
+    "status": "正确",
+    "description": "翻译准确，将“如其像三昧正受”译为“入于如其像之三昧正定”，“还至”译为“又回到”，符合原意。"
+  },
+  "203": {
+    "status": "正确",
+    "description": "原文为经号，翻译作了合理对应，符合非正文内容规则。"
+  },
+  "204": {
+    "status": "正确",
+    "description": "翻译准确表达了“如是我闻”的含义。"
+  },
+  "205": {
+    "status": "正确",
+    "description": "翻译完整准确，无遗漏和误译。"
+  },
+  "206": {
+    "status": "正确",
+    "description": "翻译完整准确，将身、受、心、法的内外观行及舍想译出，无遗漏和误译。"
+  },
+  "207": {
+    "status": "正确",
+    "description": "翻译准确，将“如力士屈伸臂顷”译为“如大力士屈伸手臂的瞬间一般迅速”，生动贴切。"
+  },
+  "208": {
+    "status": "正确",
+    "description": "原文为卷号，翻译与原文相同，符合非正文内容规则。"
+  },
+  "89": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "90": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "91": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "92": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "93": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "94": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "95": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "96": {
+    "status": "正确",
+    "description": "无问题"
+  }
+}

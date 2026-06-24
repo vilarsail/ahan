@@ -1,0 +1,1872 @@
+{
+  "1": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "2": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "3": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "4": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "5": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "6": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "7": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "8": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "9": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "10": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "11": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "12": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "13": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "14": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "15": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "16": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "17": {
+    "status": "翻译错误",
+    "description": "第二句'还欲服食之'翻译为'如今却还想享受饮食欲望'有误，'服食'指衣服饮食（衣物与食物），非仅'饮食'；且'服食之'是名词性结构，指'衣服饮食这些欲望'，译文'享受饮食欲望'表述别扭。更关键的是，最后一句'恐随魔自在'翻译为'恐怕你会随从魔王的自在摆布'错误，'随魔自在'意为'随魔（而）自在'，即'随魔摆布、受魔控制'，译文'随从魔王的自在摆布'语义不通且误解原意。",
+    "is_fixed": true
+  },
+  "18": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "19": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "20": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "21": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "22": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "23": {
+    "status": "部分缺失",
+    "description": "'为是如来？为非如来？'翻译为'他究竟是如来，还是非如来？'基本正确，但'为是...为非...'是选择问句，更准确的翻译应体现'是如来呢，还是不是如来呢'的判断意味；不过主要问题在于'今当令知'翻译为'现在应当让他知道'，未译出'令知'的使动含义'使（之）知'，即'现在应当让他知道（判断出来）'，但此点较轻微。整体可接受，但'为是如来？为非如来？'的翻译略显生硬，'为'字未译出判断动词'是'的强调意味。",
+    "reviewed": true,
+    "review_note": "问题不成立/无需修复"
+  },
+  "24": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "25": {
+    "status": "翻译错误",
+    "description": "「以他家故」误译为「寄居他人房舍的缘故」，此处「他家」应指「他人家中/别人家里」，而非「寄居」；「即出其舍」的「舍」指房舍，但「以他家故」是世尊在别人家里（做客或托钵），而非「寄居」。更关键的是，此句实际含义是世尊因为是在别人家里（为免让主人难堪），所以便离开了那房子。翻译将「以他家故」理解为寄居，逻辑有误。",
+    "is_fixed": true
+  },
+  "26": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "27": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "28": {
+    "status": "翻译错误",
+    "description": "「已三见请」误译为「已经三次被邀请进出」，「见请」是「被邀请」之意，但「三见请」是指已经被请了三次（出去），而非「被邀请进出」。原文是阿腊鬼三次请佛出去，佛三次都出去了，第四次佛不再出去。翻译添加「进出」二字，改变了原意，佛是被请出去，不是被请进出。",
+    "is_fixed": true
+  },
+  "29": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "30": {
+    "status": "翻译错误",
+    "description": "「我不见诸天、魔、梵、沙门、婆罗门、天神、世人」中「不见」应理解为「没有发现/认为不存在」，而非字面「看不见」。此处「不见」是「我认为没有」的意思，翻译为「看不见」是误译，佛并非视力上看不见，而是认知上不存在这样的人。",
+    "is_fixed": true
+  },
+  "31": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "32": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "33": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "34": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "35": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "36": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "37": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "38": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "39": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "40": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "41": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "42": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "43": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "44": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "45": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "46": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "47": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "48": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "49": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "50": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "51": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "52": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "53": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "54": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "55": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "56": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "57": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "58": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "59": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "60": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "61": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "62": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "63": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "64": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "65": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "66": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "67": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "68": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "69": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "70": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "71": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "72": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "73": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "74": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "75": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "76": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "77": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "78": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "79": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "80": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "81": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "82": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "83": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "84": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "85": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "86": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "87": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "88": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "89": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "90": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "91": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "92": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "93": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "94": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "95": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "96": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "97": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "98": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "99": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "100": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "101": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "102": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "103": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "104": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "105": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "106": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "107": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "108": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "109": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "110": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "111": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "112": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "113": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "114": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "115": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "116": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "117": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "118": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "119": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "120": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "121": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "122": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "123": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "124": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "125": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "126": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "127": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "128": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "129": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "130": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "131": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "132": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "133": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "134": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "135": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "136": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "137": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "138": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "139": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "140": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "141": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "142": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "143": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "144": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "145": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "146": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "147": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "148": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "149": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "150": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "151": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "152": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "153": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "154": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "155": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "156": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "157": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "158": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "159": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "160": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "161": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "162": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "163": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "164": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "165": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "166": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "167": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "168": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "169": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "170": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "171": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "172": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "173": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "174": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "175": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "176": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "177": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "178": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "179": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "180": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "181": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "182": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "183": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "184": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "185": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "186": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "187": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "188": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "189": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "190": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "191": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "192": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "193": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "194": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "195": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "196": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "197": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "198": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "199": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "200": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "201": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "202": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "203": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "204": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "205": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "206": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "207": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "208": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "209": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "210": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "211": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "212": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "213": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "214": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "215": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "216": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "217": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "218": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "219": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "220": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "221": {
+    "status": "翻译错误",
+    "description": "末句'无知悉放舍'误译为'因无知而全部放舍'，'无知'应指'没有知（知解、知见）'或理解为'无知之见'，即不执取知解，而非'因为无知'；'用闻见道为'译为'何必再依靠'语气偏强，原文'用...为'是'要...做什么'的反问，基本可通但'无知'句错误明显",
+    "is_fixed": true
+  },
+  "222": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "223": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "224": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "225": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "226": {
+    "status": "翻译错误",
+    "description": "「受师教」误译为「接受医师的教导」，「师」指师父/老师，非医师；「人间」译为「人间」可接受，但「在拘萨罗国的人间」表述别扭，原意为「在拘萨罗国的民间/人世间」。",
+    "is_fixed": true
+  },
+  "227": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "228": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "229": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "230": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "231": {
+    "status": "翻译错误",
+    "description": "「不求而不舍」误译为「不被请求也不舍弃（而取用）」，原意应为「不乞求也不施与（而自行取受）」，「舍」是施予、给予之意，非「舍弃」；「而自一向取」译为「却自己径直取用」基本可接受，但「一向」有「执意、专门」之意。",
+    "is_fixed": true
+  },
+  "232": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "233": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "234": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "235": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "236": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "237": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "238": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "239": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "240": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "241": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "242": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "243": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "244": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "245": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "246": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "247": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "248": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "249": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "250": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "251": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "252": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "253": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "254": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "255": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "256": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "257": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "258": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "259": {
+    "status": "翻译错误",
+    "description": "「如是我闻」是佛经固定术语，应译为「如是我闻」或「我听说的是这样的」，「像这样我听说」虽字面接近但不符合佛经惯例，且「如」字未准确译出",
+    "is_fixed": true
+  },
+  "260": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "261": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "262": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "263": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "264": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "265": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "266": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "267": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "268": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "269": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "270": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "271": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "272": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "273": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "274": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "275": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "276": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "277": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "278": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "279": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "280": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "281": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "282": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "283": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "284": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "285": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "286": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "287": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "288": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "289": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "290": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "291": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "292": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "293": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "294": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "295": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "296": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "297": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "298": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "299": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "300": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "301": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "302": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "303": {
+    "status": "部分缺失",
+    "description": "原文'夜着睡眠'中的'着'字有'陷入、沉溺'之意，翻译仅作'睡着了'，未能体现'着'的语义；且'人间'翻译为'的人间'略显生硬，应为'人世间'或'人间游化'",
+    "is_fixed": true
+  },
+  "304": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "305": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "306": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "307": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "308": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "309": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "310": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "311": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "312": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "313": {
+    "status": "翻译错误",
+    "description": "「厌汝令睡眠」误译，「厌」在此处应理解为「压制、使……满足/安息」或「逼迫」，而非「厌患」。原意是魔军不使你因懈怠而睡眠，或魔军不压制你令你睡眠。译文「不被众多的魔军所厌患而令你陷入睡眠」语义不通，且逻辑有误。",
+    "is_fixed": true
+  },
+  "314": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "315": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "316": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "317": {
+    "status": "部分缺失",
+    "description": "「我知先一切」未准确翻译，「先一切」指先前所有（的比丘），译文「先前所有的十四位比丘」添加了「的」但基本可接受；更关键的是「当得阿罗汉」译为「终将证得阿罗汉果」略去了「当得」的「应当、将会」之意，但不算严重。主要问题是「悉得禅正受」的「正受」即「三昧/正定」，译文「禅定正受」可接受。整体基本正确。",
+    "reviewed": true,
+    "review_note": "问题不成立/无需修复"
+  },
+  "318": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "319": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "320": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "321": {
+    "status": "翻译错误",
+    "description": "'抱愚而出家'误译为'虽带着愚痴出家'，'抱愚'应指心怀愚直、朴实之志，非'愚痴'；'逮得见清净'译为'终能证得清净知见'不准确，'逮得'是'速得、即得'之意；'当尽寿命思'译为'愿尽此寿命去思惟修行'增译'修行'，原文仅言'思'。整体存在关键术语误译与增译。",
+    "is_fixed": true
+  },
+  "322": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "323": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "324": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "325": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "326": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "327": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "328": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "329": {
+    "status": "翻译错误",
+    "description": "'是恶邪物'被误译为'持有这种邪恶之物'，原文'是'为判断动词'这是'，非'持有'；'而说是偈'未译出'说此偈'之意，且混入英文'yet'。",
+    "is_fixed": true
+  },
+  "330": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "331": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "332": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "333": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "334": {
+    "status": "部分缺失",
+    "description": "'有饮野干罐拘钩颈'翻译不完整，原文'有饮野干'应为'有野干来饮水'，译文仅作'有一只野干'，且'罐拘钩颈'的句式结构处理不够准确。",
+    "is_fixed": true
+  },
+  "335": {
+    "status": "翻译错误",
+    "description": "'汝汲水罐怖我已久'严重误译，原文意为'你这汲水的罐子使我受困已久'，译文'吓唬我已经很久了'将'拘钩颈'（卡住脖子）的困境误作'吓唬'，完全偏离原意。",
+    "is_fixed": true
+  },
+  "336": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "337": {
+    "status": "翻译错误",
+    "description": "「心久恐怖我」误译，原文是「你的心长久以来使我恐怖」还是「你的心长久以来对我感到恐怖」需结合语境，但译文「你的心长久以来令我恐惧」语义不通；且「今可放令去」译为「现在可以放我离去了」主客颠倒，应为「现在可以放它（或指某种束缚/情况）离去」或「现在可以放你离去」，需根据上下文，但译文明显有问题。",
+    "is_fixed": true
+  },
+  "338": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "339": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "340": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "341": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "342": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "343": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "344": {
+    "status": "翻译错误",
+    "description": "「团目」误译为「圆睁双眼」，「团目」意为闭目、合眼，猫头鹰白天闭目栖息，译文反为「圆睁双眼」，完全相反。",
+    "is_fixed": true
+  },
+  "345": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "346": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "347": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "348": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "349": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "350": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "351": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "352": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "353": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "354": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "355": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "356": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "357": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "358": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "359": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "360": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "361": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "362": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "363": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "364": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "365": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "366": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "367": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "368": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "369": {
+    "status": "部分缺失",
+    "description": "\"异比丘\"中的\"异\"字未译出，应译为\"另一位比丘\"或\"别的比丘\"，而非简单的\"一位比丘\"。",
+    "is_fixed": true
+  },
+  "370": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "371": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "372": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "373": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "374": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "375": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "376": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "377": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "378": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "379": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "380": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "381": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "382": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "383": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "384": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "385": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "386": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "387": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "388": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "389": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "390": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "391": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "392": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "393": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "394": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "395": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "396": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "397": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "398": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "399": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "400": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "401": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "402": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "403": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "404": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "405": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "406": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "407": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "408": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "409": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "410": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "411": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "412": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "413": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "414": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "415": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "416": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "417": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "418": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "419": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "420": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "421": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "422": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "423": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "424": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "425": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "426": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "427": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "428": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "429": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "430": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "431": {
+    "status": "翻译错误",
+    "description": "原文'七肘广六尺'中'广'指宽度，应译为'宽六肘'，但译文译为'六尺宽'，混淆了计量单位，且未保持'肘'的一致性",
+    "is_fixed": true
+  },
+  "432": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "433": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "434": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "435": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "436": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "437": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "438": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "439": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "440": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "441": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "442": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "443": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "444": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "445": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "446": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "447": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "448": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "449": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "450": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "451": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "452": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "453": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "454": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "455": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "456": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "457": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "458": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "459": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "460": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "461": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "462": {
+    "status": "正确",
+    "description": "无问题"
+  }
+}

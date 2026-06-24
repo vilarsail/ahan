@@ -1,0 +1,5965 @@
+{
+  "1": {
+    "2": {
+      "original": "（一）",
+      "translation": "（一）",
+      "is_num": true
+    },
+    "10": {
+      "original": "（二）",
+      "translation": "（二）",
+      "is_num": true
+    },
+    "17": {
+      "original": "（三）",
+      "translation": "（三）",
+      "is_num": true
+    },
+    "23": {
+      "original": "（四）",
+      "translation": "（四）",
+      "is_num": true
+    },
+    "29": {
+      "original": "（五）",
+      "translation": "（五）",
+      "is_num": true
+    },
+    "37": {
+      "original": "（六）",
+      "translation": "（六）",
+      "is_num": true
+    },
+    "43": {
+      "original": "（七）",
+      "translation": "（七）",
+      "is_num": true
+    },
+    "50": {
+      "original": "（八）",
+      "translation": "（八）",
+      "is_num": true
+    },
+    "55": {
+      "original": "（九）",
+      "translation": "（九）",
+      "is_num": true
+    },
+    "61": {
+      "original": "（一○）",
+      "translation": "（一○）",
+      "is_num": true
+    },
+    "67": {
+      "original": "（一一）",
+      "translation": "（一一）",
+      "is_num": true
+    },
+    "73": {
+      "original": "（一二）",
+      "translation": "（一二）",
+      "is_num": true
+    },
+    "79": {
+      "original": "（一三）",
+      "translation": "（一三）",
+      "is_num": true
+    },
+    "88": {
+      "original": "（一四）",
+      "translation": "（一四）",
+      "is_num": true
+    },
+    "98": {
+      "original": "（一五）",
+      "translation": "（一五）",
+      "is_num": true
+    },
+    "113": {
+      "original": "（一六）",
+      "translation": "（一六）",
+      "is_num": true
+    },
+    "120": {
+      "original": "（一七）",
+      "translation": "（一七）",
+      "is_num": true
+    },
+    "133": {
+      "original": "（一八）",
+      "translation": "（一八）",
+      "is_num": true
+    },
+    "146": {
+      "original": "（一九）",
+      "translation": "（一九）",
+      "is_num": true
+    },
+    "158": {
+      "original": "（二○）",
+      "translation": "（二○）",
+      "is_num": true
+    },
+    "160": {
+      "original": "（二一）",
+      "translation": "（二一）",
+      "is_num": true
+    },
+    "171": {
+      "original": "（二二）",
+      "translation": "（二二）",
+      "is_num": true
+    },
+    "178": {
+      "original": "（二三）",
+      "translation": "（二三）",
+      "is_num": true
+    },
+    "217": {
+      "original": "（二七）",
+      "translation": "（二七）",
+      "is_num": true
+    },
+    "225": {
+      "original": "（二八）",
+      "translation": "（二八）",
+      "is_num": true
+    },
+    "234": {
+      "original": "（二九）",
+      "translation": "（二九）",
+      "is_num": true
+    },
+    "286": {
+      "original": "（三二）",
+      "translation": "（三二）",
+      "is_num": true
+    }
+  },
+  "2": {
+    "2": {
+      "original": "（三三）",
+      "translation": "（三三）",
+      "is_num": true
+    },
+    "14": {
+      "original": "（三四）",
+      "translation": "（三四）",
+      "is_num": true
+    },
+    "36": {
+      "original": "（三六）",
+      "translation": "（三六）",
+      "is_num": true
+    },
+    "83": {
+      "original": "（四二）",
+      "translation": "（四二）",
+      "is_num": true
+    },
+    "94": {
+      "original": "（四三）",
+      "translation": "（四三）",
+      "is_num": true
+    },
+    "102": {
+      "original": "（四四）",
+      "translation": "（四四）",
+      "is_num": true
+    },
+    "125": {
+      "original": "（四七）",
+      "translation": "（四七）",
+      "is_num": true
+    },
+    "130": {
+      "original": "（四八）",
+      "translation": "（四八）",
+      "is_num": true
+    },
+    "135": {
+      "original": "（四九）",
+      "translation": "（四九）",
+      "is_num": true
+    },
+    "142": {
+      "original": "（五○）",
+      "translation": "（五○）",
+      "is_num": true
+    },
+    "149": {
+      "original": "（五一）",
+      "translation": "（五一）",
+      "is_num": true
+    },
+    "154": {
+      "original": "（五二）",
+      "translation": "（五二）",
+      "is_num": true
+    },
+    "156": {
+      "original": "（五三）",
+      "translation": "（五三）",
+      "is_num": true
+    },
+    "170": {
+      "original": "（五四）",
+      "translation": "（五四）",
+      "is_num": true
+    },
+    "187": {
+      "original": "（五五）",
+      "translation": "（五五）",
+      "is_num": true
+    },
+    "192": {
+      "original": "（五六）",
+      "translation": "（五六）",
+      "is_num": true
+    },
+    "198": {
+      "original": "（五七）",
+      "translation": "（五七）",
+      "is_num": true
+    },
+    "211": {
+      "original": "（五八）",
+      "translation": "（五八）",
+      "is_num": true
+    }
+  },
+  "3": {
+    "2": {
+      "original": "（五九）",
+      "translation": "（五九）",
+      "is_num": true
+    },
+    "7": {
+      "original": "（六○）",
+      "translation": "（六○）",
+      "is_num": true
+    },
+    "13": {
+      "original": "（六一）",
+      "translation": "（六一）",
+      "is_num": true
+    },
+    "27": {
+      "original": "（六二）",
+      "translation": "（六二）",
+      "is_num": true
+    },
+    "34": {
+      "original": "（六三）",
+      "translation": "（六三）",
+      "is_num": true
+    },
+    "40": {
+      "original": "（六四）",
+      "translation": "（六四）",
+      "is_num": true
+    },
+    "52": {
+      "original": "（六五）",
+      "translation": "（六五）",
+      "is_num": true
+    },
+    "79": {
+      "original": "（六八）",
+      "translation": "（六八）",
+      "is_num": true
+    },
+    "89": {
+      "original": "（六九）",
+      "translation": "（六九）",
+      "is_num": true
+    },
+    "96": {
+      "original": "（七○）",
+      "translation": "（七○）",
+      "is_num": true
+    },
+    "102": {
+      "original": "（七一）",
+      "translation": "（七一）",
+      "is_num": true
+    },
+    "116": {
+      "original": "（七二）",
+      "translation": "（七二）",
+      "is_num": true
+    },
+    "124": {
+      "original": "（七三）",
+      "translation": "（七三）",
+      "is_num": true
+    },
+    "134": {
+      "original": "（七四）",
+      "translation": "（七四）",
+      "is_num": true
+    },
+    "140": {
+      "original": "（七五）",
+      "translation": "（七五）",
+      "is_num": true
+    },
+    "147": {
+      "original": "（七六）",
+      "translation": "（七六）",
+      "is_num": true
+    },
+    "154": {
+      "original": "（七七）",
+      "translation": "（七七）",
+      "is_num": true
+    },
+    "159": {
+      "original": "（七八）",
+      "translation": "（七八）",
+      "is_num": true
+    },
+    "164": {
+      "original": "（七九）",
+      "translation": "（七九）",
+      "is_num": true
+    },
+    "185": {
+      "original": "（八一）",
+      "translation": "（八一）",
+      "is_num": true
+    },
+    "198": {
+      "original": "（八二）",
+      "translation": "（八二）",
+      "is_num": true
+    },
+    "211": {
+      "original": "（八三）",
+      "translation": "（八三）",
+      "is_num": true
+    },
+    "225": {
+      "original": "（八四）",
+      "translation": "（八四）",
+      "is_num": true
+    },
+    "243": {
+      "original": "（八六）",
+      "translation": "（八六）",
+      "is_num": true
+    },
+    "254": {
+      "original": "（八七）",
+      "translation": "（八七）",
+      "is_num": true
+    }
+  },
+  "4": {
+    "2": {
+      "original": "（八八）",
+      "translation": "（八八）",
+      "is_num": true
+    },
+    "9": {
+      "original": "（八九）",
+      "translation": "（八九）",
+      "is_num": true
+    },
+    "41": {
+      "original": "（九二）",
+      "translation": "（九二）",
+      "is_num": true
+    },
+    "61": {
+      "original": "（九三）",
+      "translation": "（九三）",
+      "is_num": true
+    },
+    "101": {
+      "original": "（九五）",
+      "translation": "（九五）",
+      "is_num": true
+    },
+    "110": {
+      "original": "（九六）",
+      "translation": "（九六）",
+      "is_num": true
+    },
+    "125": {
+      "original": "（九七）",
+      "translation": "（九七）",
+      "is_num": true
+    },
+    "133": {
+      "original": "（九八）",
+      "translation": "（九八）",
+      "is_num": true
+    },
+    "153": {
+      "original": "（九九）",
+      "translation": "（九九）",
+      "is_num": true
+    }
+  },
+  "5": {
+    "2": {
+      "original": "（一○三）",
+      "translation": "（一○三）",
+      "is_num": true
+    },
+    "35": {
+      "original": "（一○四）",
+      "translation": "（一○四）",
+      "is_num": true
+    },
+    "81": {
+      "original": "（一○五）",
+      "translation": "（一○五）",
+      "is_num": true
+    },
+    "139": {
+      "original": "（一○七）",
+      "translation": "（一○七）",
+      "is_num": true
+    },
+    "177": {
+      "original": "（一○九）",
+      "translation": "（一○九）",
+      "is_num": true
+    }
+  },
+  "6": {
+    "2": {
+      "original": "（一一一）",
+      "translation": "（一一一）",
+      "is_num": true
+    },
+    "9": {
+      "original": "（一一二）",
+      "translation": "（一一二）",
+      "is_num": true
+    },
+    "15": {
+      "original": "（一一三）",
+      "translation": "（一一三）",
+      "is_num": true
+    },
+    "27": {
+      "original": "（一一四）",
+      "translation": "（一一四）",
+      "is_num": true
+    },
+    "36": {
+      "original": "（一一五）",
+      "translation": "（一一五）",
+      "is_num": true
+    },
+    "45": {
+      "original": "（一一六）",
+      "translation": "（一一六）",
+      "is_num": true
+    },
+    "54": {
+      "original": "（一一七）",
+      "translation": "（一一七）",
+      "is_num": true
+    },
+    "63": {
+      "original": "（一一八）",
+      "translation": "（一一八）",
+      "is_num": true
+    },
+    "72": {
+      "original": "（一一九）",
+      "translation": "（一一九）",
+      "is_num": true
+    },
+    "81": {
+      "original": "（一二○）",
+      "translation": "（一二○）",
+      "is_num": true
+    },
+    "93": {
+      "original": "（一二一）",
+      "translation": "（一二一）",
+      "is_num": true
+    },
+    "109": {
+      "original": "（一二二）",
+      "translation": "（一二二）",
+      "is_num": true
+    },
+    "116": {
+      "original": "（一二三）",
+      "translation": "（一二三）",
+      "is_num": true
+    },
+    "123": {
+      "original": "（一二四）",
+      "translation": "（一二四）",
+      "is_num": true
+    },
+    "134": {
+      "original": "（一二五）",
+      "translation": "（一二五）",
+      "is_num": true
+    },
+    "152": {
+      "original": "（一二六）",
+      "translation": "（一二六）",
+      "is_num": true
+    },
+    "157": {
+      "original": "（一二七）",
+      "translation": "（一二七）",
+      "is_num": true
+    },
+    "163": {
+      "original": "（一二八）",
+      "translation": "（一二八）",
+      "is_num": true
+    },
+    "169": {
+      "original": "（一二九）",
+      "translation": "（一二九）",
+      "is_num": true
+    },
+    "174": {
+      "original": "（一三○）",
+      "translation": "（一三○）",
+      "is_num": true
+    },
+    "180": {
+      "original": "（一三一）",
+      "translation": "（一三一）",
+      "is_num": true
+    },
+    "186": {
+      "original": "（一三二）",
+      "translation": "（一三二）",
+      "is_num": true
+    },
+    "192": {
+      "original": "（一三三）",
+      "translation": "（一三三）",
+      "is_num": true
+    },
+    "207": {
+      "original": "（一三四）",
+      "translation": "（一三四）",
+      "is_num": true
+    },
+    "212": {
+      "original": "（一三五）",
+      "translation": "（一三五）",
+      "is_num": true
+    },
+    "217": {
+      "original": "（一三六）",
+      "translation": "（一三六）",
+      "is_num": true
+    },
+    "233": {
+      "original": "（一三七）",
+      "translation": "（一三七）",
+      "is_num": true
+    },
+    "235": {
+      "original": "（一三八）",
+      "translation": "（一三八）",
+      "is_num": true
+    },
+    "237": {
+      "original": "杂阿含经卷第六",
+      "translation": "杂阿含经卷第六",
+      "is_num": true
+    }
+  },
+  "7": {
+    "2": {
+      "original": "（一三九）",
+      "translation": "（一三九）",
+      "is_num": true
+    },
+    "34": {
+      "original": "（一四六）",
+      "translation": "（一四六）",
+      "is_num": true
+    },
+    "39": {
+      "original": "（一四七）",
+      "translation": "（一四七）",
+      "is_num": true
+    },
+    "44": {
+      "original": "（一四八）",
+      "translation": "（一四八）",
+      "is_num": true
+    },
+    "49": {
+      "original": "（一四九）",
+      "translation": "（一四九）",
+      "is_num": true
+    },
+    "54": {
+      "original": "（一五○）",
+      "translation": "（一五○）",
+      "is_num": true
+    },
+    "59": {
+      "original": "（一五一）",
+      "translation": "（一五一）",
+      "is_num": true
+    },
+    "64": {
+      "original": "（一五二）",
+      "translation": "（一五二）",
+      "is_num": true
+    },
+    "69": {
+      "original": "（一五三）",
+      "translation": "（一五三）",
+      "is_num": true
+    },
+    "74": {
+      "original": "（一五四）",
+      "translation": "（一五四）",
+      "is_num": true
+    },
+    "79": {
+      "original": "（一五五）",
+      "translation": "（一五五）",
+      "is_num": true
+    },
+    "84": {
+      "original": "（一五六）",
+      "translation": "（一五六）",
+      "is_num": true
+    },
+    "89": {
+      "original": "（一五七）",
+      "translation": "（一五七）",
+      "is_num": true
+    },
+    "104": {
+      "original": "（一六○）",
+      "translation": "（一六○）",
+      "is_num": true
+    },
+    "109": {
+      "original": "（一六一）",
+      "translation": "（一六一）",
+      "is_num": true
+    },
+    "114": {
+      "original": "（一六二）",
+      "translation": "（一六二）",
+      "is_num": true
+    },
+    "119": {
+      "original": "（一六三）",
+      "translation": "（一六三）",
+      "is_num": true
+    },
+    "124": {
+      "original": "（一六四）",
+      "translation": "（一六四）",
+      "is_num": true
+    },
+    "129": {
+      "original": "（一六五）",
+      "translation": "（一六五）",
+      "is_num": true
+    },
+    "134": {
+      "original": "（一六六）",
+      "translation": "（一六六）",
+      "is_num": true
+    },
+    "139": {
+      "original": "（一六七）",
+      "translation": "（一六七）",
+      "is_num": true
+    },
+    "144": {
+      "original": "（一六八）",
+      "translation": "（一六八）",
+      "is_num": true
+    },
+    "149": {
+      "original": "（一六九）",
+      "translation": "（一六九）",
+      "is_num": true
+    },
+    "154": {
+      "original": "（一七○）",
+      "translation": "（一七○）",
+      "is_num": true
+    },
+    "159": {
+      "original": "（一七一）",
+      "translation": "（一七一）",
+      "is_num": true
+    },
+    "164": {
+      "original": "（一七二）",
+      "translation": "（一七二）",
+      "is_num": true
+    },
+    "169": {
+      "original": "（一七三）",
+      "translation": "（一七三）",
+      "is_num": true
+    },
+    "175": {
+      "original": "（一七四）",
+      "translation": "（一七四）",
+      "is_num": true
+    },
+    "181": {
+      "original": "（一七五）",
+      "translation": "（一七五）",
+      "is_num": true
+    },
+    "189": {
+      "original": "（一七六）",
+      "translation": "（一七六）",
+      "is_num": true
+    },
+    "197": {
+      "original": "（一七七）",
+      "translation": "（一七七）",
+      "is_num": true
+    },
+    "207": {
+      "original": "（一七八）",
+      "translation": "（一七八）",
+      "is_num": true
+    },
+    "217": {
+      "original": "（一七九）",
+      "translation": "（一七九）",
+      "is_num": true
+    },
+    "226": {
+      "original": "（一八○）",
+      "translation": "（一八○）",
+      "is_num": true
+    },
+    "236": {
+      "original": "（一八一）",
+      "translation": "（一八一）",
+      "is_num": true
+    },
+    "246": {
+      "original": "（一八二）",
+      "translation": "（一八二）",
+      "is_num": true
+    },
+    "256": {
+      "original": "（一八三）",
+      "translation": "（一八三）",
+      "is_num": true
+    },
+    "266": {
+      "original": "（一八四）",
+      "translation": "（一八四）",
+      "is_num": true
+    },
+    "276": {
+      "original": "（一八五）",
+      "translation": "（一八五）",
+      "is_num": true
+    },
+    "303": {
+      "original": "（一八七）",
+      "translation": "（一八七）",
+      "is_num": true
+    }
+  },
+  "8": {
+    "18": {
+      "original": "（一九一）",
+      "translation": "（一九一）",
+      "is_num": true
+    },
+    "23": {
+      "original": "（一九二）",
+      "translation": "（一九二）",
+      "is_num": true
+    },
+    "28": {
+      "original": "（一九三）",
+      "translation": "（一九三）",
+      "is_num": true
+    },
+    "33": {
+      "original": "（一九四）",
+      "translation": "（一九四）",
+      "is_num": true
+    },
+    "39": {
+      "original": "（一九五）",
+      "translation": "（一九五）",
+      "is_num": true
+    },
+    "45": {
+      "original": "（一九六）",
+      "translation": "（一九六）",
+      "is_num": true
+    },
+    "51": {
+      "original": "（一九七）",
+      "translation": "（一九七）",
+      "is_num": true
+    },
+    "59": {
+      "original": "（一九八）",
+      "translation": "（一九八）",
+      "is_num": true
+    },
+    "68": {
+      "original": "（一九九）",
+      "translation": "（一九九）",
+      "is_num": true
+    },
+    "77": {
+      "original": "（二○○）",
+      "translation": "（二○○）",
+      "is_num": true
+    },
+    "99": {
+      "original": "（二○一）",
+      "translation": "（二○一）",
+      "is_num": true
+    },
+    "107": {
+      "original": "（二○二）",
+      "translation": "（二○二）",
+      "is_num": true
+    },
+    "113": {
+      "original": "（二○三）",
+      "translation": "（二○三）",
+      "is_num": true
+    },
+    "122": {
+      "original": "（二○四）",
+      "translation": "（二○四）",
+      "is_num": true
+    },
+    "127": {
+      "original": "（二○五）",
+      "translation": "（二○五）",
+      "is_num": true
+    },
+    "132": {
+      "original": "（二○六）",
+      "translation": "（二○六）",
+      "is_num": true
+    },
+    "137": {
+      "original": "（二○七）",
+      "translation": "（二○七）",
+      "is_num": true
+    },
+    "142": {
+      "original": "（二○八）",
+      "translation": "（二○八）",
+      "is_num": true
+    },
+    "149": {
+      "original": "（二○九）",
+      "translation": "（二○九）",
+      "is_num": true
+    },
+    "160": {
+      "original": "（二一○）",
+      "translation": "（二一○）",
+      "is_num": true
+    },
+    "166": {
+      "original": "（二一一）",
+      "translation": "（二一一）",
+      "is_num": true
+    },
+    "177": {
+      "original": "（二一二）",
+      "translation": "（二一二）",
+      "is_num": true
+    },
+    "184": {
+      "original": "（二一三）",
+      "translation": "（二一三）",
+      "is_num": true
+    },
+    "192": {
+      "original": "（二一四）",
+      "translation": "（二一四）",
+      "is_num": true
+    },
+    "197": {
+      "original": "（二一五）",
+      "translation": "（二一五）",
+      "is_num": true
+    },
+    "204": {
+      "original": "（二一六）",
+      "translation": "（二一六）",
+      "is_num": true
+    },
+    "210": {
+      "original": "（二一七）",
+      "translation": "（二一七）",
+      "is_num": true
+    },
+    "217": {
+      "original": "（二一八）",
+      "translation": "（二一八）",
+      "is_num": true
+    },
+    "224": {
+      "original": "（二一九）",
+      "translation": "（二一九）",
+      "is_num": true
+    },
+    "229": {
+      "original": "（二二○）",
+      "translation": "（二二○）",
+      "is_num": true
+    },
+    "234": {
+      "original": "（二二一）",
+      "translation": "（二二一）",
+      "is_num": true
+    },
+    "240": {
+      "original": "（二二二）",
+      "translation": "（二二二）",
+      "is_num": true
+    },
+    "246": {
+      "original": "（二二三）",
+      "translation": "（二二三）",
+      "is_num": true
+    },
+    "251": {
+      "original": "（二二四）",
+      "translation": "（二二四）",
+      "is_num": true
+    },
+    "256": {
+      "original": "（二二五）",
+      "translation": "（二二五）",
+      "is_num": true
+    },
+    "261": {
+      "original": "（二二六）",
+      "translation": "（二二六）",
+      "is_num": true
+    },
+    "269": {
+      "original": "（二二七）",
+      "translation": "（二二七）",
+      "is_num": true
+    },
+    "277": {
+      "original": "（二二八）",
+      "translation": "（二二八）",
+      "is_num": true
+    },
+    "284": {
+      "original": "（二二九）",
+      "translation": "（二二九）",
+      "is_num": true
+    }
+  },
+  "9": {
+    "2": {
+      "original": "（二三○）",
+      "translation": "（二三○）",
+      "is_num": true
+    },
+    "10": {
+      "original": "（二三一）",
+      "translation": "（二三一）",
+      "is_num": true
+    },
+    "48": {
+      "original": "（二三六）",
+      "translation": "（二三六）",
+      "is_num": true
+    },
+    "61": {
+      "original": "（二三七）",
+      "translation": "（二三七）",
+      "is_num": true
+    },
+    "69": {
+      "original": "（二三八）",
+      "translation": "（二三八）",
+      "is_num": true
+    },
+    "75": {
+      "original": "（二三九）",
+      "translation": "（二三九）",
+      "is_num": true
+    },
+    "80": {
+      "original": "（二四○）",
+      "translation": "（二四○）",
+      "is_num": true
+    },
+    "85": {
+      "original": "（二四一）",
+      "translation": "（二四一）",
+      "is_num": true
+    },
+    "98": {
+      "original": "（二四二）",
+      "translation": "（二四二）",
+      "is_num": true
+    },
+    "104": {
+      "original": "（二四三）",
+      "translation": "（二四三）",
+      "is_num": true
+    },
+    "111": {
+      "original": "（二四四）",
+      "translation": "（二四四）",
+      "is_num": true
+    },
+    "116": {
+      "original": "（二四五）",
+      "translation": "（二四五）",
+      "is_num": true
+    },
+    "122": {
+      "original": "（二四六）",
+      "translation": "（二四六）",
+      "is_num": true
+    },
+    "142": {
+      "original": "（二四七）",
+      "translation": "（二四七）",
+      "is_num": true
+    },
+    "149": {
+      "original": "（二四八）",
+      "translation": "（二四八）",
+      "is_num": true
+    },
+    "179": {
+      "original": "（二四九）",
+      "translation": "（二四九）",
+      "is_num": true
+    },
+    "193": {
+      "original": "（二五○）",
+      "translation": "（二五○）",
+      "is_num": true
+    },
+    "206": {
+      "original": "（二五一）",
+      "translation": "（二五一）",
+      "is_num": true
+    },
+    "217": {
+      "original": "（二五二）",
+      "translation": "（二五二）",
+      "is_num": true
+    },
+    "238": {
+      "original": "（二五三）",
+      "translation": "（二五三）",
+      "is_num": true
+    },
+    "280": {
+      "original": "（二五四）",
+      "translation": "（二五四）",
+      "is_num": true
+    },
+    "313": {
+      "original": "（二五五）",
+      "translation": "（二五五）",
+      "is_num": true
+    }
+  },
+  "10": {
+    "17": {
+      "original": "（二五七）",
+      "translation": "（二五七）",
+      "is_num": true
+    },
+    "32": {
+      "original": "（二五八）",
+      "translation": "（二五八）",
+      "is_num": true
+    },
+    "46": {
+      "original": "（二五九）",
+      "translation": "（二五九）",
+      "is_num": true
+    },
+    "63": {
+      "original": "（二六○）",
+      "translation": "（二六○）",
+      "is_num": true
+    },
+    "73": {
+      "original": "（二六一）",
+      "translation": "（二六一）",
+      "is_num": true
+    },
+    "80": {
+      "original": "（二六二）",
+      "translation": "（二六二）",
+      "is_num": true
+    },
+    "97": {
+      "original": "（二六三）",
+      "translation": "（二六三）",
+      "is_num": true
+    },
+    "107": {
+      "original": "（二六四）",
+      "translation": "（二六四）",
+      "is_num": true
+    },
+    "140": {
+      "original": "（二六五）",
+      "translation": "（二六五）",
+      "is_num": true
+    },
+    "151": {
+      "original": "（二六六）",
+      "translation": "（二六六）",
+      "is_num": true
+    },
+    "157": {
+      "original": "（二六七）",
+      "translation": "（二六七）",
+      "is_num": true
+    },
+    "168": {
+      "original": "（二六八）",
+      "translation": "（二六八）",
+      "is_num": true
+    },
+    "175": {
+      "original": "（二六九）",
+      "translation": "（二六九）",
+      "is_num": true
+    },
+    "193": {
+      "original": "（二七○）",
+      "translation": "（二七○）",
+      "is_num": true
+    },
+    "206": {
+      "original": "（二七一）",
+      "translation": "（二七一）",
+      "is_num": true
+    },
+    "228": {
+      "original": "（二七二）",
+      "translation": "（二七二）",
+      "is_num": true
+    }
+  },
+  "11": {
+    "2": {
+      "original": "（二七三）",
+      "translation": "（二七三）",
+      "is_num": true
+    },
+    "18": {
+      "original": "（二七四）",
+      "translation": "（二七四）",
+      "is_num": true
+    },
+    "31": {
+      "original": "（二七五）",
+      "translation": "（二七五）",
+      "is_num": true
+    },
+    "43": {
+      "original": "（二七六）",
+      "translation": "（二七六）",
+      "is_num": true
+    },
+    "108": {
+      "original": "（二七七）",
+      "translation": "（二七七）",
+      "is_num": true
+    },
+    "115": {
+      "original": "（二七八）",
+      "translation": "（二七八）",
+      "is_num": true
+    },
+    "123": {
+      "original": "（二七九）",
+      "translation": "（二七九）",
+      "is_num": true
+    },
+    "132": {
+      "original": "（二八○）",
+      "translation": "（二八○）",
+      "is_num": true
+    },
+    "143": {
+      "original": "（二八一）",
+      "translation": "（二八一）",
+      "is_num": true
+    },
+    "169": {
+      "original": "（二八二）",
+      "translation": "（二八二）",
+      "is_num": true
+    }
+  },
+  "12": {
+    "2": {
+      "original": "（二八三）",
+      "translation": "（二八三）",
+      "is_num": true
+    },
+    "10": {
+      "original": "（二八四）",
+      "translation": "（二八四）",
+      "is_num": true
+    },
+    "18": {
+      "original": "（二八五）",
+      "translation": "（二八五）",
+      "is_num": true
+    },
+    "36": {
+      "original": "（二八六）",
+      "translation": "（二八六）",
+      "is_num": true
+    },
+    "45": {
+      "original": "（二八七）",
+      "translation": "（二八七）",
+      "is_num": true
+    },
+    "54": {
+      "original": "（二八八）",
+      "translation": "（二八八）",
+      "is_num": true
+    },
+    "76": {
+      "original": "（二八九）",
+      "translation": "（二八九）",
+      "is_num": true
+    },
+    "82": {
+      "original": "（二九○）",
+      "translation": "（二九○）",
+      "is_num": true
+    },
+    "89": {
+      "original": "（二九一）",
+      "translation": "（二九一）",
+      "is_num": true
+    },
+    "102": {
+      "original": "（二九二）",
+      "translation": "（二九二）",
+      "is_num": true
+    },
+    "119": {
+      "original": "（二九三）",
+      "translation": "（二九三）",
+      "is_num": true
+    },
+    "125": {
+      "original": "（二九四）",
+      "translation": "（二九四）",
+      "is_num": true
+    },
+    "133": {
+      "original": "（二九五）",
+      "translation": "（二九五）",
+      "is_num": true
+    },
+    "138": {
+      "original": "（二九六）",
+      "translation": "（二九六）",
+      "is_num": true
+    },
+    "146": {
+      "original": "（二九七）",
+      "translation": "（二九七）",
+      "is_num": true
+    },
+    "154": {
+      "original": "（二九八）",
+      "translation": "（二九八）",
+      "is_num": true
+    },
+    "162": {
+      "original": "（二九九）",
+      "translation": "（二九九）",
+      "is_num": true
+    },
+    "211": {
+      "original": "（三○三）",
+      "translation": "（三○三）",
+      "is_num": true
+    }
+  },
+  "13": {
+    "2": {
+      "original": "（三○四）",
+      "translation": "（三○四）",
+      "is_num": true
+    },
+    "10": {
+      "original": "（三○五）",
+      "translation": "（三○五）",
+      "is_num": true
+    },
+    "19": {
+      "original": "（三○六）",
+      "translation": "（三○六）",
+      "is_num": true
+    },
+    "26": {
+      "original": "（三○七）",
+      "translation": "（三○七）",
+      "is_num": true
+    },
+    "33": {
+      "original": "（三○八）",
+      "translation": "（三○八）",
+      "is_num": true
+    },
+    "41": {
+      "original": "（三○九）",
+      "translation": "（三○九）",
+      "is_num": true
+    },
+    "57": {
+      "original": "（三一一）",
+      "translation": "（三一一）",
+      "is_num": true
+    },
+    "76": {
+      "original": "（三一二）",
+      "translation": "（三一二）",
+      "is_num": true
+    },
+    "99": {
+      "original": "（三一三）",
+      "translation": "（三一三）",
+      "is_num": true
+    },
+    "111": {
+      "original": "（三一四）",
+      "translation": "（三一四）",
+      "is_num": true
+    },
+    "116": {
+      "original": "（三一五）",
+      "translation": "（三一五）",
+      "is_num": true
+    },
+    "121": {
+      "original": "（三一六）",
+      "translation": "（三一六）",
+      "is_num": true
+    },
+    "126": {
+      "original": "（三一七）",
+      "translation": "（三一七）",
+      "is_num": true
+    },
+    "131": {
+      "original": "（三一八）",
+      "translation": "（三一八）",
+      "is_num": true
+    },
+    "137": {
+      "original": "（三一九）",
+      "translation": "（三一九）",
+      "is_num": true
+    },
+    "143": {
+      "original": "（三二○）",
+      "translation": "（三二○）",
+      "is_num": true
+    },
+    "178": {
+      "original": "（三二三）",
+      "translation": "（三二三）",
+      "is_num": true
+    },
+    "183": {
+      "original": "（三二四）",
+      "translation": "（三二四）",
+      "is_num": true
+    },
+    "188": {
+      "original": "（三二五）",
+      "translation": "（三二五）",
+      "is_num": true
+    },
+    "193": {
+      "original": "（三二六）",
+      "translation": "（三二六）",
+      "is_num": true
+    },
+    "198": {
+      "original": "（三二七）",
+      "translation": "（三二七）",
+      "is_num": true
+    },
+    "203": {
+      "original": "（三二八）",
+      "translation": "（三二八）",
+      "is_num": true
+    },
+    "208": {
+      "original": "（三二九）",
+      "translation": "（三二九）",
+      "is_num": true
+    },
+    "213": {
+      "original": "（三三○）",
+      "translation": "（三三○）",
+      "is_num": true
+    },
+    "218": {
+      "original": "（三三一）",
+      "translation": "（三三一）",
+      "is_num": true
+    },
+    "223": {
+      "original": "（三三二）",
+      "translation": "（三三二）",
+      "is_num": true
+    },
+    "228": {
+      "original": "（三三三）",
+      "translation": "（三三三）",
+      "is_num": true
+    },
+    "233": {
+      "original": "（三三四）",
+      "translation": "（三三四）",
+      "is_num": true
+    },
+    "240": {
+      "original": "（三三五）",
+      "translation": "（三三五）",
+      "is_num": true
+    },
+    "246": {
+      "original": "（三三六）",
+      "translation": "（三三六）",
+      "is_num": true
+    },
+    "251": {
+      "original": "（三三七）",
+      "translation": "（三三七）",
+      "is_num": true
+    },
+    "256": {
+      "original": "（三三八）",
+      "translation": "（三三八）",
+      "is_num": true
+    },
+    "261": {
+      "original": "（三三九）",
+      "translation": "（三三九）",
+      "is_num": true
+    },
+    "266": {
+      "original": "（三四○）",
+      "translation": "（三四○）",
+      "is_num": true
+    },
+    "271": {
+      "original": "（三四一）",
+      "translation": "（三四一）",
+      "is_num": true
+    },
+    "276": {
+      "original": "（三四二）",
+      "translation": "（三四二）",
+      "is_num": true
+    }
+  },
+  "14": {
+    "27": {
+      "original": "（三四四）",
+      "translation": "（三四四）",
+      "is_num": true
+    },
+    "55": {
+      "original": "（三四五）",
+      "translation": "（三四五）",
+      "is_num": true
+    },
+    "71": {
+      "original": "（三四六）",
+      "translation": "（三四六）",
+      "is_num": true
+    },
+    "80": {
+      "original": "（三四七）",
+      "translation": "（三四七）",
+      "is_num": true
+    },
+    "132": {
+      "original": "（三四八）",
+      "translation": "（三四八）",
+      "is_num": true
+    },
+    "166": {
+      "original": "（三五二）",
+      "translation": "（三五二）",
+      "is_num": true
+    },
+    "174": {
+      "original": "（三五三）",
+      "translation": "（三五三）",
+      "is_num": true
+    },
+    "181": {
+      "original": "（三五四）",
+      "translation": "（三五四）",
+      "is_num": true
+    },
+    "188": {
+      "original": "（三五五）",
+      "translation": "（三五五）",
+      "is_num": true
+    },
+    "194": {
+      "original": "（三五六）",
+      "translation": "（三五六）",
+      "is_num": true
+    },
+    "199": {
+      "original": "（三五七）",
+      "translation": "（三五七）",
+      "is_num": true
+    },
+    "204": {
+      "original": "（三五八）",
+      "translation": "（三五八）",
+      "is_num": true
+    },
+    "211": {
+      "original": "（三五九）",
+      "translation": "（三五九）",
+      "is_num": true
+    },
+    "216": {
+      "original": "（三六○）",
+      "translation": "（三六○）",
+      "is_num": true
+    },
+    "221": {
+      "original": "（三六一）",
+      "translation": "（三六一）",
+      "is_num": true
+    },
+    "226": {
+      "original": "（三六二）",
+      "translation": "（三六二）",
+      "is_num": true
+    },
+    "233": {
+      "original": "（三六三）",
+      "translation": "（三六三）",
+      "is_num": true
+    },
+    "240": {
+      "original": "（三六四）",
+      "translation": "（三六四）",
+      "is_num": true
+    }
+  },
+  "15": {
+    "20": {
+      "original": "（三六八）",
+      "translation": "（三六八）",
+      "is_num": true
+    },
+    "25": {
+      "original": "（三六九）",
+      "translation": "（三六九）",
+      "is_num": true
+    },
+    "33": {
+      "original": "（三七○）",
+      "translation": "（三七○）",
+      "is_num": true
+    },
+    "36": {
+      "original": "（三七一）",
+      "translation": "（三七一）",
+      "is_num": true
+    },
+    "43": {
+      "original": "（三七二）",
+      "translation": "（三七二）",
+      "is_num": true
+    },
+    "60": {
+      "original": "（三七三）",
+      "translation": "（三七三）",
+      "is_num": true
+    },
+    "73": {
+      "original": "（三七四）",
+      "translation": "（三七四）",
+      "is_num": true
+    },
+    "80": {
+      "original": "（三七五）",
+      "translation": "（三七五）",
+      "is_num": true
+    },
+    "85": {
+      "original": "（三七六）",
+      "translation": "（三七六）",
+      "is_num": true
+    },
+    "95": {
+      "original": "（三七七）",
+      "translation": "（三七七）",
+      "is_num": true
+    },
+    "104": {
+      "original": "（三七八）",
+      "translation": "（三七八）",
+      "is_num": true
+    },
+    "113": {
+      "original": "（三七九）",
+      "translation": "（三七九）",
+      "is_num": true
+    },
+    "136": {
+      "original": "（三八一）",
+      "translation": "（三八一）",
+      "is_num": true
+    },
+    "141": {
+      "original": "（三八二）",
+      "translation": "（三八二）",
+      "is_num": true
+    },
+    "146": {
+      "original": "（三八三）",
+      "translation": "（三八三）",
+      "is_num": true
+    },
+    "151": {
+      "original": "（三八四）",
+      "translation": "（三八四）",
+      "is_num": true
+    },
+    "156": {
+      "original": "（三八五）",
+      "translation": "（三八五）",
+      "is_num": true
+    },
+    "161": {
+      "original": "（三八六）",
+      "translation": "（三八六）",
+      "is_num": true
+    },
+    "166": {
+      "original": "（三八七）",
+      "translation": "（三八七）",
+      "is_num": true
+    },
+    "171": {
+      "original": "（三八八）",
+      "translation": "（三八八）",
+      "is_num": true
+    },
+    "176": {
+      "original": "（三八九）",
+      "translation": "（三八九）",
+      "is_num": true
+    },
+    "182": {
+      "original": "（三九○）",
+      "translation": "（三九○）",
+      "is_num": true
+    },
+    "188": {
+      "original": "（三九一）",
+      "translation": "（三九一）",
+      "is_num": true
+    },
+    "192": {
+      "original": "（三九二）",
+      "translation": "（三九二）",
+      "is_num": true
+    },
+    "202": {
+      "original": "（三九三）",
+      "translation": "（三九三）",
+      "is_num": true
+    },
+    "215": {
+      "original": "（三九四）",
+      "translation": "（三九四）",
+      "is_num": true
+    },
+    "221": {
+      "original": "（三九五）",
+      "translation": "（三九五）",
+      "is_num": true
+    },
+    "227": {
+      "original": "（三九六）",
+      "translation": "（三九六）",
+      "is_num": true
+    },
+    "232": {
+      "original": "（三九七）",
+      "translation": "（三九七）",
+      "is_num": true
+    },
+    "240": {
+      "original": "（三九八）",
+      "translation": "（三九八）",
+      "is_num": true
+    },
+    "246": {
+      "original": "（三九九）",
+      "translation": "（三九九）",
+      "is_num": true
+    },
+    "251": {
+      "original": "（四○○）",
+      "translation": "（四○○）",
+      "is_num": true
+    },
+    "257": {
+      "original": "（四○一）",
+      "translation": "（四○一）",
+      "is_num": true
+    },
+    "263": {
+      "original": "（四○二）",
+      "translation": "（四○二）",
+      "is_num": true
+    },
+    "268": {
+      "original": "（四○三）",
+      "translation": "（四○三）",
+      "is_num": true
+    },
+    "275": {
+      "original": "（四○四）",
+      "translation": "（四○四）",
+      "is_num": true
+    },
+    "284": {
+      "original": "（四○五）",
+      "translation": "（四○五）",
+      "is_num": true
+    },
+    "295": {
+      "original": "（四○六）",
+      "translation": "（四○六）",
+      "is_num": true
+    }
+  },
+  "16": {
+    "26": {
+      "original": "（四一一）",
+      "translation": "（四一一）",
+      "is_num": true
+    },
+    "33": {
+      "original": "（四一二）",
+      "translation": "（四一二）",
+      "is_num": true
+    },
+    "39": {
+      "original": "（四一三）",
+      "translation": "（四一三）",
+      "is_num": true
+    },
+    "46": {
+      "original": "（四一四）",
+      "translation": "（四一四）",
+      "is_num": true
+    },
+    "53": {
+      "original": "（四一五）",
+      "translation": "（四一五）",
+      "is_num": true
+    },
+    "58": {
+      "original": "（四一六）",
+      "translation": "（四一六）",
+      "is_num": true
+    },
+    "67": {
+      "original": "（四一七）",
+      "translation": "（四一七）",
+      "is_num": true
+    },
+    "76": {
+      "original": "（四一八）",
+      "translation": "（四一八）",
+      "is_num": true
+    },
+    "83": {
+      "original": "（四一九）",
+      "translation": "（四一九）",
+      "is_num": true
+    },
+    "88": {
+      "original": "（四二○）",
+      "translation": "（四二○）",
+      "is_num": true
+    },
+    "109": {
+      "original": "（四二三）",
+      "translation": "（四二三）",
+      "is_num": true
+    },
+    "116": {
+      "original": "（四二四）",
+      "translation": "（四二四）",
+      "is_num": true
+    },
+    "123": {
+      "original": "（四二五）",
+      "translation": "（四二五）",
+      "is_num": true
+    },
+    "128": {
+      "original": "（四二六）",
+      "translation": "（四二六）",
+      "is_num": true
+    },
+    "133": {
+      "original": "（四二七）",
+      "translation": "（四二七）",
+      "is_num": true
+    },
+    "139": {
+      "original": "（四二八）",
+      "translation": "（四二八）",
+      "is_num": true
+    },
+    "144": {
+      "original": "（四二九）",
+      "translation": "（四二九）",
+      "is_num": true
+    },
+    "149": {
+      "original": "（四三○）",
+      "translation": "（四三○）",
+      "is_num": true
+    },
+    "154": {
+      "original": "（四三一）",
+      "translation": "（四三一）",
+      "is_num": true
+    },
+    "159": {
+      "original": "（四三二）",
+      "translation": "（四三二）",
+      "is_num": true
+    },
+    "164": {
+      "original": "（四三三）",
+      "translation": "（四三三）",
+      "is_num": true
+    },
+    "169": {
+      "original": "（四三四）",
+      "translation": "（四三四）",
+      "is_num": true
+    },
+    "176": {
+      "original": "（四三五）",
+      "translation": "（四三五）",
+      "is_num": true
+    },
+    "185": {
+      "original": "（四三六）",
+      "translation": "（四三六）",
+      "is_num": true
+    },
+    "189": {
+      "original": "（四三七）",
+      "translation": "（四三七）",
+      "is_num": true
+    },
+    "194": {
+      "original": "（四三八）",
+      "translation": "（四三八）",
+      "is_num": true
+    },
+    "201": {
+      "original": "（四三九）",
+      "translation": "（四三九）",
+      "is_num": true
+    },
+    "208": {
+      "original": "（四四○）",
+      "translation": "（四四○）",
+      "is_num": true
+    },
+    "216": {
+      "original": "（四四一）",
+      "translation": "（四四一）",
+      "is_num": true
+    },
+    "225": {
+      "original": "（四四二）",
+      "translation": "（四四二）",
+      "is_num": true
+    },
+    "261": {
+      "original": "（四四三）",
+      "translation": "（四四三）",
+      "is_num": true
+    },
+    "268": {
+      "original": "（四四四）",
+      "translation": "（四四四）",
+      "is_num": true
+    },
+    "273": {
+      "original": "（四四五）",
+      "translation": "（四四五）",
+      "is_num": true
+    },
+    "278": {
+      "original": "（四四六）",
+      "translation": "（四四六）",
+      "is_num": true
+    },
+    "283": {
+      "original": "（四四七）",
+      "translation": "（四四七）",
+      "is_num": true
+    },
+    "300": {
+      "original": "（四四八）",
+      "translation": "（四四八）",
+      "is_num": true
+    },
+    "304": {
+      "original": "（四四九）",
+      "translation": "（四四九）",
+      "is_num": true
+    },
+    "309": {
+      "original": "（四五○）",
+      "translation": "（四五○）",
+      "is_num": true
+    },
+    "315": {
+      "original": "（四五一）",
+      "translation": "（四五一）",
+      "is_num": true
+    },
+    "320": {
+      "original": "（四五二）",
+      "translation": "（四五二）",
+      "is_num": true
+    },
+    "327": {
+      "original": "（四五三）",
+      "translation": "（四五三）",
+      "is_num": true
+    },
+    "334": {
+      "original": "（四五四）",
+      "translation": "（四五四）",
+      "is_num": true
+    }
+  },
+  "17": {
+    "3": {
+      "original": "（四五六）",
+      "translation": "（四五六）",
+      "is_num": true
+    },
+    "12": {
+      "original": "（四五七）",
+      "translation": "（四五七）",
+      "is_num": true
+    },
+    "19": {
+      "original": "（四五八）",
+      "translation": "（四五八）",
+      "is_num": true
+    },
+    "30": {
+      "original": "（四五九）",
+      "translation": "（四五九）",
+      "is_num": true
+    },
+    "44": {
+      "original": "（四六○）",
+      "translation": "（四六○）",
+      "is_num": true
+    },
+    "66": {
+      "original": "（四六三）",
+      "translation": "（四六三）",
+      "is_num": true
+    },
+    "73": {
+      "original": "（四六四）",
+      "translation": "（四六四）",
+      "is_num": true
+    },
+    "93": {
+      "original": "（四六五）",
+      "translation": "（四六五）",
+      "is_num": true
+    },
+    "100": {
+      "original": "（四六六）",
+      "translation": "（四六六）",
+      "is_num": true
+    },
+    "106": {
+      "original": "（四六七）",
+      "translation": "（四六七）",
+      "is_num": true
+    },
+    "114": {
+      "original": "（四六八）",
+      "translation": "（四六八）",
+      "is_num": true
+    },
+    "123": {
+      "original": "（四六九）",
+      "translation": "（四六九）",
+      "is_num": true
+    },
+    "130": {
+      "original": "（四七○）",
+      "translation": "（四七○）",
+      "is_num": true
+    },
+    "143": {
+      "original": "（四七一）",
+      "translation": "（四七一）",
+      "is_num": true
+    },
+    "150": {
+      "original": "（四七二）",
+      "translation": "（四七二）",
+      "is_num": true
+    },
+    "157": {
+      "original": "（四七三）",
+      "translation": "（四七三）",
+      "is_num": true
+    },
+    "165": {
+      "original": "（四七四）",
+      "translation": "（四七四）",
+      "is_num": true
+    },
+    "179": {
+      "original": "（四七五）",
+      "translation": "（四七五）",
+      "is_num": true
+    },
+    "185": {
+      "original": "（四七六）",
+      "translation": "（四七六）",
+      "is_num": true
+    },
+    "192": {
+      "original": "（四七七）",
+      "translation": "（四七七）",
+      "is_num": true
+    },
+    "194": {
+      "original": "（四七八）",
+      "translation": "（四七八）",
+      "is_num": true
+    },
+    "201": {
+      "original": "（四七九）",
+      "translation": "（四七九）",
+      "is_num": true
+    },
+    "206": {
+      "original": "（四八○）",
+      "translation": "（四八○）",
+      "is_num": true
+    },
+    "213": {
+      "original": "（四八一）",
+      "translation": "（四八一）",
+      "is_num": true
+    },
+    "222": {
+      "original": "（四八二）",
+      "translation": "（四八二）",
+      "is_num": true
+    },
+    "232": {
+      "original": "（四八三）",
+      "translation": "（四八三）",
+      "is_num": true
+    },
+    "241": {
+      "original": "（四八四）",
+      "translation": "（四八四）",
+      "is_num": true
+    },
+    "253": {
+      "original": "（四八五）",
+      "translation": "（四八五）",
+      "is_num": true
+    },
+    "269": {
+      "original": "（四八六）",
+      "translation": "（四八六）",
+      "is_num": true
+    },
+    "274": {
+      "original": "（四八七）",
+      "translation": "（四八七）",
+      "is_num": true
+    },
+    "279": {
+      "original": "（四八八）",
+      "translation": "（四八八）",
+      "is_num": true
+    },
+    "284": {
+      "original": "（四八九）",
+      "translation": "（四八九）",
+      "is_num": true
+    }
+  },
+  "18": {
+    "3": {
+      "original": "（四九○）",
+      "translation": "（四九○）",
+      "is_num": true
+    },
+    "162": {
+      "original": "（四九一）",
+      "translation": "（四九一）",
+      "is_num": true
+    },
+    "164": {
+      "original": "（四九二）",
+      "translation": "（四九二）",
+      "is_num": true
+    },
+    "170": {
+      "original": "（四九三）",
+      "translation": "（四九三）",
+      "is_num": true
+    },
+    "176": {
+      "original": "（四九四）",
+      "translation": "（四九四）",
+      "is_num": true
+    },
+    "182": {
+      "original": "（四九五）",
+      "translation": "（四九五）",
+      "is_num": true
+    },
+    "188": {
+      "original": "（四九六）",
+      "translation": "（四九六）",
+      "is_num": true
+    },
+    "196": {
+      "original": "（四九七）",
+      "translation": "（四九七）",
+      "is_num": true
+    },
+    "221": {
+      "original": "（四九八）",
+      "translation": "（四九八）",
+      "is_num": true
+    },
+    "253": {
+      "original": "（五○○）",
+      "translation": "（五○○）",
+      "is_num": true
+    },
+    "271": {
+      "original": "（五○一）",
+      "translation": "（五○一）",
+      "is_num": true
+    },
+    "277": {
+      "original": "（五○二）",
+      "translation": "（五○二）",
+      "is_num": true
+    },
+    "283": {
+      "original": "（五○三）",
+      "translation": "（五○三）",
+      "is_num": true
+    }
+  },
+  "19": {
+    "28": {
+      "original": "（五○六）",
+      "translation": "（五○六）",
+      "is_num": true
+    },
+    "51": {
+      "original": "（五○七）",
+      "translation": "（五○七）",
+      "is_num": true
+    },
+    "57": {
+      "original": "（五○八）",
+      "translation": "（五○八）",
+      "is_num": true
+    },
+    "68": {
+      "original": "（五○九）",
+      "translation": "（五○九）",
+      "is_num": true
+    },
+    "78": {
+      "original": "（五一○）",
+      "translation": "（五一○）",
+      "is_num": true
+    },
+    "88": {
+      "original": "（五一一）",
+      "translation": "（五一一）",
+      "is_num": true
+    },
+    "92": {
+      "original": "（五一二）",
+      "translation": "（五一二）",
+      "is_num": true
+    },
+    "96": {
+      "original": "（五一三）",
+      "translation": "（五一三）",
+      "is_num": true
+    },
+    "101": {
+      "original": "（五一四）",
+      "translation": "（五一四）",
+      "is_num": true
+    },
+    "105": {
+      "original": "（五一五）",
+      "translation": "（五一五）",
+      "is_num": true
+    },
+    "109": {
+      "original": "（五一六）",
+      "translation": "（五一六）",
+      "is_num": true
+    },
+    "113": {
+      "original": "（五一七）",
+      "translation": "（五一七）",
+      "is_num": true
+    },
+    "118": {
+      "original": "（五一八）",
+      "translation": "（五一八）",
+      "is_num": true
+    },
+    "123": {
+      "original": "（五一九）",
+      "translation": "（五一九）",
+      "is_num": true
+    },
+    "128": {
+      "original": "（五二○）",
+      "translation": "（五二○）",
+      "is_num": true
+    },
+    "132": {
+      "original": "（五二一）",
+      "translation": "（五二一）",
+      "is_num": true
+    },
+    "136": {
+      "original": "（五二二）",
+      "translation": "（五二二）",
+      "is_num": true
+    },
+    "140": {
+      "original": "（五二三）",
+      "translation": "（五二三）",
+      "is_num": true
+    },
+    "149": {
+      "original": "（五二四）",
+      "translation": "（五二四）",
+      "is_num": true
+    },
+    "153": {
+      "original": "（五二五）",
+      "translation": "（五二五）",
+      "is_num": true
+    },
+    "157": {
+      "original": "（五二六）",
+      "translation": "（五二六）",
+      "is_num": true
+    },
+    "161": {
+      "original": "（五二七）",
+      "translation": "（五二七）",
+      "is_num": true
+    },
+    "165": {
+      "original": "（五二八）",
+      "translation": "（五二八）",
+      "is_num": true
+    },
+    "169": {
+      "original": "（五二九）",
+      "translation": "（五二九）",
+      "is_num": true
+    },
+    "173": {
+      "original": "（五三○）",
+      "translation": "（五三○）",
+      "is_num": true
+    },
+    "178": {
+      "original": "（五三一）",
+      "translation": "（五三一）",
+      "is_num": true
+    },
+    "182": {
+      "original": "（五三二）",
+      "translation": "（五三二）",
+      "is_num": true
+    },
+    "186": {
+      "original": "（五三三）",
+      "translation": "（五三三）",
+      "is_num": true
+    },
+    "190": {
+      "original": "（五三四）",
+      "translation": "（五三四）",
+      "is_num": true
+    },
+    "194": {
+      "original": "（五三五）",
+      "translation": "（五三五）",
+      "is_num": true
+    },
+    "208": {
+      "original": "杂阿含经卷第十九",
+      "translation": "杂阿含经卷第十九",
+      "is_num": true
+    }
+  },
+  "20": {
+    "2": {
+      "original": "（五三七）",
+      "translation": "（五三七）",
+      "is_num": true
+    },
+    "9": {
+      "original": "（五三八）",
+      "translation": "（五三八）",
+      "is_num": true
+    },
+    "15": {
+      "original": "（五三九）",
+      "translation": "（五三九）",
+      "is_num": true
+    },
+    "22": {
+      "original": "（五四○）",
+      "translation": "（五四○）",
+      "is_num": true
+    },
+    "31": {
+      "original": "（五四一）",
+      "translation": "（五四一）",
+      "is_num": true
+    },
+    "39": {
+      "original": "（五四二）",
+      "translation": "（五四二）",
+      "is_num": true
+    },
+    "45": {
+      "original": "（五四三）",
+      "translation": "（五四三）",
+      "is_num": true
+    },
+    "51": {
+      "original": "（五四四）",
+      "translation": "（五四四）",
+      "is_num": true
+    },
+    "61": {
+      "original": "（五四五）",
+      "translation": "（五四五）",
+      "is_num": true
+    },
+    "66": {
+      "original": "（五四六）",
+      "translation": "（五四六）",
+      "is_num": true
+    },
+    "80": {
+      "original": "（五四七）",
+      "translation": "（五四七）",
+      "is_num": true
+    },
+    "92": {
+      "original": "（五四八）",
+      "translation": "（五四八）",
+      "is_num": true
+    },
+    "120": {
+      "original": "（五四九）",
+      "translation": "（五四九）",
+      "is_num": true
+    },
+    "135": {
+      "original": "（五五○）",
+      "translation": "（五五○）",
+      "is_num": true
+    },
+    "145": {
+      "original": "（五五一）",
+      "translation": "（五五一）",
+      "is_num": true
+    },
+    "167": {
+      "original": "（五五二）",
+      "translation": "（五五二）",
+      "is_num": true
+    },
+    "173": {
+      "original": "（五五三）",
+      "translation": "（五五三）",
+      "is_num": true
+    },
+    "179": {
+      "original": "（五五四）",
+      "translation": "（五五四）",
+      "is_num": true
+    },
+    "194": {
+      "original": "（五五五）",
+      "translation": "（五五五）",
+      "is_num": true
+    },
+    "198": {
+      "original": "（五五六）",
+      "translation": "（五五六）",
+      "is_num": true
+    },
+    "210": {
+      "original": "（五五七）",
+      "translation": "（五五七）",
+      "is_num": true
+    },
+    "218": {
+      "original": "（五五八）",
+      "translation": "（五五八）",
+      "is_num": true
+    }
+  },
+  "21": {
+    "2": {
+      "original": "（五五九）",
+      "translation": "（五五九）",
+      "is_num": true
+    },
+    "12": {
+      "original": "（五六○）",
+      "translation": "（五六○）",
+      "is_num": true
+    },
+    "20": {
+      "original": "（五六一）",
+      "translation": "（五六一）",
+      "is_num": true
+    },
+    "41": {
+      "original": "（五六二）",
+      "translation": "（五六二）",
+      "is_num": true
+    },
+    "51": {
+      "original": "（五六三）",
+      "translation": "（五六三）",
+      "is_num": true
+    },
+    "61": {
+      "original": "（五六四）",
+      "translation": "（五六四）",
+      "is_num": true
+    },
+    "74": {
+      "original": "（五六五）",
+      "translation": "（五六五）",
+      "is_num": true
+    },
+    "88": {
+      "original": "（五六六）",
+      "translation": "（五六六）",
+      "is_num": true
+    },
+    "108": {
+      "original": "（五六七）",
+      "translation": "（五六七）",
+      "is_num": true
+    },
+    "125": {
+      "original": "（五六八）",
+      "translation": "（五六八）",
+      "is_num": true
+    },
+    "156": {
+      "original": "（五六九）",
+      "translation": "（五六九）",
+      "is_num": true
+    },
+    "172": {
+      "original": "（五七○）",
+      "translation": "（五七○）",
+      "is_num": true
+    },
+    "192": {
+      "original": "（五七一）",
+      "translation": "（五七一）",
+      "is_num": true
+    },
+    "219": {
+      "original": "（五七二）",
+      "translation": "（五七二）",
+      "is_num": true
+    },
+    "231": {
+      "original": "（五七三）",
+      "translation": "（五七三）",
+      "is_num": true
+    },
+    "248": {
+      "original": "（五七四）",
+      "translation": "（五七四）",
+      "is_num": true
+    },
+    "261": {
+      "original": "（五七五）",
+      "translation": "（五七五）",
+      "is_num": true
+    },
+    "283": {
+      "original": "杂阿含经卷第二十一",
+      "translation": "杂阿含经卷第二十一",
+      "is_num": true
+    }
+  },
+  "22": {
+    "24": {
+      "original": "（五七八）",
+      "translation": "（五七八）",
+      "is_num": true
+    },
+    "35": {
+      "original": "（五七九）",
+      "translation": "（五七九）",
+      "is_num": true
+    },
+    "46": {
+      "original": "（五八○）",
+      "translation": "（五八○）",
+      "is_num": true
+    },
+    "57": {
+      "original": "（五八一）",
+      "translation": "（五八一）",
+      "is_num": true
+    },
+    "72": {
+      "original": "（五八二）",
+      "translation": "（五八二）",
+      "is_num": true
+    },
+    "85": {
+      "original": "（五八三）",
+      "translation": "（五八三）",
+      "is_num": true
+    },
+    "99": {
+      "original": "（五八四）",
+      "translation": "（五八四）",
+      "is_num": true
+    },
+    "114": {
+      "original": "（五八五）",
+      "translation": "（五八五）",
+      "is_num": true
+    },
+    "134": {
+      "original": "（五八六）",
+      "translation": "（五八六）",
+      "is_num": true
+    },
+    "145": {
+      "original": "（五八七）",
+      "translation": "（五八七）",
+      "is_num": true
+    },
+    "156": {
+      "original": "（五八八）",
+      "translation": "（五八八）",
+      "is_num": true
+    },
+    "167": {
+      "original": "（五八九）",
+      "translation": "（五八九）",
+      "is_num": true
+    },
+    "178": {
+      "original": "（五九○）",
+      "translation": "（五九○）",
+      "is_num": true
+    },
+    "195": {
+      "original": "（五九一）",
+      "translation": "（五九一）",
+      "is_num": true
+    },
+    "202": {
+      "original": "（五九二）",
+      "translation": "（五九二）",
+      "is_num": true
+    },
+    "241": {
+      "original": "（五九三）",
+      "translation": "（五九三）",
+      "is_num": true
+    },
+    "255": {
+      "original": "（五九四）",
+      "translation": "（五九四）",
+      "is_num": true
+    },
+    "268": {
+      "original": "（五九五）",
+      "translation": "（五九五）",
+      "is_num": true
+    },
+    "285": {
+      "original": "（五九六）",
+      "translation": "（五九六）",
+      "is_num": true
+    },
+    "296": {
+      "original": "（五九七）",
+      "translation": "（五九七）",
+      "is_num": true
+    },
+    "307": {
+      "original": "（五九八）",
+      "translation": "（五九八）",
+      "is_num": true
+    },
+    "318": {
+      "original": "（五九九）",
+      "translation": "（五九九）",
+      "is_num": true
+    },
+    "329": {
+      "original": "（六○○）",
+      "translation": "（六○○）",
+      "is_num": true
+    },
+    "340": {
+      "original": "（六○一）",
+      "translation": "（六○一）",
+      "is_num": true
+    },
+    "351": {
+      "original": "（六○二）",
+      "translation": "（六○二）",
+      "is_num": true
+    },
+    "373": {
+      "original": "杂阿含经卷第二十二",
+      "translation": "杂阿含经卷第二十二",
+      "is_num": true
+    }
+  },
+  "24": {
+    "18": {
+      "original": "（六○八）",
+      "translation": "（六○八）",
+      "is_num": true
+    },
+    "24": {
+      "original": "（六○九）",
+      "translation": "（六○九）",
+      "is_num": true
+    },
+    "49": {
+      "original": "（六一三）",
+      "translation": "（六一三）",
+      "is_num": true
+    },
+    "56": {
+      "original": "（六一四）",
+      "translation": "（六一四）",
+      "is_num": true
+    },
+    "63": {
+      "original": "（六一五）",
+      "translation": "（六一五）",
+      "is_num": true
+    },
+    "74": {
+      "original": "（六一六）",
+      "translation": "（六一六）",
+      "is_num": true
+    },
+    "80": {
+      "original": "（六一七）",
+      "translation": "（六一七）",
+      "is_num": true
+    },
+    "91": {
+      "original": "（六一八）",
+      "translation": "（六一八）",
+      "is_num": true
+    },
+    "96": {
+      "original": "（六一九）",
+      "translation": "（六一九）",
+      "is_num": true
+    },
+    "101": {
+      "original": "（六二○）",
+      "translation": "（六二○）",
+      "is_num": true
+    },
+    "107": {
+      "original": "（六二一）",
+      "translation": "（六二一）",
+      "is_num": true
+    },
+    "113": {
+      "original": "（六二二）",
+      "translation": "（六二二）",
+      "is_num": true
+    },
+    "129": {
+      "original": "（六二三）",
+      "translation": "（六二三）",
+      "is_num": true
+    },
+    "142": {
+      "original": "（六二四）",
+      "translation": "（六二四）",
+      "is_num": true
+    },
+    "154": {
+      "original": "（六二五）",
+      "translation": "（六二五）",
+      "is_num": true
+    },
+    "159": {
+      "original": "（六二六）",
+      "translation": "（六二六）",
+      "is_num": true
+    },
+    "161": {
+      "original": "（六二七）",
+      "translation": "（六二七）",
+      "is_num": true
+    },
+    "167": {
+      "original": "（六二八）",
+      "translation": "（六二八）",
+      "is_num": true
+    },
+    "173": {
+      "original": "（六二九）",
+      "translation": "（六二九）",
+      "is_num": true
+    },
+    "179": {
+      "original": "（六三○）",
+      "translation": "（六三○）",
+      "is_num": true
+    },
+    "185": {
+      "original": "（六三一）",
+      "translation": "（六三一）",
+      "is_num": true
+    },
+    "191": {
+      "original": "（六三二）",
+      "translation": "（六三二）",
+      "is_num": true
+    },
+    "197": {
+      "original": "（六三三）",
+      "translation": "（六三三）",
+      "is_num": true
+    },
+    "202": {
+      "original": "（六三四）",
+      "translation": "（六三四）",
+      "is_num": true
+    },
+    "208": {
+      "original": "（六三五）",
+      "translation": "（六三五）",
+      "is_num": true
+    },
+    "239": {
+      "original": "（六三九）",
+      "translation": "（六三九）",
+      "is_num": true
+    },
+    "245": {
+      "original": "杂阿含经卷第二十四",
+      "translation": "杂阿含经卷第二十四",
+      "is_num": true
+    }
+  },
+  "25": {
+    "41": {
+      "original": "（六四一）",
+      "translation": "（六四一）",
+      "is_num": true
+    }
+  },
+  "26": {
+    "18": {
+      "original": "（六四五）",
+      "translation": "（六四五）",
+      "is_num": true
+    },
+    "23": {
+      "original": "（六四六）",
+      "translation": "（六四六）",
+      "is_num": true
+    },
+    "28": {
+      "original": "（六四七）",
+      "translation": "（六四七）",
+      "is_num": true
+    },
+    "38": {
+      "original": "（六四八）",
+      "translation": "（六四八）",
+      "is_num": true
+    },
+    "43": {
+      "original": "（六四九）",
+      "translation": "（六四九）",
+      "is_num": true
+    },
+    "48": {
+      "original": "（六五○）",
+      "translation": "（六五○）",
+      "is_num": true
+    },
+    "54": {
+      "original": "（六五一）",
+      "translation": "（六五一）",
+      "is_num": true
+    },
+    "60": {
+      "original": "（六五二）",
+      "translation": "（六五二）",
+      "is_num": true
+    },
+    "65": {
+      "original": "（六五三）",
+      "translation": "（六五三）",
+      "is_num": true
+    },
+    "70": {
+      "original": "（六五四）",
+      "translation": "（六五四）",
+      "is_num": true
+    },
+    "75": {
+      "original": "（六五五）",
+      "translation": "（六五五）",
+      "is_num": true
+    },
+    "80": {
+      "original": "（六五六）",
+      "translation": "（六五六）",
+      "is_num": true
+    },
+    "85": {
+      "original": "（六五七）",
+      "translation": "（六五七）",
+      "is_num": true
+    },
+    "90": {
+      "original": "（六五八）",
+      "translation": "（六五八）",
+      "is_num": true
+    },
+    "95": {
+      "original": "（六五九）",
+      "translation": "（六五九）",
+      "is_num": true
+    },
+    "100": {
+      "original": "（六六○）",
+      "translation": "（六六○）",
+      "is_num": true
+    },
+    "122": {
+      "original": "（六六四）",
+      "translation": "（六六四）",
+      "is_num": true
+    },
+    "127": {
+      "original": "（六六五）",
+      "translation": "（六六五）",
+      "is_num": true
+    },
+    "133": {
+      "original": "（六六六）",
+      "translation": "（六六六）",
+      "is_num": true
+    },
+    "139": {
+      "original": "（六六七）",
+      "translation": "（六六七）",
+      "is_num": true
+    },
+    "145": {
+      "original": "（六六八）",
+      "translation": "（六六八）",
+      "is_num": true
+    },
+    "150": {
+      "original": "（六六九）",
+      "translation": "（六六九）",
+      "is_num": true
+    },
+    "157": {
+      "original": "（六七○）",
+      "translation": "（六七○）",
+      "is_num": true
+    },
+    "162": {
+      "original": "（六七一）",
+      "translation": "（六七一）",
+      "is_num": true
+    },
+    "167": {
+      "original": "（六七二）",
+      "translation": "（六七二）",
+      "is_num": true
+    },
+    "172": {
+      "original": "（六七三）",
+      "translation": "（六七三）",
+      "is_num": true
+    },
+    "177": {
+      "original": "（六七四）",
+      "translation": "（六七四）",
+      "is_num": true
+    },
+    "182": {
+      "original": "（六七五）",
+      "translation": "（六七五）",
+      "is_num": true
+    },
+    "187": {
+      "original": "（六七六）",
+      "translation": "（六七六）",
+      "is_num": true
+    },
+    "192": {
+      "original": "（六七七）",
+      "translation": "（六七七）",
+      "is_num": true
+    },
+    "197": {
+      "original": "（六七八）",
+      "translation": "（六七八）",
+      "is_num": true
+    },
+    "202": {
+      "original": "（六七九）",
+      "translation": "（六七九）",
+      "is_num": true
+    },
+    "207": {
+      "original": "（六八○）",
+      "translation": "（六八○）",
+      "is_num": true
+    },
+    "212": {
+      "original": "（六八一）",
+      "translation": "（六八一）",
+      "is_num": true
+    },
+    "218": {
+      "original": "（六八二）",
+      "translation": "（六八二）",
+      "is_num": true
+    },
+    "223": {
+      "original": "（六八三）",
+      "translation": "（六八三）",
+      "is_num": true
+    },
+    "228": {
+      "original": "（六八四）",
+      "translation": "（六八四）",
+      "is_num": true
+    },
+    "246": {
+      "original": "（六八五）",
+      "translation": "（六八五）",
+      "is_num": true
+    },
+    "254": {
+      "original": "（六八六）",
+      "translation": "（六八六）",
+      "is_num": true
+    },
+    "259": {
+      "original": "（六八七）",
+      "translation": "（六八七）",
+      "is_num": true
+    },
+    "269": {
+      "original": "（六八八）",
+      "translation": "（六八八）",
+      "is_num": true
+    },
+    "276": {
+      "original": "（六八九）",
+      "translation": "（六八九）",
+      "is_num": true
+    },
+    "281": {
+      "original": "（六九○）",
+      "translation": "（六九○）",
+      "is_num": true
+    },
+    "287": {
+      "original": "（六九一）",
+      "translation": "（六九一）",
+      "is_num": true
+    },
+    "292": {
+      "original": "（六九二）",
+      "translation": "（六九二）",
+      "is_num": true
+    },
+    "297": {
+      "original": "（六九三）",
+      "translation": "（六九三）",
+      "is_num": true
+    },
+    "317": {
+      "original": "（六九八）",
+      "translation": "（六九八）",
+      "is_num": true
+    },
+    "322": {
+      "original": "（六九九）",
+      "translation": "（六九九）",
+      "is_num": true
+    },
+    "327": {
+      "original": "（七○○）",
+      "translation": "（七○○）",
+      "is_num": true
+    },
+    "332": {
+      "original": "（七○一）",
+      "translation": "（七○一）",
+      "is_num": true
+    },
+    "337": {
+      "original": "（七○二）",
+      "translation": "（七○二）",
+      "is_num": true
+    },
+    "342": {
+      "original": "（七○三）",
+      "translation": "（七○三）",
+      "is_num": true
+    },
+    "348": {
+      "original": "（七○四）",
+      "translation": "（七○四）",
+      "is_num": true
+    },
+    "354": {
+      "original": "（七○五）",
+      "translation": "（七○五）",
+      "is_num": true
+    },
+    "359": {
+      "original": "（七○六）",
+      "translation": "（七○六）",
+      "is_num": true
+    },
+    "365": {
+      "original": "（七○七）",
+      "translation": "（七○七）",
+      "is_num": true
+    },
+    "372": {
+      "original": "（七○八）",
+      "translation": "（七○八）",
+      "is_num": true
+    },
+    "379": {
+      "original": "（七○九）",
+      "translation": "（七○九）",
+      "is_num": true
+    },
+    "384": {
+      "original": "（七一○）",
+      "translation": "（七一○）",
+      "is_num": true
+    },
+    "389": {
+      "original": "（七一一）",
+      "translation": "（七一一）",
+      "is_num": true
+    }
+  },
+  "27": {
+    "34": {
+      "original": "（七一五）",
+      "translation": "（七一五）",
+      "is_num": true
+    },
+    "63": {
+      "original": "（七一六）",
+      "translation": "（七一六）",
+      "is_num": true
+    },
+    "69": {
+      "original": "（七一七）",
+      "translation": "（七一七）",
+      "is_num": true
+    },
+    "75": {
+      "original": "（七一八）",
+      "translation": "（七一八）",
+      "is_num": true
+    },
+    "80": {
+      "original": "（七一九）",
+      "translation": "（七一九）",
+      "is_num": true
+    },
+    "88": {
+      "original": "（七二○）",
+      "translation": "（七二○）",
+      "is_num": true
+    },
+    "96": {
+      "original": "（七二一）",
+      "translation": "（七二一）",
+      "is_num": true
+    },
+    "102": {
+      "original": "（七二二）",
+      "translation": "（七二二）",
+      "is_num": true
+    },
+    "114": {
+      "original": "（七二三）",
+      "translation": "（七二三）",
+      "is_num": true
+    },
+    "119": {
+      "original": "（七二四）",
+      "translation": "（七二四）",
+      "is_num": true
+    },
+    "124": {
+      "original": "（七二五）",
+      "translation": "（七二五）",
+      "is_num": true
+    },
+    "129": {
+      "original": "（七二六）",
+      "translation": "（七二六）",
+      "is_num": true
+    },
+    "136": {
+      "original": "（七二七）",
+      "translation": "（七二七）",
+      "is_num": true
+    },
+    "148": {
+      "original": "（七二八）",
+      "translation": "（七二八）",
+      "is_num": true
+    },
+    "153": {
+      "original": "（七二九）",
+      "translation": "（七二九）",
+      "is_num": true
+    },
+    "158": {
+      "original": "（七三○）",
+      "translation": "（七三○）",
+      "is_num": true
+    },
+    "163": {
+      "original": "（七三一）",
+      "translation": "（七三一）",
+      "is_num": true
+    },
+    "168": {
+      "original": "（七三二）",
+      "translation": "（七三二）",
+      "is_num": true
+    },
+    "173": {
+      "original": "（七三三）",
+      "translation": "（七三三）",
+      "is_num": true
+    },
+    "181": {
+      "original": "（七三四）",
+      "translation": "（七三四）",
+      "is_num": true
+    },
+    "186": {
+      "original": "（七三五）",
+      "translation": "（七三五）",
+      "is_num": true
+    },
+    "190": {
+      "original": "（七三六）",
+      "translation": "（七三六）",
+      "is_num": true
+    },
+    "194": {
+      "original": "（七三七）",
+      "translation": "（七三七）",
+      "is_num": true
+    },
+    "203": {
+      "original": "（七三八）",
+      "translation": "（七三八）",
+      "is_num": true
+    },
+    "208": {
+      "original": "（七三九）",
+      "translation": "（七三九）",
+      "is_num": true
+    },
+    "213": {
+      "original": "（七四○）",
+      "translation": "（七四○）",
+      "is_num": true
+    },
+    "217": {
+      "original": "（七四一）",
+      "translation": "（七四一）",
+      "is_num": true
+    },
+    "222": {
+      "original": "（七四二）",
+      "translation": "（七四二）",
+      "is_num": true
+    },
+    "227": {
+      "original": "（七四三）",
+      "translation": "（七四三）",
+      "is_num": true
+    },
+    "235": {
+      "original": "（七四四）",
+      "translation": "（七四四）",
+      "is_num": true
+    },
+    "240": {
+      "original": "（七四五）",
+      "translation": "（七四五）",
+      "is_num": true
+    },
+    "246": {
+      "original": "（七四六）",
+      "translation": "（七四六）",
+      "is_num": true
+    },
+    "251": {
+      "original": "（七四七）",
+      "translation": "（七四七）",
+      "is_num": true
+    }
+  },
+  "28": {
+    "2": {
+      "original": "（七四八）",
+      "translation": "（七四八）",
+      "is_num": true
+    },
+    "7": {
+      "original": "（七四九）",
+      "translation": "（七四九）",
+      "is_num": true
+    },
+    "12": {
+      "original": "（七五○）",
+      "translation": "（七五○）",
+      "is_num": true
+    },
+    "18": {
+      "original": "（七五一）",
+      "translation": "（七五一）",
+      "is_num": true
+    },
+    "25": {
+      "original": "（七五二）",
+      "translation": "（七五二）",
+      "is_num": true
+    },
+    "35": {
+      "original": "（七五三）",
+      "translation": "（七五三）",
+      "is_num": true
+    },
+    "43": {
+      "original": "（七五四）",
+      "translation": "（七五四）",
+      "is_num": true
+    },
+    "49": {
+      "original": "（七五五～七）",
+      "translation": "（七五五～七）",
+      "is_num": true
+    },
+    "51": {
+      "original": "（七五八）",
+      "translation": "（七五八）",
+      "is_num": true
+    },
+    "67": {
+      "original": "（七五九）",
+      "translation": "（七五九）",
+      "is_num": true
+    },
+    "75": {
+      "original": "（七六○）",
+      "translation": "（七六○）",
+      "is_num": true
+    },
+    "93": {
+      "original": "（七六三）",
+      "translation": "（七六三）",
+      "is_num": true
+    },
+    "98": {
+      "original": "（七六四）",
+      "translation": "（七六四）",
+      "is_num": true
+    },
+    "103": {
+      "original": "（七六五）",
+      "translation": "（七六五）",
+      "is_num": true
+    },
+    "108": {
+      "original": "（七六六）",
+      "translation": "（七六六）",
+      "is_num": true
+    },
+    "114": {
+      "original": "（七六七）",
+      "translation": "（七六七）",
+      "is_num": true
+    },
+    "119": {
+      "original": "（七六八）",
+      "translation": "（七六八）",
+      "is_num": true
+    },
+    "124": {
+      "original": "（七六九）",
+      "translation": "（七六九）",
+      "is_num": true
+    },
+    "132": {
+      "original": "（七七○）",
+      "translation": "（七七○）",
+      "is_num": true
+    },
+    "146": {
+      "original": "（七七二～四）",
+      "translation": "（七七二～四）",
+      "is_num": true
+    },
+    "148": {
+      "original": "（七七五）",
+      "translation": "（七七五）",
+      "is_num": true
+    },
+    "154": {
+      "original": "（七七六）",
+      "translation": "（七七六）",
+      "is_num": true
+    },
+    "160": {
+      "original": "（七七七）",
+      "translation": "（七七七）",
+      "is_num": true
+    },
+    "166": {
+      "original": "（七七八）",
+      "translation": "（七七八）",
+      "is_num": true
+    },
+    "172": {
+      "original": "（七七九）",
+      "translation": "（七七九）",
+      "is_num": true
+    },
+    "177": {
+      "original": "（七八○）",
+      "translation": "（七八○）",
+      "is_num": true
+    },
+    "183": {
+      "original": "（七八一）",
+      "translation": "（七八一）",
+      "is_num": true
+    },
+    "191": {
+      "original": "（七八二）",
+      "translation": "（七八二）",
+      "is_num": true
+    },
+    "197": {
+      "original": "（七八三）",
+      "translation": "（七八三）",
+      "is_num": true
+    },
+    "211": {
+      "original": "（七八四）",
+      "translation": "（七八四）",
+      "is_num": true
+    },
+    "216": {
+      "original": "（七八五）",
+      "translation": "（七八五）",
+      "is_num": true
+    },
+    "227": {
+      "original": "（七八六）",
+      "translation": "（七八六）",
+      "is_num": true
+    },
+    "232": {
+      "original": "（七八七）",
+      "translation": "（七八七）",
+      "is_num": true
+    },
+    "238": {
+      "original": "（七八八）",
+      "translation": "（七八八）",
+      "is_num": true
+    },
+    "248": {
+      "original": "（七八九）",
+      "translation": "（七八九）",
+      "is_num": true
+    },
+    "255": {
+      "original": "（七九○）",
+      "translation": "（七九○）",
+      "is_num": true
+    },
+    "260": {
+      "original": "（七九一）",
+      "translation": "（七九一）",
+      "is_num": true
+    },
+    "265": {
+      "original": "（七九二）",
+      "translation": "（七九二）",
+      "is_num": true
+    },
+    "270": {
+      "original": "（七九三）",
+      "translation": "（七九三）",
+      "is_num": true
+    },
+    "276": {
+      "original": "（七九四）",
+      "translation": "（七九四）",
+      "is_num": true
+    },
+    "281": {
+      "original": "（七九五）",
+      "translation": "（七九五）",
+      "is_num": true
+    },
+    "286": {
+      "original": "（七九六）",
+      "translation": "（七九六）",
+      "is_num": true
+    }
+  },
+  "29": {
+    "2": {
+      "original": "（七九七）",
+      "translation": "（七九七）",
+      "is_num": true
+    },
+    "7": {
+      "original": "（七九八）",
+      "translation": "（七九八）",
+      "is_num": true
+    },
+    "12": {
+      "original": "（七九九）",
+      "translation": "（七九九）",
+      "is_num": true
+    },
+    "17": {
+      "original": "（八○○）",
+      "translation": "（八○○）",
+      "is_num": true
+    },
+    "20": {
+      "original": "（八○一）",
+      "translation": "（八○一）",
+      "is_num": true
+    },
+    "25": {
+      "original": "（八○二）",
+      "translation": "（八○二）",
+      "is_num": true
+    },
+    "30": {
+      "original": "（八○三）",
+      "translation": "（八○三）",
+      "is_num": true
+    },
+    "41": {
+      "original": "（八○五）",
+      "translation": "（八○五）",
+      "is_num": true
+    },
+    "93": {
+      "original": "（八一○）",
+      "translation": "（八一○）",
+      "is_num": true
+    },
+    "146": {
+      "original": "（八一六）",
+      "translation": "（八一六）",
+      "is_num": true
+    },
+    "169": {
+      "original": "（八二○）",
+      "translation": "（八二○）",
+      "is_num": true
+    },
+    "176": {
+      "original": "（八二一）",
+      "translation": "（八二一）",
+      "is_num": true
+    },
+    "184": {
+      "original": "（八二二）",
+      "translation": "（八二二）",
+      "is_num": true
+    },
+    "192": {
+      "original": "（八二三）",
+      "translation": "（八二三）",
+      "is_num": true
+    },
+    "200": {
+      "original": "（八二四）",
+      "translation": "（八二四）",
+      "is_num": true
+    },
+    "207": {
+      "original": "（八二五）",
+      "translation": "（八二五）",
+      "is_num": true
+    },
+    "214": {
+      "original": "（八二六）",
+      "translation": "（八二六）",
+      "is_num": true
+    },
+    "226": {
+      "original": "（八二七）",
+      "translation": "（八二七）",
+      "is_num": true
+    },
+    "232": {
+      "original": "（八二八）",
+      "translation": "（八二八）",
+      "is_num": true
+    },
+    "239": {
+      "original": "（八二九）",
+      "translation": "（八二九）",
+      "is_num": true
+    }
+  },
+  "30": {
+    "16": {
+      "original": "（八三一）",
+      "translation": "（八三一）",
+      "is_num": true
+    },
+    "21": {
+      "original": "（八三二）",
+      "translation": "（八三二）",
+      "is_num": true
+    },
+    "28": {
+      "original": "（八三三）",
+      "translation": "（八三三）",
+      "is_num": true
+    },
+    "36": {
+      "original": "（八三四）",
+      "translation": "（八三四）",
+      "is_num": true
+    },
+    "41": {
+      "original": "（八三五）",
+      "translation": "（八三五）",
+      "is_num": true
+    },
+    "47": {
+      "original": "（八三六）",
+      "translation": "（八三六）",
+      "is_num": true
+    },
+    "52": {
+      "original": "（八三七）",
+      "translation": "（八三七）",
+      "is_num": true
+    },
+    "79": {
+      "original": "（八四二）",
+      "translation": "（八四二）",
+      "is_num": true
+    },
+    "84": {
+      "original": "（八四三）",
+      "translation": "（八四三）",
+      "is_num": true
+    },
+    "113": {
+      "original": "（八四六）",
+      "translation": "（八四六）",
+      "is_num": true
+    },
+    "119": {
+      "original": "（八四七）",
+      "translation": "（八四七）",
+      "is_num": true
+    },
+    "124": {
+      "original": "（八四八）",
+      "translation": "（八四八）",
+      "is_num": true
+    },
+    "132": {
+      "original": "（八四九）",
+      "translation": "（八四九）",
+      "is_num": true
+    },
+    "137": {
+      "original": "（八五○）",
+      "translation": "（八五○）",
+      "is_num": true
+    },
+    "142": {
+      "original": "（八五一）",
+      "translation": "（八五一）",
+      "is_num": true
+    },
+    "146": {
+      "original": "（八五二）",
+      "translation": "（八五二）",
+      "is_num": true
+    },
+    "153": {
+      "original": "（八五三）",
+      "translation": "（八五三）",
+      "is_num": true
+    },
+    "156": {
+      "original": "（八五四）",
+      "translation": "（八五四）",
+      "is_num": true
+    },
+    "164": {
+      "original": "（八五五）",
+      "translation": "（八五五）",
+      "is_num": true
+    },
+    "170": {
+      "original": "（八五六）",
+      "translation": "（八五六）",
+      "is_num": true
+    },
+    "176": {
+      "original": "（八五七）",
+      "translation": "（八五七）",
+      "is_num": true
+    },
+    "182": {
+      "original": "（八五八）",
+      "translation": "（八五八）",
+      "is_num": true
+    },
+    "189": {
+      "original": "（八五九）",
+      "translation": "（八五九）",
+      "is_num": true
+    },
+    "193": {
+      "original": "（八六○）",
+      "translation": "（八六○）",
+      "is_num": true
+    }
+  },
+  "31": {
+    "18": {
+      "original": "（八六四）",
+      "translation": "（八六四）",
+      "is_num": true
+    },
+    "23": {
+      "original": "（八六五）",
+      "translation": "（八六五）",
+      "is_num": true
+    },
+    "28": {
+      "original": "（八六六）",
+      "translation": "（八六六）",
+      "is_num": true
+    },
+    "33": {
+      "original": "（八六七）",
+      "translation": "（八六七）",
+      "is_num": true
+    },
+    "38": {
+      "original": "（八六八）",
+      "translation": "（八六八）",
+      "is_num": true
+    },
+    "43": {
+      "original": "（八六九）",
+      "translation": "（八六九）",
+      "is_num": true
+    },
+    "48": {
+      "original": "（八七○）",
+      "translation": "（八七○）",
+      "is_num": true
+    },
+    "54": {
+      "original": "（八七一）",
+      "translation": "（八七一）",
+      "is_num": true
+    },
+    "60": {
+      "original": "（八七二）",
+      "translation": "（八七二）",
+      "is_num": true
+    },
+    "67": {
+      "original": "（八七三）",
+      "translation": "（八七三）",
+      "is_num": true
+    },
+    "75": {
+      "original": "（八七四）",
+      "translation": "（八七四）",
+      "is_num": true
+    },
+    "83": {
+      "original": "（八七五）",
+      "translation": "（八七五）",
+      "is_num": true
+    },
+    "88": {
+      "original": "（八七六）",
+      "translation": "（八七六）",
+      "is_num": true
+    },
+    "95": {
+      "original": "（八七七）",
+      "translation": "（八七七）",
+      "is_num": true
+    },
+    "100": {
+      "original": "（八七八）",
+      "translation": "（八七八）",
+      "is_num": true
+    },
+    "126": {
+      "original": "（八八二）",
+      "translation": "（八八二）",
+      "is_num": true
+    },
+    "200": {
+      "original": "（八八六）",
+      "translation": "（八八六）",
+      "is_num": true
+    },
+    "214": {
+      "original": "（八八七）",
+      "translation": "（八八七）",
+      "is_num": true
+    },
+    "220": {
+      "original": "（八八八）",
+      "translation": "（八八八）",
+      "is_num": true
+    },
+    "226": {
+      "original": "（八八九）",
+      "translation": "（八八九）",
+      "is_num": true
+    },
+    "232": {
+      "original": "（八九○）",
+      "translation": "（八九○）",
+      "is_num": true
+    },
+    "238": {
+      "original": "（八九一）",
+      "translation": "（八九一）",
+      "is_num": true
+    },
+    "248": {
+      "original": "（八九二）",
+      "translation": "（八九二）",
+      "is_num": true
+    },
+    "254": {
+      "original": "（八九三）",
+      "translation": "（八九三）",
+      "is_num": true
+    },
+    "260": {
+      "original": "（八九四）",
+      "translation": "（八九四）",
+      "is_num": true
+    },
+    "267": {
+      "original": "（八九五）",
+      "translation": "（八九五）",
+      "is_num": true
+    },
+    "273": {
+      "original": "（八九六）",
+      "translation": "（八九六）",
+      "is_num": true
+    },
+    "279": {
+      "original": "（八九七）",
+      "translation": "（八九七）",
+      "is_num": true
+    },
+    "304": {
+      "original": "（九○一）",
+      "translation": "（九○一）",
+      "is_num": true
+    },
+    "310": {
+      "original": "（九○二）",
+      "translation": "（九○二）",
+      "is_num": true
+    },
+    "314": {
+      "original": "（九○三）",
+      "translation": "（九○三）",
+      "is_num": true
+    },
+    "319": {
+      "original": "（九○四）",
+      "translation": "（九○四）",
+      "is_num": true
+    }
+  },
+  "32": {
+    "43": {
+      "original": "（九○八）",
+      "translation": "（九○八）",
+      "is_num": true
+    },
+    "58": {
+      "original": "（九○九）",
+      "translation": "（九○九）",
+      "is_num": true
+    },
+    "75": {
+      "original": "（九一○）",
+      "translation": "（九一○）",
+      "is_num": true
+    },
+    "85": {
+      "original": "（九一一）",
+      "translation": "（九一一）",
+      "is_num": true
+    },
+    "98": {
+      "original": "（九一二）",
+      "translation": "（九一二）",
+      "is_num": true
+    },
+    "120": {
+      "original": "（九一三）",
+      "translation": "（九一三）",
+      "is_num": true
+    },
+    "141": {
+      "original": "（九一四）",
+      "translation": "（九一四）",
+      "is_num": true
+    },
+    "154": {
+      "original": "（九一五）",
+      "translation": "（九一五）",
+      "is_num": true
+    },
+    "185": {
+      "original": "（九一六）",
+      "translation": "（九一六）",
+      "is_num": true
+    },
+    "201": {
+      "original": "（九一七）",
+      "translation": "（九一七）",
+      "is_num": true
+    },
+    "209": {
+      "original": "（九一八）",
+      "translation": "（九一八）",
+      "is_num": true
+    }
+  },
+  "33": {
+    "2": {
+      "original": "（九一九）",
+      "translation": "（九一九）",
+      "is_num": true
+    },
+    "10": {
+      "original": "（九二○）",
+      "translation": "（九二○）",
+      "is_num": true
+    },
+    "18": {
+      "original": "（九二一）",
+      "translation": "（九二一）",
+      "is_num": true
+    },
+    "23": {
+      "original": "（九二二）",
+      "translation": "（九二二）",
+      "is_num": true
+    },
+    "29": {
+      "original": "（九二三）",
+      "translation": "（九二三）",
+      "is_num": true
+    },
+    "48": {
+      "original": "（九二四）",
+      "translation": "（九二四）",
+      "is_num": true
+    },
+    "81": {
+      "original": "（九二七）",
+      "translation": "（九二七）",
+      "is_num": true
+    },
+    "97": {
+      "original": "（九二八）",
+      "translation": "（九二八）",
+      "is_num": true
+    },
+    "110": {
+      "original": "（九二九）",
+      "translation": "（九二九）",
+      "is_num": true
+    },
+    "144": {
+      "original": "（九三二）",
+      "translation": "（九三二）",
+      "is_num": true
+    },
+    "151": {
+      "original": "（九三三）",
+      "translation": "（九三三）",
+      "is_num": true
+    },
+    "157": {
+      "original": "（九三四）",
+      "translation": "（九三四）",
+      "is_num": true
+    },
+    "171": {
+      "original": "（九三五）",
+      "translation": "（九三五）",
+      "is_num": true
+    },
+    "183": {
+      "original": "（九三六）",
+      "translation": "（九三六）",
+      "is_num": true
+    },
+    "195": {
+      "original": "（九三七）",
+      "translation": "（九三七）",
+      "is_num": true
+    },
+    "213": {
+      "original": "（九三八）",
+      "translation": "（九三八）",
+      "is_num": true
+    },
+    "228": {
+      "original": "（九三九）",
+      "translation": "（九三九）",
+      "is_num": true
+    }
+  },
+  "34": {
+    "17": {
+      "original": "（九四三）",
+      "translation": "（九四三）",
+      "is_num": true
+    },
+    "22": {
+      "original": "（九四四）",
+      "translation": "（九四四）",
+      "is_num": true
+    },
+    "27": {
+      "original": "（九四五）",
+      "translation": "（九四五）",
+      "is_num": true
+    },
+    "32": {
+      "original": "（九四六）",
+      "translation": "（九四六）",
+      "is_num": true
+    },
+    "44": {
+      "original": "（九四七）",
+      "translation": "（九四七）",
+      "is_num": true
+    },
+    "51": {
+      "original": "（九四八）",
+      "translation": "（九四八）",
+      "is_num": true
+    },
+    "60": {
+      "original": "（九四九）",
+      "translation": "（九四九）",
+      "is_num": true
+    },
+    "78": {
+      "original": "（九五一）",
+      "translation": "（九五一）",
+      "is_num": true
+    },
+    "83": {
+      "original": "（九五二）",
+      "translation": "（九五二）",
+      "is_num": true
+    },
+    "88": {
+      "original": "（九五三）",
+      "translation": "（九五三）",
+      "is_num": true
+    },
+    "93": {
+      "original": "（九五四）",
+      "translation": "（九五四）",
+      "is_num": true
+    },
+    "98": {
+      "original": "（九五五）",
+      "translation": "（九五五）",
+      "is_num": true
+    },
+    "103": {
+      "original": "（九五六）",
+      "translation": "（九五六）",
+      "is_num": true
+    },
+    "114": {
+      "original": "（九五七）",
+      "translation": "（九五七）",
+      "is_num": true
+    },
+    "161": {
+      "original": "（九六○）",
+      "translation": "（九六○）",
+      "is_num": true
+    },
+    "170": {
+      "original": "（九六一）",
+      "translation": "（九六一）",
+      "is_num": true
+    },
+    "180": {
+      "original": "（九六二）",
+      "translation": "（九六二）",
+      "is_num": true
+    },
+    "201": {
+      "original": "（九六三）",
+      "translation": "（九六三）",
+      "is_num": true
+    },
+    "209": {
+      "original": "（九六四）",
+      "translation": "（九六四）",
+      "is_num": true
+    },
+    "253": {
+      "original": "（九六五）",
+      "translation": "（九六五）",
+      "is_num": true
+    },
+    "268": {
+      "original": "（九六六）",
+      "translation": "（九六六）",
+      "is_num": true
+    },
+    "277": {
+      "original": "（九六七）",
+      "translation": "（九六七）",
+      "is_num": true
+    },
+    "298": {
+      "original": "（九六八）",
+      "translation": "（九六八）",
+      "is_num": true
+    }
+  },
+  "35": {
+    "29": {
+      "original": "（九七二）",
+      "translation": "（九七二）",
+      "is_num": true
+    },
+    "41": {
+      "original": "（九七三）",
+      "translation": "（九七三）",
+      "is_num": true
+    },
+    "56": {
+      "original": "（九七四）",
+      "translation": "（九七四）",
+      "is_num": true
+    },
+    "70": {
+      "original": "（九七五）",
+      "translation": "（九七五）",
+      "is_num": true
+    },
+    "98": {
+      "original": "（九七八）",
+      "translation": "（九七八）",
+      "is_num": true
+    },
+    "111": {
+      "original": "（九七九）",
+      "translation": "（九七九）",
+      "is_num": true
+    },
+    "133": {
+      "original": "（九八○）",
+      "translation": "（九八○）",
+      "is_num": true
+    },
+    "146": {
+      "original": "（九八一）",
+      "translation": "（九八一）",
+      "is_num": true
+    },
+    "152": {
+      "original": "（九八二）",
+      "translation": "（九八二）",
+      "is_num": true
+    },
+    "164": {
+      "original": "（九八三）",
+      "translation": "（九八三）",
+      "is_num": true
+    },
+    "174": {
+      "original": "（九八四）",
+      "translation": "（九八四）",
+      "is_num": true
+    },
+    "180": {
+      "original": "（九八五）",
+      "translation": "（九八五）",
+      "is_num": true
+    },
+    "195": {
+      "original": "（九八六）",
+      "translation": "（九八六）",
+      "is_num": true
+    },
+    "202": {
+      "original": "（九八七）",
+      "translation": "（九八七）",
+      "is_num": true
+    },
+    "207": {
+      "original": "（九八八）",
+      "translation": "（九八八）",
+      "is_num": true
+    },
+    "214": {
+      "original": "（九八九）",
+      "translation": "（九八九）",
+      "is_num": true
+    },
+    "221": {
+      "original": "（九九○）",
+      "translation": "（九九○）",
+      "is_num": true
+    },
+    "235": {
+      "original": "（九九一）",
+      "translation": "（九九一）",
+      "is_num": true
+    },
+    "243": {
+      "original": "（九九二）",
+      "translation": "（九九二）",
+      "is_num": true
+    }
+  },
+  "36": {
+    "28": {
+      "original": "（九九五）",
+      "translation": "（九九五）",
+      "is_num": true
+    },
+    "39": {
+      "original": "（九九六）",
+      "translation": "（九九六）",
+      "is_num": true
+    },
+    "50": {
+      "original": "（九九七）",
+      "translation": "（九九七）",
+      "is_num": true
+    },
+    "87": {
+      "original": "（一○○○）",
+      "translation": "（一○○○）",
+      "is_num": true
+    },
+    "98": {
+      "original": "（一○○一）",
+      "translation": "（一○○一）",
+      "is_num": true
+    },
+    "109": {
+      "original": "（一○○二）",
+      "translation": "（一○○二）",
+      "is_num": true
+    },
+    "120": {
+      "original": "（一○○三）",
+      "translation": "（一○○三）",
+      "is_num": true
+    },
+    "131": {
+      "original": "（一○○四）",
+      "translation": "（一○○四）",
+      "is_num": true
+    },
+    "153": {
+      "original": "（一○○六）",
+      "translation": "（一○○六）",
+      "is_num": true
+    },
+    "164": {
+      "original": "（一○○七）",
+      "translation": "（一○○七）",
+      "is_num": true
+    },
+    "175": {
+      "original": "（一○○八）",
+      "translation": "（一○○八）",
+      "is_num": true
+    },
+    "194": {
+      "original": "（一○○九）",
+      "translation": "（一○○九）",
+      "is_num": true
+    },
+    "205": {
+      "original": "（一○一○）",
+      "translation": "（一○一○）",
+      "is_num": true
+    },
+    "216": {
+      "original": "（一○一一）",
+      "translation": "（一○一一）",
+      "is_num": true
+    },
+    "227": {
+      "original": "（一○一二）",
+      "translation": "（一○一二）",
+      "is_num": true
+    },
+    "242": {
+      "original": "（一○一三）",
+      "translation": "（一○一三）",
+      "is_num": true
+    },
+    "253": {
+      "original": "（一○一四）",
+      "translation": "（一○一四）",
+      "is_num": true
+    },
+    "264": {
+      "original": "（一○一五）",
+      "translation": "（一○一五）",
+      "is_num": true
+    },
+    "275": {
+      "original": "（一○一六）",
+      "translation": "（一○一六）",
+      "is_num": true
+    },
+    "286": {
+      "original": "（一○一七）",
+      "translation": "（一○一七）",
+      "is_num": true
+    },
+    "297": {
+      "original": "（一○一八）",
+      "translation": "（一○一八）",
+      "is_num": true
+    },
+    "308": {
+      "original": "（一○一九）",
+      "translation": "（一○一九）",
+      "is_num": true
+    },
+    "317": {
+      "original": "（一○二○）",
+      "translation": "（一○二○）",
+      "is_num": true
+    },
+    "328": {
+      "original": "（一○二一）",
+      "translation": "（一○二一）",
+      "is_num": true
+    },
+    "339": {
+      "original": "（一○二二）",
+      "translation": "（一○二二）",
+      "is_num": true
+    },
+    "350": {
+      "original": "杂阿含经卷第三十六",
+      "translation": "杂阿含经卷第三十六",
+      "is_num": true
+    }
+  },
+  "37": {
+    "17": {
+      "original": "（一○二四）",
+      "translation": "（一○二四）",
+      "is_num": true
+    },
+    "64": {
+      "original": "（一○二六）",
+      "translation": "（一○二六）",
+      "is_num": true
+    },
+    "68": {
+      "original": "（一○二七）",
+      "translation": "（一○二七）",
+      "is_num": true
+    },
+    "76": {
+      "original": "（一○二八）",
+      "translation": "（一○二八）",
+      "is_num": true
+    },
+    "87": {
+      "original": "（一○二九）",
+      "translation": "（一○二九）",
+      "is_num": true
+    },
+    "126": {
+      "original": "（一○三三）",
+      "translation": "（一○三三）",
+      "is_num": true
+    },
+    "132": {
+      "original": "（一○三四）",
+      "translation": "（一○三四）",
+      "is_num": true
+    },
+    "145": {
+      "original": "（一○三五）",
+      "translation": "（一○三五）",
+      "is_num": true
+    },
+    "150": {
+      "original": "（一○三六）",
+      "translation": "（一○三六）",
+      "is_num": true
+    },
+    "161": {
+      "original": "（一○三七）",
+      "translation": "（一○三七）",
+      "is_num": true
+    },
+    "165": {
+      "original": "（一○三八）",
+      "translation": "（一○三八）",
+      "is_num": true
+    },
+    "183": {
+      "original": "（一○三九）",
+      "translation": "（一○三九）",
+      "is_num": true
+    },
+    "194": {
+      "original": "（一○四○）",
+      "translation": "（一○四○）",
+      "is_num": true
+    },
+    "221": {
+      "original": "（一○四二）",
+      "translation": "（一○四二）",
+      "is_num": true
+    },
+    "238": {
+      "original": "（一○四三）",
+      "translation": "（一○四三）",
+      "is_num": true
+    },
+    "260": {
+      "original": "（一○四七）",
+      "translation": "（一○四七）",
+      "is_num": true
+    },
+    "267": {
+      "original": "（一○四八）",
+      "translation": "（一○四八）",
+      "is_num": true
+    },
+    "273": {
+      "original": "（一○四九）",
+      "translation": "（一○四九）",
+      "is_num": true
+    },
+    "278": {
+      "original": "（一○五○）",
+      "translation": "（一○五○）",
+      "is_num": true
+    },
+    "283": {
+      "original": "（一○五一）",
+      "translation": "（一○五一）",
+      "is_num": true
+    },
+    "291": {
+      "original": "（一○五二）",
+      "translation": "（一○五二）",
+      "is_num": true
+    },
+    "296": {
+      "original": "（一○五三）",
+      "translation": "（一○五三）",
+      "is_num": true
+    },
+    "301": {
+      "original": "（一○五四）",
+      "translation": "（一○五四）",
+      "is_num": true
+    },
+    "306": {
+      "original": "（一○五五）",
+      "translation": "（一○五五）",
+      "is_num": true
+    },
+    "313": {
+      "original": "（一○五六）",
+      "translation": "（一○五六）",
+      "is_num": true
+    },
+    "318": {
+      "original": "（一○五七）",
+      "translation": "（一○五七）",
+      "is_num": true
+    },
+    "323": {
+      "original": "（一○五八）",
+      "translation": "（一○五八）",
+      "is_num": true
+    },
+    "328": {
+      "original": "（一○五九）",
+      "translation": "（一○五九）",
+      "is_num": true
+    },
+    "333": {
+      "original": "（一○六○）",
+      "translation": "（一○六○）",
+      "is_num": true
+    },
+    "338": {
+      "original": "（一○六一）",
+      "translation": "（一○六一）",
+      "is_num": true
+    }
+  },
+  "38": {
+    "2": {
+      "original": "（一○六二）",
+      "translation": "（一○六二）",
+      "is_num": true
+    },
+    "9": {
+      "original": "（一○六三）",
+      "translation": "（一○六三）",
+      "is_num": true
+    },
+    "68": {
+      "original": "（一○六九）",
+      "translation": "（一○六九）",
+      "is_num": true
+    },
+    "75": {
+      "original": "（一○七○）",
+      "translation": "（一○七○）",
+      "is_num": true
+    },
+    "85": {
+      "original": "（一○七一）",
+      "translation": "（一○七一）",
+      "is_num": true
+    },
+    "100": {
+      "original": "（一○七二）",
+      "translation": "（一○七二）",
+      "is_num": true
+    },
+    "112": {
+      "original": "（一○七三）",
+      "translation": "（一○七三）",
+      "is_num": true
+    },
+    "119": {
+      "original": "（一○七四）",
+      "translation": "（一○七四）",
+      "is_num": true
+    },
+    "144": {
+      "original": "（一○七五）",
+      "translation": "（一○七五）",
+      "is_num": true
+    },
+    "177": {
+      "original": "（一○七六）",
+      "translation": "（一○七六）",
+      "is_num": true
+    },
+    "200": {
+      "original": "（一○七八）",
+      "translation": "（一○七八）",
+      "is_num": true
+    },
+    "231": {
+      "original": "（一○七九）",
+      "translation": "（一○七九）",
+      "is_num": true
+    },
+    "240": {
+      "original": "（一○八○）",
+      "translation": "（一○八○）",
+      "is_num": true
+    }
+  },
+  "39": {
+    "2": {
+      "original": "（一○八一）",
+      "translation": "（一○八一）",
+      "is_num": true
+    },
+    "13": {
+      "original": "（一○八二）",
+      "translation": "（一○八二）",
+      "is_num": true
+    },
+    "37": {
+      "original": "（一○八四）",
+      "translation": "（一○八四）",
+      "is_num": true
+    },
+    "47": {
+      "original": "（一○八五）",
+      "translation": "（一○八五）",
+      "is_num": true
+    },
+    "56": {
+      "original": "（一○八六）",
+      "translation": "（一○八六）",
+      "is_num": true
+    },
+    "65": {
+      "original": "（一○八七）",
+      "translation": "（一○八七）",
+      "is_num": true
+    },
+    "74": {
+      "original": "（一○八八）",
+      "translation": "（一○八八）",
+      "is_num": true
+    },
+    "82": {
+      "original": "（一○八九）",
+      "translation": "（一○八九）",
+      "is_num": true
+    },
+    "90": {
+      "original": "（一○九○）",
+      "translation": "（一○九○）",
+      "is_num": true
+    },
+    "121": {
+      "original": "（一○九二）",
+      "translation": "（一○九二）",
+      "is_num": true
+    },
+    "163": {
+      "original": "（一○九三）",
+      "translation": "（一○九三）",
+      "is_num": true
+    },
+    "170": {
+      "original": "（一○九四）",
+      "translation": "（一○九四）",
+      "is_num": true
+    },
+    "179": {
+      "original": "（一○九五）",
+      "translation": "（一○九五）",
+      "is_num": true
+    },
+    "190": {
+      "original": "（一○九六）",
+      "translation": "（一○九六）",
+      "is_num": true
+    },
+    "199": {
+      "original": "（一○九七）",
+      "translation": "（一○九七）",
+      "is_num": true
+    },
+    "210": {
+      "original": "（一○九八）",
+      "translation": "（一○九八）",
+      "is_num": true
+    },
+    "221": {
+      "original": "（一○九九）",
+      "translation": "（一○九九）",
+      "is_num": true
+    },
+    "233": {
+      "original": "（一一○○）",
+      "translation": "（一一○○）",
+      "is_num": true
+    },
+    "245": {
+      "original": "（一一○一）",
+      "translation": "（一一○一）",
+      "is_num": true
+    },
+    "254": {
+      "original": "（一一○二）",
+      "translation": "（一一○二）",
+      "is_num": true
+    },
+    "262": {
+      "original": "（一一○三）",
+      "translation": "（一一○三）",
+      "is_num": true
+    }
+  },
+  "40": {
+    "17": {
+      "original": "（一一○六）",
+      "translation": "（一一○六）",
+      "is_num": true
+    },
+    "39": {
+      "original": "（一一○七）",
+      "translation": "（一一○七）",
+      "is_num": true
+    },
+    "75": {
+      "original": "（一一一○）",
+      "translation": "（一一一○）",
+      "is_num": true
+    },
+    "90": {
+      "original": "（一一一一）",
+      "translation": "（一一一一）",
+      "is_num": true
+    },
+    "105": {
+      "original": "（一一一二）",
+      "translation": "（一一一二）",
+      "is_num": true
+    },
+    "116": {
+      "original": "（一一一三）",
+      "translation": "（一一一三）",
+      "is_num": true
+    },
+    "130": {
+      "original": "（一一一四）",
+      "translation": "（一一一四）",
+      "is_num": true
+    },
+    "159": {
+      "original": "（一一一五）",
+      "translation": "（一一一五）",
+      "is_num": true
+    },
+    "184": {
+      "original": "（一一一六）",
+      "translation": "（一一一六）",
+      "is_num": true
+    },
+    "192": {
+      "original": "（一一一七）",
+      "translation": "（一一一七）",
+      "is_num": true
+    },
+    "207": {
+      "original": "（一一一八）",
+      "translation": "（一一一八）",
+      "is_num": true
+    },
+    "218": {
+      "original": "（一一一九）",
+      "translation": "（一一一九）",
+      "is_num": true
+    },
+    "232": {
+      "original": "（一一二○）",
+      "translation": "（一一二○）",
+      "is_num": true
+    }
+  },
+  "41": {
+    "19": {
+      "original": "（一一二二）",
+      "translation": "（一一二二）",
+      "is_num": true
+    },
+    "27": {
+      "original": "（一一二三）",
+      "translation": "（一一二三）",
+      "is_num": true
+    },
+    "33": {
+      "original": "（一一二四）",
+      "translation": "（一一二四）",
+      "is_num": true
+    },
+    "38": {
+      "original": "（一一二五）",
+      "translation": "（一一二五）",
+      "is_num": true
+    },
+    "43": {
+      "original": "（一一二六）",
+      "translation": "（一一二六）",
+      "is_num": true
+    },
+    "48": {
+      "original": "（一一二七）",
+      "translation": "（一一二七）",
+      "is_num": true
+    },
+    "54": {
+      "original": "（一一二八）",
+      "translation": "（一一二八）",
+      "is_num": true
+    },
+    "59": {
+      "original": "（一一二九）",
+      "translation": "（一一二九）",
+      "is_num": true
+    },
+    "64": {
+      "original": "（一一三○）",
+      "translation": "（一一三○）",
+      "is_num": true
+    },
+    "71": {
+      "original": "（一一三一）",
+      "translation": "（一一三一）",
+      "is_num": true
+    },
+    "76": {
+      "original": "（一一三二）",
+      "translation": "（一一三二）",
+      "is_num": true
+    },
+    "81": {
+      "original": "（一一三三）",
+      "translation": "（一一三三）",
+      "is_num": true
+    },
+    "86": {
+      "original": "（一一三四）",
+      "translation": "（一一三四）",
+      "is_num": true
+    },
+    "91": {
+      "original": "（一一三五）",
+      "translation": "（一一三五）",
+      "is_num": true
+    },
+    "102": {
+      "original": "（一一三六）",
+      "translation": "（一一三六）",
+      "is_num": true
+    },
+    "120": {
+      "original": "（一一三七）",
+      "translation": "（一一三七）",
+      "is_num": true
+    },
+    "126": {
+      "original": "（一一三八）",
+      "translation": "（一一三八）",
+      "is_num": true
+    },
+    "149": {
+      "original": "（一一三九）",
+      "translation": "（一一三九）",
+      "is_num": true
+    },
+    "160": {
+      "original": "（一一四○）",
+      "translation": "（一一四○）",
+      "is_num": true
+    },
+    "174": {
+      "original": "（一一四一）",
+      "translation": "（一一四一）",
+      "is_num": true
+    },
+    "185": {
+      "original": "（一一四二）",
+      "translation": "（一一四二）",
+      "is_num": true
+    },
+    "197": {
+      "original": "（一一四三）",
+      "translation": "（一一四三）",
+      "is_num": true
+    },
+    "216": {
+      "original": "（一一四四）",
+      "translation": "（一一四四）",
+      "is_num": true
+    }
+  },
+  "42": {
+    "2": {
+      "original": "（一一四五）",
+      "translation": "（一一四五）",
+      "is_num": true
+    },
+    "19": {
+      "original": "（一一四六）",
+      "translation": "（一一四六）",
+      "is_num": true
+    },
+    "30": {
+      "original": "（一一四七）",
+      "translation": "（一一四七）",
+      "is_num": true
+    },
+    "43": {
+      "original": "（一一四八）",
+      "translation": "（一一四八）",
+      "is_num": true
+    },
+    "55": {
+      "original": "（一一四九）",
+      "translation": "（一一四九）",
+      "is_num": true
+    },
+    "70": {
+      "original": "（一一五○）",
+      "translation": "（一一五○）",
+      "is_num": true
+    },
+    "84": {
+      "original": "（一一五一）",
+      "translation": "（一一五一）",
+      "is_num": true
+    },
+    "91": {
+      "original": "（一一五二）",
+      "translation": "（一一五二）",
+      "is_num": true
+    },
+    "108": {
+      "original": "（一一五三）",
+      "translation": "（一一五三）",
+      "is_num": true
+    },
+    "117": {
+      "original": "（一一五四）",
+      "translation": "（一一五四）",
+      "is_num": true
+    },
+    "124": {
+      "original": "（一一五五）",
+      "translation": "（一一五五）",
+      "is_num": true
+    },
+    "133": {
+      "original": "（一一五六）",
+      "translation": "（一一五六）",
+      "is_num": true
+    },
+    "140": {
+      "original": "（一一五七）",
+      "translation": "（一一五七）",
+      "is_num": true
+    },
+    "156": {
+      "original": "（一一五八）",
+      "translation": "（一一五八）",
+      "is_num": true
+    },
+    "175": {
+      "original": "（一一五九）",
+      "translation": "（一一五九）",
+      "is_num": true
+    },
+    "185": {
+      "original": "（一一六○）",
+      "translation": "（一一六○）",
+      "is_num": true
+    },
+    "197": {
+      "original": "（一一六一）",
+      "translation": "（一一六一）",
+      "is_num": true
+    },
+    "205": {
+      "original": "（一一六二）",
+      "translation": "（一一六二）",
+      "is_num": true
+    },
+    "216": {
+      "original": "（一一六三）",
+      "translation": "（一一六三）",
+      "is_num": true
+    }
+  },
+  "43": {
+    "17": {
+      "original": "（一一六五）",
+      "translation": "（一一六五）",
+      "is_num": true
+    },
+    "30": {
+      "original": "（一一六六）",
+      "translation": "（一一六六）",
+      "is_num": true
+    },
+    "36": {
+      "original": "（一一六七）",
+      "translation": "（一一六七）",
+      "is_num": true
+    },
+    "44": {
+      "original": "（一一六八）",
+      "translation": "（一一六八）",
+      "is_num": true
+    },
+    "57": {
+      "original": "（一一六九）",
+      "translation": "（一一六九）",
+      "is_num": true
+    },
+    "66": {
+      "original": "（一一七○）",
+      "translation": "（一一七○）",
+      "is_num": true
+    },
+    "72": {
+      "original": "（一一七一）",
+      "translation": "（一一七一）",
+      "is_num": true
+    },
+    "79": {
+      "original": "（一一七二）",
+      "translation": "（一一七二）",
+      "is_num": true
+    },
+    "88": {
+      "original": "（一一七三）",
+      "translation": "（一一七三）",
+      "is_num": true
+    },
+    "101": {
+      "original": "（一一七四）",
+      "translation": "（一一七四）",
+      "is_num": true
+    },
+    "123": {
+      "original": "（一一七五）",
+      "translation": "（一一七五）",
+      "is_num": true
+    },
+    "142": {
+      "original": "（一一七六）",
+      "translation": "（一一七六）",
+      "is_num": true
+    },
+    "160": {
+      "original": "（一一七七）",
+      "translation": "（一一七七）",
+      "is_num": true
+    }
+  },
+  "44": {
+    "33": {
+      "original": "（一一七九）",
+      "translation": "（一一七九）",
+      "is_num": true
+    },
+    "49": {
+      "original": "（一一八○）",
+      "translation": "（一一八○）",
+      "is_num": true
+    },
+    "61": {
+      "original": "（一一八一）",
+      "translation": "（一一八一）",
+      "is_num": true
+    },
+    "75": {
+      "original": "（一一八二）",
+      "translation": "（一一八二）",
+      "is_num": true
+    },
+    "83": {
+      "original": "（一一八三）",
+      "translation": "（一一八三）",
+      "is_num": true
+    },
+    "95": {
+      "original": "（一一八四）",
+      "translation": "（一一八四）",
+      "is_num": true
+    },
+    "113": {
+      "original": "（一一八五）",
+      "translation": "（一一八五）",
+      "is_num": true
+    },
+    "122": {
+      "original": "（一一八六）",
+      "translation": "（一一八六）",
+      "is_num": true
+    },
+    "130": {
+      "original": "（一一八七）",
+      "translation": "（一一八七）",
+      "is_num": true
+    },
+    "138": {
+      "original": "（一一八八）",
+      "translation": "（一一八八）",
+      "is_num": true
+    },
+    "147": {
+      "original": "（一一八九）",
+      "translation": "（一一八九）",
+      "is_num": true
+    },
+    "155": {
+      "original": "（一一九○）",
+      "translation": "（一一九○）",
+      "is_num": true
+    },
+    "163": {
+      "original": "（一一九一）",
+      "translation": "（一一九一）",
+      "is_num": true
+    },
+    "170": {
+      "original": "（一一九二）",
+      "translation": "（一一九二）",
+      "is_num": true
+    },
+    "183": {
+      "original": "（一一九三）",
+      "translation": "（一一九三）",
+      "is_num": true
+    },
+    "199": {
+      "original": "（一一九四）",
+      "translation": "（一一九四）",
+      "is_num": true
+    },
+    "218": {
+      "original": "（一一九五）",
+      "translation": "（一一九五）",
+      "is_num": true
+    },
+    "234": {
+      "original": "（一一九六）",
+      "translation": "（一一九六）",
+      "is_num": true
+    },
+    "250": {
+      "original": "（一一九七）",
+      "translation": "（一一九七）",
+      "is_num": true
+    }
+  },
+  "45": {
+    "25": {
+      "original": "（一二○○）",
+      "translation": "（一二○○）",
+      "is_num": true
+    },
+    "34": {
+      "original": "（一二○一）",
+      "translation": "（一二○一）",
+      "is_num": true
+    },
+    "47": {
+      "original": "（一二○二）",
+      "translation": "（一二○二）",
+      "is_num": true
+    },
+    "56": {
+      "original": "（一二○三）",
+      "translation": "（一二○三）",
+      "is_num": true
+    },
+    "65": {
+      "original": "（一二○四）",
+      "translation": "（一二○四）",
+      "is_num": true
+    },
+    "74": {
+      "original": "（一二○五）",
+      "translation": "（一二○五）",
+      "is_num": true
+    },
+    "83": {
+      "original": "（一二○六）",
+      "translation": "（一二○六）",
+      "is_num": true
+    },
+    "92": {
+      "original": "（一二○七）",
+      "translation": "（一二○七）",
+      "is_num": true
+    },
+    "103": {
+      "original": "（一二○八）",
+      "translation": "（一二○八）",
+      "is_num": true
+    },
+    "111": {
+      "original": "（一二○九）",
+      "translation": "（一二○九）",
+      "is_num": true
+    },
+    "120": {
+      "original": "（一二一○）",
+      "translation": "（一二一○）",
+      "is_num": true
+    },
+    "129": {
+      "original": "（一二一一）",
+      "translation": "（一二一一）",
+      "is_num": true
+    },
+    "137": {
+      "original": "（一二一二）",
+      "translation": "（一二一二）",
+      "is_num": true
+    },
+    "154": {
+      "original": "（一二一三）",
+      "translation": "（一二一三）",
+      "is_num": true
+    },
+    "161": {
+      "original": "（一二一四）",
+      "translation": "（一二一四）",
+      "is_num": true
+    },
+    "170": {
+      "original": "（一二一五）",
+      "translation": "（一二一五）",
+      "is_num": true
+    },
+    "178": {
+      "original": "（一二一六）",
+      "translation": "（一二一六）",
+      "is_num": true
+    },
+    "184": {
+      "original": "（一二一七）",
+      "translation": "（一二一七）",
+      "is_num": true
+    },
+    "190": {
+      "original": "（一二一八）",
+      "translation": "（一二一八）",
+      "is_num": true
+    },
+    "201": {
+      "original": "（一二一九）",
+      "translation": "（一二一九）",
+      "is_num": true
+    },
+    "211": {
+      "original": "（一二二○）",
+      "translation": "（一二二○）",
+      "is_num": true
+    },
+    "219": {
+      "original": "（一二二一）",
+      "translation": "（一二二一）",
+      "is_num": true
+    }
+  },
+  "46": {
+    "2": {
+      "original": "（一二二二）",
+      "translation": "（一二二二）",
+      "is_num": true
+    },
+    "9": {
+      "original": "（一二二三）",
+      "translation": "（一二二三）",
+      "is_num": true
+    },
+    "17": {
+      "original": "（一二二四）",
+      "translation": "（一二二四）",
+      "is_num": true
+    },
+    "32": {
+      "original": "（一二二五）",
+      "translation": "（一二二五）",
+      "is_num": true
+    },
+    "37": {
+      "original": "（一二二六）",
+      "translation": "（一二二六）",
+      "is_num": true
+    },
+    "46": {
+      "original": "（一二二七）",
+      "translation": "（一二二七）",
+      "is_num": true
+    },
+    "58": {
+      "original": "（一二二八）",
+      "translation": "（一二二八）",
+      "is_num": true
+    },
+    "66": {
+      "original": "（一二二九）",
+      "translation": "（一二二九）",
+      "is_num": true
+    },
+    "73": {
+      "original": "（一二三○）",
+      "translation": "（一二三○）",
+      "is_num": true
+    },
+    "80": {
+      "original": "（一二三一）",
+      "translation": "（一二三一）",
+      "is_num": true
+    },
+    "88": {
+      "original": "（一二三二）",
+      "translation": "（一二三二）",
+      "is_num": true
+    },
+    "96": {
+      "original": "（一二三三）",
+      "translation": "（一二三三）",
+      "is_num": true
+    },
+    "113": {
+      "original": "（一二三四）",
+      "translation": "（一二三四）",
+      "is_num": true
+    },
+    "121": {
+      "original": "（一二三五）",
+      "translation": "（一二三五）",
+      "is_num": true
+    },
+    "129": {
+      "original": "（一二三六）",
+      "translation": "（一二三六）",
+      "is_num": true
+    },
+    "153": {
+      "original": "（一二三九）",
+      "translation": "（一二三九）",
+      "is_num": true
+    },
+    "161": {
+      "original": "（一二四○）",
+      "translation": "（一二四○）",
+      "is_num": true
+    }
+  },
+  "47": {
+    "2": {
+      "original": "（一二四一）",
+      "translation": "（一二四一）",
+      "is_num": true
+    },
+    "16": {
+      "original": "（一二四二）",
+      "translation": "（一二四二）",
+      "is_num": true
+    },
+    "22": {
+      "original": "（一二四三）",
+      "translation": "（一二四三）",
+      "is_num": true
+    },
+    "38": {
+      "original": "（一二四五）",
+      "translation": "（一二四五）",
+      "is_num": true
+    },
+    "43": {
+      "original": "（一二四六）",
+      "translation": "（一二四六）",
+      "is_num": true
+    },
+    "55": {
+      "original": "（一二四七）",
+      "translation": "（一二四七）",
+      "is_num": true
+    },
+    "61": {
+      "original": "（一二四八）",
+      "translation": "（一二四八）",
+      "is_num": true
+    },
+    "73": {
+      "original": "（一二四九）",
+      "translation": "（一二四九）",
+      "is_num": true
+    },
+    "91": {
+      "original": "（一二五○）",
+      "translation": "（一二五○）",
+      "is_num": true
+    },
+    "105": {
+      "original": "（一二五一）",
+      "translation": "（一二五一）",
+      "is_num": true
+    },
+    "115": {
+      "original": "（一二五二）",
+      "translation": "（一二五二）",
+      "is_num": true
+    },
+    "140": {
+      "original": "（一二五六）",
+      "translation": "（一二五六）",
+      "is_num": true
+    },
+    "147": {
+      "original": "（一二五七）",
+      "translation": "（一二五七）",
+      "is_num": true
+    },
+    "159": {
+      "original": "（一二五八）",
+      "translation": "（一二五八）",
+      "is_num": true
+    },
+    "165": {
+      "original": "（一二五九）",
+      "translation": "（一二五九）",
+      "is_num": true
+    },
+    "172": {
+      "original": "（一二六○）",
+      "translation": "（一二六○）",
+      "is_num": true
+    },
+    "178": {
+      "original": "（一二六一）",
+      "translation": "（一二六一）",
+      "is_num": true
+    },
+    "184": {
+      "original": "（一二六二）",
+      "translation": "（一二六二）",
+      "is_num": true
+    },
+    "191": {
+      "original": "（一二六三）",
+      "translation": "（一二六三）",
+      "is_num": true
+    },
+    "196": {
+      "original": "（一二六四）",
+      "translation": "（一二六四）",
+      "is_num": true
+    },
+    "203": {
+      "original": "（一二六五）",
+      "translation": "（一二六五）",
+      "is_num": true
+    }
+  },
+  "48": {
+    "2": {
+      "original": "（一二六七）",
+      "translation": "（一二六七）",
+      "is_num": true
+    },
+    "15": {
+      "original": "（一二六八）",
+      "translation": "（一二六八）",
+      "is_num": true
+    },
+    "24": {
+      "original": "（一二六九）",
+      "translation": "（一二六九）",
+      "is_num": true
+    },
+    "35": {
+      "original": "（一二七○）",
+      "translation": "（一二七○）",
+      "is_num": true
+    },
+    "50": {
+      "original": "（一二七一）",
+      "translation": "（一二七一）",
+      "is_num": true
+    },
+    "67": {
+      "original": "（一二七二）",
+      "translation": "（一二七二）",
+      "is_num": true
+    },
+    "81": {
+      "original": "（一二七三）",
+      "translation": "（一二七三）",
+      "is_num": true
+    },
+    "95": {
+      "original": "（一二七四）",
+      "translation": "（一二七四）",
+      "is_num": true
+    },
+    "113": {
+      "original": "（一二七五）",
+      "translation": "（一二七五）",
+      "is_num": true
+    },
+    "124": {
+      "original": "（一二七六）",
+      "translation": "（一二七六）",
+      "is_num": true
+    },
+    "135": {
+      "original": "（一二七七）",
+      "translation": "（一二七七）",
+      "is_num": true
+    },
+    "153": {
+      "original": "（一二七八）",
+      "translation": "（一二七八）",
+      "is_num": true
+    },
+    "170": {
+      "original": "（一二七九）",
+      "translation": "（一二七九）",
+      "is_num": true
+    },
+    "181": {
+      "original": "（一二八○）",
+      "translation": "（一二八○）",
+      "is_num": true
+    },
+    "192": {
+      "original": "（一二八一）",
+      "translation": "（一二八一）",
+      "is_num": true
+    },
+    "203": {
+      "original": "（一二八二）",
+      "translation": "（一二八二）",
+      "is_num": true
+    },
+    "214": {
+      "original": "（一二八三）",
+      "translation": "（一二八三）",
+      "is_num": true
+    },
+    "225": {
+      "original": "（一二八四）",
+      "translation": "（一二八四）",
+      "is_num": true
+    },
+    "245": {
+      "original": "（一二八五）",
+      "translation": "（一二八五）",
+      "is_num": true
+    },
+    "256": {
+      "original": "（一二八六）",
+      "translation": "（一二八六）",
+      "is_num": true
+    },
+    "267": {
+      "original": "（一二八七）",
+      "translation": "（一二八七）",
+      "is_num": true
+    },
+    "278": {
+      "original": "（一二八八）",
+      "translation": "（一二八八）",
+      "is_num": true
+    },
+    "289": {
+      "original": "（一二八九）",
+      "translation": "（一二八九）",
+      "is_num": true
+    },
+    "310": {
+      "original": "（一二九○）",
+      "translation": "（一二九○）",
+      "is_num": true
+    },
+    "321": {
+      "original": "（一二九一）",
+      "translation": "（一二九一）",
+      "is_num": true
+    },
+    "332": {
+      "original": "（一二九二）",
+      "translation": "（一二九二）",
+      "is_num": true
+    },
+    "343": {
+      "original": "（一二九三）",
+      "translation": "（一二九三）",
+      "is_num": true
+    }
+  },
+  "49": {
+    "2": {
+      "original": "（一二九四）",
+      "translation": "（一二九四）",
+      "is_num": true
+    },
+    "13": {
+      "original": "（一二九五）",
+      "translation": "（一二九五）",
+      "is_num": true
+    },
+    "24": {
+      "original": "（一二九六）",
+      "translation": "（一二九六）",
+      "is_num": true
+    },
+    "37": {
+      "original": "（一二九七）",
+      "translation": "（一二九七）",
+      "is_num": true
+    },
+    "48": {
+      "original": "（一二九八）",
+      "translation": "（一二九八）",
+      "is_num": true
+    },
+    "59": {
+      "original": "（一二九九）",
+      "translation": "（一二九九）",
+      "is_num": true
+    },
+    "70": {
+      "original": "（一三○○）",
+      "translation": "（一三○○）",
+      "is_num": true
+    },
+    "83": {
+      "original": "（一三○一）",
+      "translation": "（一三○一）",
+      "is_num": true
+    },
+    "92": {
+      "original": "（一三○二）",
+      "translation": "（一三○二）",
+      "is_num": true
+    },
+    "101": {
+      "original": "（一三○三）",
+      "translation": "（一三○三）",
+      "is_num": true
+    },
+    "110": {
+      "original": "（一三○四）",
+      "translation": "（一三○四）",
+      "is_num": true
+    },
+    "119": {
+      "original": "（一三○五）",
+      "translation": "（一三○五）",
+      "is_num": true
+    },
+    "128": {
+      "original": "（一三○六）",
+      "translation": "（一三○六）",
+      "is_num": true
+    },
+    "138": {
+      "original": "（一三○七）",
+      "translation": "（一三○七）",
+      "is_num": true
+    },
+    "150": {
+      "original": "（一三○八）",
+      "translation": "（一三○八）",
+      "is_num": true
+    },
+    "176": {
+      "original": "（一三○九）",
+      "translation": "（一三○九）",
+      "is_num": true
+    },
+    "185": {
+      "original": "（一三一○）",
+      "translation": "（一三一○）",
+      "is_num": true
+    },
+    "194": {
+      "original": "（一三一一）",
+      "translation": "（一三一一）",
+      "is_num": true
+    },
+    "203": {
+      "original": "（一三一二）",
+      "translation": "（一三一二）",
+      "is_num": true
+    },
+    "212": {
+      "original": "（一三一三）",
+      "translation": "（一三一三）",
+      "is_num": true
+    },
+    "229": {
+      "original": "（一三一四）",
+      "translation": "（一三一四）",
+      "is_num": true
+    },
+    "238": {
+      "original": "（一三一五）",
+      "translation": "（一三一五）",
+      "is_num": true
+    },
+    "247": {
+      "original": "（一三一六）",
+      "translation": "（一三一六）",
+      "is_num": true
+    },
+    "256": {
+      "original": "（一三一七）",
+      "translation": "（一三一七）",
+      "is_num": true
+    },
+    "267": {
+      "original": "（一三一八）",
+      "translation": "（一三一八）",
+      "is_num": true
+    },
+    "278": {
+      "original": "（一三一九）",
+      "translation": "（一三一九）",
+      "is_num": true
+    },
+    "287": {
+      "original": "（一三二○）",
+      "translation": "（一三二○）",
+      "is_num": true
+    },
+    "300": {
+      "original": "（一三二一）",
+      "translation": "（一三二一）",
+      "is_num": true
+    },
+    "307": {
+      "original": "（一三二二）",
+      "translation": "（一三二二）",
+      "is_num": true
+    },
+    "316": {
+      "original": "（一三二三）",
+      "translation": "（一三二三）",
+      "is_num": true
+    },
+    "331": {
+      "original": "（一三二四）",
+      "translation": "（一三二四）",
+      "is_num": true
+    }
+  },
+  "50": {
+    "19": {
+      "original": "（一三二六）",
+      "translation": "（一三二六）",
+      "is_num": true
+    },
+    "64": {
+      "original": "（一三二八）",
+      "translation": "（一三二八）",
+      "is_num": true
+    },
+    "74": {
+      "original": "（一三二九）",
+      "translation": "（一三二九）",
+      "is_num": true
+    },
+    "148": {
+      "original": "（一三三○）",
+      "translation": "（一三三○）",
+      "is_num": true
+    },
+    "163": {
+      "original": "（一三三一）",
+      "translation": "（一三三一）",
+      "is_num": true
+    },
+    "173": {
+      "original": "（一三三二）",
+      "translation": "（一三三二）",
+      "is_num": true
+    },
+    "181": {
+      "original": "（一三三三）",
+      "translation": "（一三三三）",
+      "is_num": true
+    },
+    "189": {
+      "original": "（一三三四）",
+      "translation": "（一三三四）",
+      "is_num": true
+    },
+    "197": {
+      "original": "（一三三五）",
+      "translation": "（一三三五）",
+      "is_num": true
+    },
+    "205": {
+      "original": "（一三三六）",
+      "translation": "（一三三六）",
+      "is_num": true
+    },
+    "214": {
+      "original": "（一三三七）",
+      "translation": "（一三三七）",
+      "is_num": true
+    },
+    "223": {
+      "original": "（一三三八）",
+      "translation": "（一三三八）",
+      "is_num": true
+    },
+    "242": {
+      "original": "（一三三九）",
+      "translation": "（一三三九）",
+      "is_num": true
+    },
+    "249": {
+      "original": "（一三四○）",
+      "translation": "（一三四○）",
+      "is_num": true
+    },
+    "258": {
+      "original": "（一三四一）",
+      "translation": "（一三四一）",
+      "is_num": true
+    },
+    "265": {
+      "original": "（一三四二）",
+      "translation": "（一三四二）",
+      "is_num": true
+    },
+    "272": {
+      "original": "（一三四三）",
+      "translation": "（一三四三）",
+      "is_num": true
+    },
+    "282": {
+      "original": "（一三四四）",
+      "translation": "（一三四四）",
+      "is_num": true
+    },
+    "293": {
+      "original": "（一三四五）",
+      "translation": "（一三四五）",
+      "is_num": true
+    },
+    "300": {
+      "original": "（一三四六）",
+      "translation": "（一三四六）",
+      "is_num": true
+    },
+    "323": {
+      "original": "（一三四七）",
+      "translation": "（一三四七）",
+      "is_num": true
+    },
+    "331": {
+      "original": "（一三四八）",
+      "translation": "（一三四八）",
+      "is_num": true
+    },
+    "339": {
+      "original": "（一三四九）",
+      "translation": "（一三四九）",
+      "is_num": true
+    },
+    "346": {
+      "original": "（一三五○）",
+      "translation": "（一三五○）",
+      "is_num": true
+    },
+    "352": {
+      "original": "（一三五一）",
+      "translation": "（一三五一）",
+      "is_num": true
+    },
+    "359": {
+      "original": "（一三五二）",
+      "translation": "（一三五二）",
+      "is_num": true
+    },
+    "366": {
+      "original": "（一三五三）",
+      "translation": "（一三五三）",
+      "is_num": true
+    },
+    "375": {
+      "original": "（一三五四）",
+      "translation": "（一三五四）",
+      "is_num": true
+    },
+    "384": {
+      "original": "（一三五五）",
+      "translation": "（一三五五）",
+      "is_num": true
+    },
+    "393": {
+      "original": "（一三五六）",
+      "translation": "（一三五六）",
+      "is_num": true
+    },
+    "402": {
+      "original": "（一三五七）",
+      "translation": "（一三五七）",
+      "is_num": true
+    },
+    "415": {
+      "original": "（一三五八）",
+      "translation": "（一三五八）",
+      "is_num": true
+    },
+    "424": {
+      "original": "（一三五九）",
+      "translation": "（一三五九）",
+      "is_num": true
+    },
+    "435": {
+      "original": "（一三六○）",
+      "translation": "（一三六○）",
+      "is_num": true
+    },
+    "444": {
+      "original": "（一三六一）",
+      "translation": "（一三六一）",
+      "is_num": true
+    }
+  }
+}

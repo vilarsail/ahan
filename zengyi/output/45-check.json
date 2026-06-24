@@ -1,0 +1,426 @@
+{
+  "1": {
+    "status": "正确",
+    "description": "经卷标题(翻译独有)"
+  },
+  "2": {
+    "status": "正确",
+    "description": "品目标题"
+  },
+  "3": {
+    "status": "正确",
+    "description": "经号标记"
+  },
+  "4": {
+    "status": "正确",
+    "description": "经典开篇语"
+  },
+  "5": {
+    "status": "正确",
+    "description": "简短对话"
+  },
+  "6": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "7": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "8": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "9": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "10": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "11": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "12": {
+    "status": "正确",
+    "description": "品目提要"
+  },
+  "13": {
+    "status": "正确",
+    "description": "简短对话"
+  },
+  "14": {
+    "status": "正确",
+    "description": "偈颂"
+  },
+  "15": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "16": {
+    "status": "正确",
+    "description": "简短对话"
+  },
+  "17": {
+    "status": "正确",
+    "description": "偈颂"
+  },
+  "18": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "19": {
+    "status": "正确",
+    "description": "简短对话"
+  },
+  "20": {
+    "status": "正确",
+    "description": "偈颂"
+  },
+  "21": {
+    "status": "正确",
+    "description": "品目提要"
+  },
+  "22": {
+    "status": "正确",
+    "description": "简短对话"
+  },
+  "23": {
+    "status": "正确",
+    "description": "偈颂"
+  },
+  "24": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "25": {
+    "status": "正确",
+    "description": "简短对话"
+  },
+  "26": {
+    "status": "正确",
+    "description": "偈颂"
+  },
+  "27": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "28": {
+    "status": "正确",
+    "description": "简短对话"
+  },
+  "29": {
+    "status": "正确",
+    "description": "偈颂"
+  },
+  "30": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "31": {
+    "status": "正确",
+    "description": "简短对话"
+  },
+  "32": {
+    "status": "正确",
+    "description": "偈颂"
+  },
+  "33": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "34": {
+    "status": "正确",
+    "description": "简短对话"
+  },
+  "35": {
+    "status": "正确",
+    "description": "偈颂"
+  },
+  "36": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "37": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "38": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "39": {
+    "status": "正确",
+    "description": "简短对话"
+  },
+  "40": {
+    "status": "正确",
+    "description": "偈颂"
+  },
+  "41": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "42": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "43": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "44": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "45": {
+    "status": "正确",
+    "description": "经号标记"
+  },
+  "46": {
+    "status": "正确",
+    "description": "经典开篇语"
+  },
+  "47": {
+    "status": "正确",
+    "description": "简短对话"
+  },
+  "48": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "49": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "50": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "51": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "52": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "53": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "54": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "55": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "56": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "57": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "58": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "59": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "60": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "61": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "62": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "63": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "64": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "65": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "66": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "67": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "68": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "69": {
+    "status": "正确",
+    "description": "简短对话"
+  },
+  "70": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "71": {
+    "status": "正确",
+    "description": "简短对话"
+  },
+  "72": {
+    "status": "正确",
+    "description": "偈颂"
+  },
+  "73": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "74": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "75": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "76": {
+    "status": "正确",
+    "description": "偈颂"
+  },
+  "77": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "78": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "79": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "80": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "81": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "82": {
+    "status": "正确",
+    "description": "经号标记"
+  },
+  "83": {
+    "status": "正确",
+    "description": "经典开篇语"
+  },
+  "84": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "85": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "86": {
+    "status": "正确",
+    "description": "偈颂"
+  },
+  "87": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "88": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "89": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "90": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "91": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "92": {
+    "status": "正确",
+    "description": "简短对话"
+  },
+  "93": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "94": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "95": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "96": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "97": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "98": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "99": {
+    "status": "正确",
+    "description": "品目提要"
+  },
+  "100": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "101": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "102": {
+    "status": "正确",
+    "description": "简短对话"
+  },
+  "103": {
+    "status": "正确",
+    "description": "偈颂"
+  },
+  "104": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "105": {
+    "status": "正确",
+    "description": "翻译完整准确"
+  },
+  "106": {
+    "status": "正确",
+    "description": "经卷标题(末尾)"
+  }
+}

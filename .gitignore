@@ -1,4 +1,4 @@
 *.~undo-tree~
 .#*
-
+*.py
 *.DS_Store

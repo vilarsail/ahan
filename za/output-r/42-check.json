@@ -1,0 +1,903 @@
+{
+  "1": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "2": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "3": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "4": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "5": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "6": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "7": {
+    "status": "翻译错误",
+    "description": "原文'应施何处'中的'处'应指'什么样的人/对象'，而非'地方'。根据上下文，波斯匿王是在问'应该布施什么样的人'，佛陀回答'随心所乐处'后，王追问'应施何处，得大果报'，此处'何处'仍是指人。翻译将'处'理解为'地方'，与原文语境不符，属于关键术语误译。",
+    "is_fixed": true
+  },
+  "8": {
+    "status": "翻译错误",
+    "description": "原文'此是异问'翻译为'这是不同的问题'基本正确，但后续'所问应施何处此问则异复问施何处应得大果此问复异'的翻译存在逻辑问题。佛陀的意思是：你问'应施何处'是一个问题，又问'施何处得大果'是另一个问题，这两个问题是不同的（异）。但翻译将'此问则异''此问复异'理解为'这是一个问题''这是另一个问题'，未能准确传达'异'的含义是'不同'而非'另一个'。更严重的是，佛陀后面说'我今问汝，随意答我'，然后设譬喻问王，翻译将'云何？大王，如此士夫，王当赏不？'译为'大王！您认为像这样的士人，大王您会赏赐他吗？'，其中'王当赏不'是'大王应当赏赐吗'或'大王会赏赐吗'，翻译重复'大王'造成语义累赘，但核心错误在于 scarcer：整个譬喻的翻译基本正确，但'此是异问'的理解和翻译存在偏差，将'异'理解为'另一个'而非'不同'，导致逻辑不够准确。",
+    "is_fixed": true
+  },
+  "9": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "10": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "11": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "12": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "13": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "14": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "15": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "16": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "17": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "18": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "19": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "20": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "21": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "22": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "23": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "24": {
+    "status": "翻译错误",
+    "description": "关键术语误译：原文'舍恶受恶'应理解为'舍弃恶（的状态）却遭受恶（的果报）'，但翻译将'舍恶受恶'整体理解为'舍弃恶行却接受恶果'，其中'受恶'译为'接受恶果'尚可，但'舍恶'译为'舍弃恶行'与上下文'行身恶行、行口恶行、行意恶行'矛盾——此人正在行恶而非舍恶。更准确的翻译应为'舍弃（或离开）恶处却遭受恶果'或'离恶入恶'。此外，'以血洗血'的比喻结构（用血来洗血）翻译正确，但'舍恶受恶'作为四字格成语，翻译未能准确传达其'离此恶入彼恶'的循环含义。",
+    "is_fixed": true
+  },
+  "25": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "26": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "27": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "28": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "29": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "30": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "31": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "32": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "33": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "34": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "35": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "36": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "37": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "38": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "39": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "40": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "41": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "42": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "43": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "44": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "45": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "46": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "47": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "48": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "49": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "50": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "51": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "52": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "53": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "54": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "55": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "56": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "57": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "58": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "59": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "60": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "61": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "62": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "63": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "64": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "65": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "66": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "67": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "68": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "69": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "70": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "71": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "72": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "73": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "74": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "75": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "76": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "77": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "78": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "79": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "80": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "81": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "82": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "83": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "84": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "85": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "86": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "87": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "88": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "89": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "90": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "91": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "92": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "93": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "94": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "95": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "96": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "97": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "98": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "99": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "100": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "101": {
+    "status": "翻译错误",
+    "description": "末句'怎么能说是给了你呢'误译，原文'何得便为相与'意为'怎么能说（是互相赠送）呢'，是质疑'相与'（互相给予/赠送）这一行为本身，而非'给了你'。且'相与'是双向的，译为'给了你'将对象搞错。",
+    "is_fixed": true
+  },
+  "102": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "103": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "104": {
+    "status": "部分缺失",
+    "description": "原文'面前骂辱，瞋恚诃责'中，'瞋恚'是修饰'诃责'的状语，意为'愤怒地呵责'，但翻译将'瞋恚'误作被呵责的对象，译成'愤怒呵责'，使'瞋恚'的主宾关系混乱；且'而今瞿昙有瞋恚耶'中'瞋恚'是名词'愤怒'，翻译为'愤怒'虽可通，但前文已误用。",
+    "is_fixed": true
+  },
+  "105": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "106": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "107": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "108": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "109": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "110": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "111": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "112": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "113": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "114": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "115": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "116": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "117": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "118": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "119": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "120": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "121": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "122": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "123": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "124": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "125": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "126": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "127": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "128": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "129": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "130": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "131": {
+    "status": "翻译错误",
+    "description": "诸不信乐意误译，'乐意'应指'喜乐之心'，译文将'乐意'理解为两种不同心态（不信与乐意），实际原文'不信乐意'意为'不信与喜乐（之心）'，且'欲为法留难'译作'想要为难正法'基本正确，但'诸不信乐意'整体理解有误，应为'各种不信和喜乐（之心）'",
+    "is_fixed": true
+  },
+  "132": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "133": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "134": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "135": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "136": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "137": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "138": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "139": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "140": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "141": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "142": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "143": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "144": {
+    "status": "翻译错误",
+    "description": "原文'如是二日、三日，乞食复至其舍'意为'像这样第二天、第三天，（佛陀）乞食时又来到他家'，翻译'过了两天、三天'理解有误，'如是'承上文指连续如此，并非'过了'之意；且主语省略的是佛陀，翻译未明确但可接受，主要错误在'过了两天、三天'",
+    "is_fixed": true
+  },
+  "145": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "146": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "147": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "148": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "149": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "150": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "151": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "152": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "153": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "154": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "155": {
+    "status": "翻译错误",
+    "description": "原文「所以族姓子」是「所以（之由/缘故），族姓子（们）……」或「（这是）族姓子（们）……的原因」，表示「这就是族姓子们……的原因」，是陈述句而非疑问句；译者将「所以」误解为现代汉语的「为什么」，将整句误译为疑问句，完全偏离原意。此外「正信非家」应理解为「以正信（心），超越世俗家庭（出家）」，译文「以正信出家，在非家的环境中」表述不够准确，但核心错误在于将陈述句误译为疑问句。",
+    "is_fixed": true
+  },
+  "156": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "157": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "158": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "159": {
+    "status": "部分缺失",
+    "description": "「每至左右所为作时」翻译为「每次到她左右有事要做的时候」语义不够 accurate，「左右」在此应指「身边、身旁」或「日常、平常」，「所为作」指「所做的事情、行为」，整句意为「每当她身边（日常）有事情要做的时候」；更关键的是「有小得失」未译出「得失」的对比含义，仅译为「有一些小的顺逆之事」虽可接受，但「即称南无佛」前的条件关系处理不够清晰。整体基本达意，但「左右所为作」的理解有偏差。",
+    "is_fixed": true
+  },
+  "160": {
+    "status": "翻译错误",
+    "description": "「黑闇之分」翻译为「黑暗愚昧的一类」不准确，「分」应指「种类、类别、部分」，但「黑闇之分」意为「属于黑暗（愚昧）的那一类（人）」，译文「黑暗愚昧的一类」尚可；但更严重的是「足知胜如」翻译为「足以知道谁胜谁负」有误，「足」在此处是副词「足以、完全能够」，但「胜如」即「胜负、优劣」，整句意为「足以知道（分出）胜负优劣」。然而核心错误在于「为鬼着耶」翻译为「你是被鬼附身了吧」语气过轻，原文「着」即「附着、附体」，此句是丈夫怒斥妻子「你被鬼迷了吗/鬼附身了吗」，语气应更强烈；且「无有此义」翻译为「根本没有这样的道理」基本正确，但「义」在此更侧重「意义、道理、正当性」。综合判断，主要问题在于对「为鬼着耶」的语气把握不够，以及「足知胜如」的「足」理解基本正确但整句表述有偏差。重新斟酌后，主要问题还是「为鬼着耶」的翻译语气偏轻，以及「黑闇之分」的「分」理解可更准确。",
+    "is_fixed": true
+  },
+  "161": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "162": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "163": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "164": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "165": {
+    "status": "翻译错误",
+    "description": "末句'其心得无忧'误译为反问句'他的心灵怎会没有忧愁呢'，原文为肯定陈述'其心得无忧'，语义完全相反。",
+    "is_fixed": true
+  },
+  "166": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "167": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "168": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "169": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "170": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "171": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "172": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "173": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "174": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "175": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "176": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "177": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "178": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "179": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "180": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "181": {
+    "status": "部分缺失",
+    "description": "首句'在家所为作，布施复大会'翻译为'在家人所做的事，就是举办布施大会'，遗漏了'所为作'中'所做的事'的概括性，且'复'字未译出，原意为'布施以及大会'或'又举办大会'；'同梵天所见'翻译为'这与梵天所见相同'，但'同'字实为'共同、一同'之意，指'与梵天共同所见'，翻译略有偏差",
+    "is_fixed": true
+  },
+  "182": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "183": {
+    "status": "部分缺失",
+    "description": "'随彼爱乐施'翻译为'随顺众生所喜爱乐于接受的进行布施'，添加了原文没有的'众生'；'攀缘善功德'翻译为'趋向善功德'，'攀缘'的主动攀取义未充分译出；'以其所建立'翻译为'凭借所建立的功德'，添加了'功德'二字；'或余纯善趣'翻译为'或者投生其他纯粹的善趣'，'或'字理解有误，此处应为'若有剩余'之意",
+    "is_fixed": true
+  },
+  "184": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "185": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "186": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "187": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "188": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "189": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "190": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "191": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "192": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "193": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "194": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "195": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "196": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "197": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "198": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "199": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "200": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "201": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "202": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "203": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "204": {
+    "status": "翻译错误",
+    "description": "「异婆罗门」应译为「另一位婆罗门」或「别的婆罗门」，而非「不同的婆罗门」，此处「异」是「其他、另一」之意，非「不同」之意。",
+    "is_fixed": true
+  },
+  "205": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "206": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "207": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "208": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "209": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "210": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "211": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "212": {
+    "status": "部分缺失",
+    "description": "遗漏了'亦不能得胜过人法'的翻译，即'更不用说证得超越常人的圣法了'之前的'也无法得到'与原文'亦不能得胜过人法'对应不够准确，但主要问题是末尾'亦不能得胜过人法'未翻译",
+    "reviewed": true,
+    "review_note": "问题不成立/无需修复"
+  },
+  "213": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "214": {
+    "status": "翻译错误",
+    "description": "'不得年少财'翻译为'未能获得年少时的财富'有误，此处'年少财'应指因年少时不修梵行而未能获得的修行成果或功德，非世俗财富；且'守死于空池'翻译为'守着干涸的空池等待死亡'，'死'字为衍文，原文无'等待'之意",
+    "is_fixed": true
+  },
+  "215": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "216": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "217": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "218": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "219": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "220": {
+    "status": "正确",
+    "description": "无问题"
+  },
+  "221": {
+    "status": "正确",
+    "description": "无问题"
+  }
+}
