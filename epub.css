@@ -1,0 +1,10 @@
+/* 译文引用块样式：左侧竖线 + 灰色，与原文正体区分 */
+blockquote {
+  margin: 0.8em 0 0.8em 0.2em;
+  padding: 0.1em 0 0.1em 0.9em;
+  border-left: 3px solid #aaaaaa;
+  color: #555555;
+}
+blockquote p {
+  margin: 0.3em 0;
+}
